@@ -62,3 +62,29 @@ gulp.task(
     "images:build"
   )
 );
+
+/**
+ * Hugo Tasks
+ * Usage: gulp hugo:clean - Clean generated pages from build folder
+ * Usage: gulp hugo:build - Build generated pages
+ * Usage: gulp hugo       - Clean build folder, then build generated pages from source
+*/
+gulp.task(
+  "hugo:clean",
+  requireCleanTask(
+    "public/**/*"
+  )
+);
+gulp.task(
+  "hugo:build",
+  requireTask(
+    "hugo"
+  )
+);
+gulp.task(
+  "hugo",
+  gulp.series(
+    "hugo:clean",
+    "hugo:build"
+  )
+);

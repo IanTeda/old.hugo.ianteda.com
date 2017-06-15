@@ -11,12 +11,13 @@ module.exports = (gulp, config, argv, $) => {
   return callback => {
     if (argv.prod) {
       $.shelljs.exec(
-        'jekyll build --config _config.yml,_config.production.yml'
+        'hugo --config config.production.toml'
       );
+      $.util.log('Hugo Build')
       callback();
     } else {
       $.shelljs.exec(
-        'jekyll build --config _config.yml'
+        'hugo --config config.development.toml'
       );
       callback();
     }
