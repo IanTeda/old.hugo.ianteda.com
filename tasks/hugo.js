@@ -17,7 +17,7 @@ module.exports = (gulp, config, argv, $) => {
       callback();
     } else {
       $.shelljs.exec(
-        'hugo --config config.development.toml'
+        'hugo --buildDrafts'
       );
       callback();
     }
