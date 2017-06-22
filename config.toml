@@ -1,72 +1,36 @@
-baseurl             = "https://ianteda.com/" # Must end with /
-languageCode        = "en-us"
-title               = "Ian Teda"
-theme               = "introduction"
-enforce_ssl         = "ianteda.com"
-builddrafts         = true
-canonifyurls        = true
-contentdir          = "content"
-layoutdir           = "layouts"
-publishdir          = "public"
-# disqusshortname   = "xxx" # Enable Disqus for comments
-# googleAnalytics   = "xxx"
+# hostname (and path) to the root, e.g. http://spf13.com/
+baseURL:                    "http://ianteda.com/hugo"
 
-[permalinks]
-fixed = ":title/"
-blog  = "blog/:slug/"
+# Missing translations will default to this content language
+defaultContentLanguage:     "en"
 
-[params]
-author        = "A Clever Author" # Full name shows on blog post pages
-firstname     = "awesome" # First name shows in introduction on main page
-tagline       = "I'm a theme for Hugo." # Appears after the introduction
-introheight   = "fullheight" # Input either 'medium' or 'large' or 'fullheight'
-theme         = "dark" # Choose 'light' or 'dark'
-avatar        = "img/profile.png" # Path to image in static folder eg. img/avatar.png 
-email         = "youremail@email.com" # Shows in contact section, or leave blank to omit
-localtime     = true # Show your current local time in contact section
-timezone      = "America/Los_Angeles" # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-dateform      = "Jan 2, 2006"
-dateformfull  = "Mon Jan 2 2006 15:04:05 EST"
-cachebuster   = true # Add the current unix timestamp in query string for cache busting css assets
-description   = "Website Description"
-faviconfile   = "img/fav.ico"
-highlightjs   = true # Syntax highlighting
-lang          = "en"
-footertext    = "" # Text to show in footer (overrides default text)
-fadein        = true # Turn on/off the fade-in effect
+title:                      "Ian Teda"
 
-showblog        = true # Show Blog section on home page
-showallposts    = false # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
-showlatest      = true # Show latest blog post summary
-sharebuttons    = true # On post pages, show share this social buttons
+# include content marked as draft
+buildDrafts:                false
 
-showprojects    = true # Show Projects section on home page
+# include content with publishdate in the future
+buildFuture:                false
 
-# This is your projects section. Three images of the same dimensions will look the nicest. If images are omitted, text links will be shown.
-project1link    = "#"
-project1img     = "img/project1.jpg"
-project1title   = "Project 1"
+# include content already expired
+buildExpired:               false
 
-project2link    = "#"
-project2img     = "img/project2.jpg"
-project2title   = "Project 2"
+# Build robots.txt file
+enableRobotsTXT:            true
 
-project3link    = "#"
-project3img     = "img/project3.jpg"
-project3title   = "Project 3"
+# Pagination
+paginate:                   10
+paginatePath:               "page"
 
+# enables syntax guessing for code fences without specified language
+pygmentsCodeFencesGuessSyntax: false
 
-# Social icons appear in introduction and contact section. Add as many more as you like.
-# Find icon names here: http://fontawesome.io/cheatsheet/
+# color-codes for highlighting derived from this style
+pygmentsStyle:              "monokai"
 
-[[params.social]]
-url = "https://twitter.com/"
-icon = "twitter"
+# true: use pygments-css or false: color-codes directly
+pygmentsUseClasses:         false
 
-[[params.social]]
-url = "https://facebook.com/"
-icon = "facebook"
-
-[[params.social]]
-url = "https://linkedin.com/"
-icon = "linkedin"
+[Params]
+  Author:                   "Ian Teda"
+  googleAnalytics:          ""
