@@ -1,36 +1,3 @@
-# hostname (and path) to the root, e.g. http://spf13.com/
-baseURL:                    "http://ianteda.com/hugo"
-
-# Missing translations will default to this content language
-defaultContentLanguage:     "en"
-
-title:                      "Ian Teda"
-
-# include content marked as draft
-buildDrafts:                false
-
-# include content with publishdate in the future
-buildFuture:                false
-
-# include content already expired
-buildExpired:               false
-
-# Build robots.txt file
-enableRobotsTXT:            true
-
-# Pagination
-paginate:                   10
-paginatePath:               "page"
-
-# enables syntax guessing for code fences without specified language
-pygmentsCodeFencesGuessSyntax: false
-
-# color-codes for highlighting derived from this style
-pygmentsStyle:              "monokai"
-
-# true: use pygments-css or false: color-codes directly
-pygmentsUseClasses:         false
-
-[Params]
-  Author:                   "Ian Teda"
-  googleAnalytics:          ""
+baseURL = "https://ianteda.com"
+languageCode = "en-us"
+title = "Ian Teda"

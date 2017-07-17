@@ -12,7 +12,7 @@
     "jsdocs": "gulp jsdocs",
     "gulp": "gulp",
     "package-update": "npm-check-updates -u",
-    "start": "gulp"
+    "start": "gulp hugo:build --theme=hasper"
   },
   "repository": {
     "type": "git",
@@ -53,6 +53,7 @@
     "gulp-flatten": "^0.3.1",
     "gulp-gh-pages": "^0.5.2",
     "gulp-gzip": "^1.1.0",
+    "gulp-hash": "^4.1.1",
     "gulp-htmlmin": "^3.0.0",
     "gulp-if": "^2.0.0",
     "gulp-imagemin": "^3.2.0",

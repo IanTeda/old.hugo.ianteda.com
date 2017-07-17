@@ -7,17 +7,19 @@
  * @param {$} $ - Lazy load plugins, save the imports at the start of the file
  * @return {task} Scripts - Task to manage Jekyll in project
  */
+
 module.exports = (gulp, config, argv, $) => {
   return callback => {
     if (argv.prod) {
       $.shelljs.exec(
-        'hugo --config config.production.toml'
+        'hugo --config config.production.toml' +
+        (argv.theme ? ' --theme=' + argv.theme : '') // Use theme passed to CLI if it exists
       );
-      $.util.log('Hugo Build')
       callback();
     } else {
       $.shelljs.exec(
-        'hugo --buildDrafts'
+        'hugo server --buildDrafts' +
+        (argv.theme ? ' --theme=' + argv.theme : '') // Use theme passed to CLI if it exists
       );
       callback();
     }
