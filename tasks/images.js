@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 /**
  * Gulp Image Task
  * @param {gulp} gulp - The gulp module passed in
@@ -8,23 +8,35 @@
  * @return {stream} Stream - Task stream to manage images in project
  */
 
-var hash = require('gulp-hash');
-
 module.exports = (gulp, config, argv, $) => {
   return function() {
-    var stream = gulp
+    let stream = gulp
       // Image sources
-      .src(config.images.src)
+      .src(
+        (argv.theme ? 'themes/' + argv.theme + '/' : '') +
+        config.images.src
+      )
+
       // Minimise images
       .pipe($.imagemin(config.imagemin.options))
-      .pipe(hash())
+
+      // Add hash to image files
+      .pipe($.hash())
+
       // Save images to destination
-      .pipe(gulp.dest(config.images.dest))
-      // Create hash map
-      .pipe(hash.manifest("hash.json"))
-      .on('end', function(){ $.util.log('Images hashed'); })
-      //Put the map in the data directory
-      .pipe(gulp.dest("data/css"));
+      .pipe(gulp.dest(
+        (argv.theme ? 'themes/' + argv.theme + '/' : '') +
+        config.images.dest
+      ))
+
+      // Create hash map of images
+      .pipe($.hash.manifest('hash-images.json'))
+      .on('end', function() {
+        $.util.log('Images hashed');
+      })
+
+      // Put hash map in the data directory
+      .pipe(gulp.dest((argv.theme ? 'themes/' + argv.theme: '') + '/data'));
 
     return stream;
   };

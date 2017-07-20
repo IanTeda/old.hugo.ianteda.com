@@ -1,56 +1,60 @@
-"use strict";
+'use strict';
 
-var autoprefixer = require("autoprefixer");
-var mqpacker = require("css-mqpacker");
-var csswring = require("csswring");
-var pngquant = require("imagemin-pngquant");
+let autoprefixer = require('autoprefixer');
+let mqpacker = require('css-mqpacker');
+let csswring = require('csswring');
+let pngquant = require('imagemin-pngquant');
 
-const assets = "assets/";
-const build = "build/";
-const tmp = ".tmp/";
-const hstatic = "static/";
-const nodeModules = "node_modules/";
-const release = ".release";
+const assets = 'assets/';
+const build = 'build/';
+const tmp = '.tmp/';
+const hstatic = 'static/';
+const nodeModules = 'node_modules/';
+const release = '.release';
+const src = 'src/';
 
 module.exports = {
-  browserSync: {
-    development: [tmp, build],
-    production: build
-  },
   downloads: {
-    src: assets + "/downloads/**/*",
-    dest: tmp + assets + "downloads"
+    src: assets + '/downloads/**/*',
+    dest: tmp + assets + 'downloads',
   },
   fonts: {
     src: [
-      nodeModules + "font-awesome/fonts/**/*.{eot,svg,ttf,woff,woff2,otf}",
-      assets + "fonts/**/*.{eot,svg,ttf,woff,woff2,otf}"
+      nodeModules + 'font-awesome/fonts/**/*.{eot,svg,ttf,woff,woff2,otf}',
+      assets + 'fonts/**/*.{eot,svg,ttf,woff,woff2,otf}',
     ],
-    dest: tmp + assets + "fonts"
+    dest: tmp + assets + 'fonts',
   },
   ghPages: {
     options: {
-      branch: "master",
+      branch: 'master',
       cacheDir: release,
-      remoteUrl: "git@github.com:IanTeda/ianteda.github.io.git"
-    }
+      remoteUrl: 'git@github.com:IanTeda/ianteda.github.io.git',
+    },
   },
   gulpLoadPlugins: {
     options: {
-      DEBUG: false, // when set to true, the plugin will log info to console
-      pattern: ["gulp-*", "gulp.*", "del", "merge2", "shelljs"], // the glob(s) to search for in package.json
-      camelize: true, // if true, transforms hyphenated plugins names to camel case
-      lazy: true // whether the plugins should be lazy loaded on demand
-    }
+      // when set to true, the plugin will log info to console
+      DEBUG: false,
+
+      // the glob(s) to search for in package.json
+      pattern: ['gulp-*', 'gulp.*', 'del', 'merge2', 'shelljs'],
+
+      // if true, transforms hyphenated plugins names to camel case
+      camelize: true,
+
+      // whether the plugins should be lazy loaded on demand
+      lazy: true,
+    },
   },
   gzip: {
     options: {
-      append: true
-    }
+      append: true,
+    },
   },
   html: {
-    src: build + "**/*.html",
-    dest: build
+    src: build + '**/*.html',
+    dest: build,
   },
   htmlmin: {
     options: {
@@ -58,105 +62,105 @@ module.exports = {
       collapseWhitespace: true,
       collapseBooleanAttributes: true,
       removeAttributeQuotes: true,
-      removeRedundantAttributes: true
-    }
+      removeRedundantAttributes: true,
+    },
   },
   inject: {
     ignorePath: tmp,
     options: {
-      read: false
+      read: false,
     },
     scripts: {
-      target: "_includes/scripts.html",
-      references: tmp + assets + "scripts/*.js",
-      destination: "_includes/"
+      target: '_includes/scripts.html',
+      references: tmp + assets + 'scripts/*.js',
+      destination: '_includes/',
     },
     styles: {
-      target: "_includes/styles.html",
-      references: tmp + assets + "styles/*.css",
-      destination: "_includes/"
-    }
+      target: '_includes/styles.html',
+      references: tmp + assets + 'styles/*.css',
+      destination: '_includes/',
+    },
   },
   images: {
-    src: assets + "images/**/*.{png,gif,jpg}",
-    dest: hstatic + "images"
+    src: src + 'images/**/*.{png,gif,jpg}',
+    dest: hstatic + 'images',
   },
   imagemin: {
     options: {
       progressive: true,
       interlaced: true,
       svgoPlugins: [{removeViewBox: false}],
-      use: [pngquant()]
-    }
+      use: [pngquant()],
+    },
   },
   jekyll: {
     dest: build,
-    deploy: build + "**/*",
+    deploy: build + '**/*',
     assets: build + assets,
-    tmp: tmp + assets
+    tmp: tmp + assets,
   },
   jsdoc3: {
     src: [
-      "./gulp/README.md",
-      "./gulp/**/*.js"
+      './gulp/README.md',
+      './gulp/**/*.js',
     ],
     options: {
       opts: {
         encoding: 'utf8',
-        destination: "./gulp/docs",
+        destination: './gulp/docs',
         recurse: true,
-        access: 'all'
+        access: 'all',
       },
       plugins: [
-        "node_modules/jsdoc/plugins/markdown"
+        'node_modules/jsdoc/plugins/markdown',
       ],
       templates: {
         cleverLinks: false,
         monospaceLinks: false,
         default: {
-          outputSourceFiles: true
+          outputSourceFiles: true,
         },
-        path: "ink-docstrap",
-        theme: "cerulean",
-        navType: "vertical",
+        path: 'ink-docstrap',
+        theme: 'cerulean',
+        navType: 'vertical',
         linenums: true,
-        dateFormat: "MMMM Do YYYY, h:mm:ss a"
-      }
-    }
+        dateFormat: 'MMMM Do YYYY, h:mm:ss a',
+      },
+    },
   },
   postcss: {
     processors: [
       autoprefixer({
-        browsers: ["last 1 version"]
+        browsers: ['last 1 version']
       }),
       mqpacker,
-      csswring
-    ]
+      csswring,
+    ],
   },
   scripts: {
-    filename: "main.js",
+    filename: 'main.js',
     src: [
-      nodeModules + "jquery/dist/jquery.js",
-      nodeModules + "wow.js/dist/wow.js",
-      nodeModules + "fitvids/fitvids.js",
-      assets + "scripts/main.js"
+      nodeModules + 'jquery/dist/jquery.js',
+      nodeModules + 'wow.js/dist/wow.js',
+      nodeModules + 'fitvids/fitvids.js',
+      assets + 'scripts/main.js',
     ],
-    dest: tmp + assets + "scripts",
-    build: build + assets + "scripts"
+    dest: tmp + assets + 'scripts',
+    build: build + assets + 'scripts',
   },
   styles: {
-    filename: "main.css",
+    filename: 'main.css',
     css: [
-      nodeModules + "/animate.css/animate.css",
-      nodeModules + "/font-awesome/css/font-awesome.css",
-      assets + "styles/screen.css",
-      assets + "styles/syntax.css"
+      nodeModules + '/animate.css/animate.css',
+      nodeModules + '/font-awesome/css/font-awesome.css',
+      assets + 'styles/screen.css',
+      assets + 'styles/syntax.css',
     ],
-    sass: assets + "sass/main.scss",
-    dest: tmp + assets + "styles"
+    sass: assets + 'sass/main.scss',
+    dest: tmp + assets + 'styles',
   },
   uglify: {
     options: {
-    }
-  }
+    },
+  },
 };
