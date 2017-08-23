@@ -1,3 +1,21 @@
-baseURL = "https://ianteda.com"
-languageCode = "en-us"
-title = "Ian Teda"
+baseURL =                   "https://ianteda.com"
+languageCode =              "en-us"
+title =                     "Ian Teda"
+theme =                     "hugo-theme-ianteda2017"
+canonifyURLs =              true
+
+# Build to temp folder during development
+publishDir =                "docs"
+
+googleAnalytics =           "UA-71253711-1"
+
+[params]
+    author =                "Ian Teda"
+    email =                 "ian@teda.id.au"
+    facebook =              "ian.teda"
+    github =                "IanTeda"
+    twitter =               "IanTeda"
+    linkedin =              "in/ianteda"
+    vimeo =                 "ianteda"
+    gplus =                 "IanTeda"
+    youtube =               "IanTeda"

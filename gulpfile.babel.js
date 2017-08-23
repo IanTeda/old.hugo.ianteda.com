@@ -88,3 +88,5 @@ gulp.task(
     "hugo:build"
   )
 );
+
+gulp.task('default', gulp.parallel('hugo'));

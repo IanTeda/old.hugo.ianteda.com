@@ -1,4 +1,3 @@
-"use strict";
 /**
  * Gulp Jekyll Task
  * @param {gulp} gulp - The gulp module passed in
@@ -9,17 +8,19 @@
  */
 
 module.exports = (gulp, config, argv, $) => {
-  return callback => {
+  return (callback) => {
     if (argv.prod) {
       $.shelljs.exec(
         'hugo --config config.production.toml' +
-        (argv.theme ? ' --theme=' + argv.theme : '') // Use theme passed to CLI if it exists
+        // Use theme passed to CLI if it exists
+        (argv.theme ? ' --theme=' + argv.theme : '')
       );
       callback();
     } else {
       $.shelljs.exec(
         'hugo server --buildDrafts' +
-        (argv.theme ? ' --theme=' + argv.theme : '') // Use theme passed to CLI if it exists
+        // Use theme passed to CLI if it exists
+        (argv.theme ? ' --theme=' + argv.theme : '')
       );
       callback();
     }
