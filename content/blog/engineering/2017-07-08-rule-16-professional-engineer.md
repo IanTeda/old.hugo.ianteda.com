@@ -5,7 +5,7 @@ date: 2017-07-08
 categories: ["blog", "engineering"]
 tags: ["Engineering Rule Book"]
 featured: true
-cover: images/cover-yellow-line.jpg
+cover: cover-blossom
 slug: rule-16-the-professional-engineer
 ---
 

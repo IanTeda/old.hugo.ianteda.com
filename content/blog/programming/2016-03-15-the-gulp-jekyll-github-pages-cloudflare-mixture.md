@@ -4,7 +4,7 @@ description: Simple, fast, flexible, secure & https. Total cost, $15AUD for doma
 date: 2016-03-15
 category: ["blog", "programming"]
 tags: ["jekyll", "gulp", "github","Cloudflare"]
-cover: /images/cover-old-typewriter.jpg
+cover: cover-old-typewriter
 slug: the-gulp-jekyll-github-pages-cloudflare-mixture
 ---
 

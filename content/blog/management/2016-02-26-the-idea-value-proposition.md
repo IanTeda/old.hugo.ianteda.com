@@ -4,7 +4,7 @@ description: Ideas are easy, cheap even. It is the execution that is hard, and b
 date: 2016-02-26
 category: ["blog", "management"]
 tags: ["entrepreneur"]
-cover: /assets/images/cover-edison-lab.jpg
+cover: cover-edison-lab
 slug: the-idea-value-proposition
 ---
 

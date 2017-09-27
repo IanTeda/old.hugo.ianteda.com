@@ -5,7 +5,7 @@ date: 2017-05-03
 tags: ["Engineering Rule Book"]
 categories: ["blog", "engineering"]
 featured: true
-cover: /images/cover-central-roof.jpg
+cover: cover-central-roof
 slug: 2017-05-03-rule-8-eye-and-ear
 ---
 

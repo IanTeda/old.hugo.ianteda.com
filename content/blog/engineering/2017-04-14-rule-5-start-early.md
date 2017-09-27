@@ -5,7 +5,7 @@ date: 2017-04-14
 tags: ["Engineering Rule Book"]
 categories: ["blog", "engineering"]
 featured: true
-cover: /images/cover-center-point-morning.jpg
+cover: cover-center-point-morning
 slug: rule-5-start-early
 ---
 

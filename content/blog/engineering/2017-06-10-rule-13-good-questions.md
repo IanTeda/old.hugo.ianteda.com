@@ -5,7 +5,7 @@ date: 2017-06-10
 tags: ["Engineering Rule Book"]
 categories: ["blog", "engineering"]
 featured: true
-cover: /images/cover-tempe-sunset.jpg
+cover: cover-tempe-sunset
 slug: rule-13-good-questions
 ---
 

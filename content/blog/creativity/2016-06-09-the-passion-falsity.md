@@ -4,7 +4,7 @@ description: Don't follow your passion, it isn’t waiting for you. Instead crea
 date: 2016-06-09
 category: ["blog","creativity"]
 tags: ["life"]
-cover: /assets/images/cover-sunrise-grass.jpg
+cover: cover-sunrise-grass
 slug: the-passion-falsity
 ---
 

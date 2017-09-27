@@ -4,7 +4,7 @@ description: One piece of software talking to another piece of software
 date: 2016-08-26
 category: ["blog", "programming"]
 tags: ["api"]
-cover: /images/cover-old-typewriter.jpg
+cover: cover-old-typewriter
 slug: the-api-design-guide
 ---
 

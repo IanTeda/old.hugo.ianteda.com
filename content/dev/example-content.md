@@ -1,6 +1,6 @@
 ---
 title: "Example"
-date: 2017-07-29T10:51:17+10:00
+date: 2016-07-29T10:51:17+10:00
 draft: true
 ---
 <div class="message"> Howdy! This is an example blog post that shows several

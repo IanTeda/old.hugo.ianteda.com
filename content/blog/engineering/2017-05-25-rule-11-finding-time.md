@@ -5,7 +5,7 @@ date: 2017-05-25
 tags: ["Engineering Rule Book"]
 categories: ["blog", "engineering"]
 featured: true
-cover: /images/cover-autumn-leaves.jpg
+cover: cover-autumn-leaves
 slug: rule-11-finding-time
 ---
 

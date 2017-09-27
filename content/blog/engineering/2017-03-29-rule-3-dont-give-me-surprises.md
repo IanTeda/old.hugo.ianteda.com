@@ -5,7 +5,7 @@ date: 2017-03-29
 tags: ["Engineering Rule Book"]
 categories: ["blog", "engineering"]
 featured: true
-cover: /images/cover-slippery-surface.jpg
+cover: cover-slippery-surface
 slug: rule-3-dont-give-me-surprises
 ---
 

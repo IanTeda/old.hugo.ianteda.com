@@ -5,7 +5,7 @@ date: 2017-06-02
 tags: ["Engineering Rule Book"]
 categories: ["blog", "engineering"]
 featured: true
-cover: /images/cover-old-rail.jpg
+cover: cover-old-rail
 slug: rule-12-hard-things
 ---
 

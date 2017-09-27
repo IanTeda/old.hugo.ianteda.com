@@ -4,7 +4,7 @@ description: A short blog based on the eulogy I gave at my fathers funeral.
 date: 2015-11-10
 category: ["blog","creativity"]
 tags: ["life"]
-cover: /images/cover-dirk-teda-rover.jpg
+cover: cover-dirk-teda-rover
 slug: a-journey-with-cancer
 ---
 I would like to acknowledge and thank all those that helped and supported my father on his final journey, and the Teda family after his passing. Your love is very much appreciated and heartfelt. Thank You.

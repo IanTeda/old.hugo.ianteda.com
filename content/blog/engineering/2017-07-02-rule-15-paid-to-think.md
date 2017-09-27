@@ -5,7 +5,7 @@ date: 2017-07-02
 tags: ["Engineering Rule Book"]
 categories: ["blog", "engineering"]
 featured: true
-cover: images/cover-bw-highrise.jpg
+cover: cover-ecd-scaffold
 slug: rule-15-paid-to-think
 ---
 

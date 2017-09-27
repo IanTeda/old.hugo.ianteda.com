@@ -4,7 +4,7 @@ description: Mental models are an abstraction of reality, a simplification of an
 date: 2016-04-13
 category: ["blog","creativity"]
 tags: ["life"]
-cover: /images/cover-glob.jpg
+cover: cover-glob
 slug: the-mental-model-definition
 ---
 > Man seeks for himself a simplified and lucid image of the world.

@@ -5,7 +5,7 @@ date: 2017-04-25
 tags: ["Engineering Rule Book"]
 categories: ["blog", "engineering"]
 featured: true
-cover: /assets/images/cover-helens-tunnel.jpg
+cover: cover-helens-tunnel
 slug: rule-7-do-not-walk-past-it
 ---
 

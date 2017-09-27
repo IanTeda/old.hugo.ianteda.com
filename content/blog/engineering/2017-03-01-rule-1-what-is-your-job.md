@@ -5,7 +5,7 @@ date: 2017-03-01
 tags: ["Engineering Rule Book"]
 categories: ["blog", "engineering"]
 featured: true
-cover: /images/cover-hb-walkway.jpg
+cover: cover-hb-walkway
 slug: rule-1-what-is-your-job
 ---
 

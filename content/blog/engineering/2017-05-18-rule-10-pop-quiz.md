@@ -5,7 +5,7 @@ date: 2017-05-18
 tags: ["Engineering Rule Book"]
 categories: ["blog", "engineering"]
 featured: true
-cover: /images/cover-wharf-timbers.jpg
+cover: cover-wharf-timbers
 slug: rule-10-pop-quiz
 ---
 > You don't know, what you don't know.<br/><cite>- Unknown</cite>

@@ -5,7 +5,7 @@ date: 2017-03-25
 tags: ["Engineering Rule Book"]
 categories: ["blog", "engineering"]
 featured: true
-cover: /images/cover-hydepark-night.jpg
+cover: cover-hydepark-night
 slug: rule-2-opposing-views
 ---
 

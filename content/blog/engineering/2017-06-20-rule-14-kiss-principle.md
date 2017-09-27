@@ -5,7 +5,7 @@ date: 2017-06-20
 tags: ["Engineering Rule Book"]
 categories: ["blog", "engineering"]
 featured: true
-cover: /images/cover-lane-way.jpg
+cover: cover-lane-way
 slug: rule-14-kiss-principle
 ---
 

@@ -5,7 +5,7 @@ date: 2017-05-10
 tags: ["Engineering Rule Book"]
 categories: ["blog", "engineering"]
 featured: true
-cover: /images/cover-coat-hanger.jpg
+cover: cover-coat-hanger
 slug: rule-9-always-start-with-the-end-in-mind
 ---
 

@@ -4,7 +4,7 @@ description: It is our habits that influence our actions, and it is our actions 
 date: 2016-09-27
 category: ["blog","creativity"]
 tags: ["life"]
-cover: /images/cover-car-rock.jpg
+cover: cover-car-rock
 slug: the-habit-modification
 ---
 > Your beliefs become your thoughts; Your thoughts become your words; Your words become your actions; Your actions become your habits; Your habits become your values; Your values become your destiny.

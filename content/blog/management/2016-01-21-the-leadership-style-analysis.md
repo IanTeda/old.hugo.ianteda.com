@@ -4,7 +4,7 @@ description: You need to find your own style of leadership, one that complements
 date: 2016-01-21
 category: ["blog", "management"]
 tags: ["leadership"]
-cover: /images/cover-stars.jpg
+cover: cover-stars
 slug: the-leadership-style-analysis
 ---
 

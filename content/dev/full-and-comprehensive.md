@@ -1,6 +1,6 @@
 ---
 title: "Full And Comprehensive"
-date: 2017-07-29T10:48:42+10:00
+date: 2016-07-29T10:48:42+10:00
 draft: true
 ---
 <p>This is just an <em>ipsis verbis</em> copy of the first example running on the <a href="http://demo.ghost.io">Ghost Demo</a>. This shows how you can use html styling to achieve your hopes.</p>

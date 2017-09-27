@@ -4,7 +4,7 @@ description: Why I created ianteda.com and what I am hoping to create.
 date: 2016-01-21
 categories: ["blog", "management"]
 tags: ["ianteda.com"]
-cover: /images/cover-old-typewriter.jpg
+cover: cover-old-typewriter
 slug: the-ianteda-com-directive
 ---
 ![Ian Teda photo](/assets/images/head-shot.png "Optional Title"){: .img-circle }

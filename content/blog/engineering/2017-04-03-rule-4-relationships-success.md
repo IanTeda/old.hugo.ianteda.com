@@ -5,7 +5,7 @@ date: 2017-04-03
 tags: ["Engineering Rule Book"]
 categories: ["blog", "engineering"]
 featured: true
-cover: /images/cover-country-road.jpg
+cover: cover-country-road
 slug: rule-4-relationships-success
 ---
 

@@ -1,21 +1,43 @@
 baseURL =                   "https://ianteda.com"
 languageCode =              "en-us"
 title =                     "Ian Teda"
-theme =                     "hugo-theme-ianteda2017"
+theme =                     "hugo_theme_materialize"
 canonifyURLs =              true
 
 # Build to temp folder during development
-publishDir =                "docs"
+publishDir =                "public"
 
 googleAnalytics =           "UA-71253711-1"
 
 [params]
     author =                "Ian Teda"
+    tagLine =               "Husband, father, engineer & explorer."
     email =                 "ian@teda.id.au"
-    facebook =              "ian.teda"
-    github =                "IanTeda"
-    twitter =               "IanTeda"
-    linkedin =              "in/ianteda"
-    vimeo =                 "ianteda"
-    gplus =                 "IanTeda"
-    youtube =               "IanTeda"
+    facebook =              "https://www.facebook.com/ian.teda"
+    github =                "https://github.com/IanTeda"
+    twitter =               "https://twitter.com/IanTeda"
+    linkedin =              "https://www.linkedin.com/in/ianteda/"
+    instagram =             "https://www.instagram.com/ianteda/"
+    vimeo =                 "https://vimeo.com/ianteda"
+    gplus =                 "https://plus.google.com/+IanTeda"
+    youtube =               "https://www.youtube.com/user/IanTeda/"
+
+[[menu.index]]
+    name = "about hugo"
+    identifier = "about"
+    url = "/about/"
+[[menu.index]]
+    name = "getting started"
+    url = "/getting-started/"
+[[menu.index_dropdown]]
+    name = "getting started"
+    url = "/getting-started/"
+[[menu.index_dropdown]]
+    name = "getting started"
+    url = "/getting-started/"
+[[menu.index_dropdown]]
+    name = "getting started"
+    url = "/getting-started/"
+[[menu.index_dropdown]]
+    name = "getting started"
+    url = "/getting-started/"

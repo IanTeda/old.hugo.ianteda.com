@@ -4,7 +4,7 @@ description: The chains of habit are generally too small to be felt until they a
 date: 2016-09-27
 category: ["blog","creativity"]
 tags: ["life"]
-cover: /images/cover-locks.jpg
+cover: cover-locks
 slug: the-habit-loop
 ---
 > A habit is something you can do without thinking — which is why most of us have so many of them.

@@ -4,7 +4,7 @@ description: If you are not branding yourself, others are doing it for you.
 date: 2016-05-08
 category: ["blog", "management"]
 tags: ["marketing"]
-cover: /images/cover-ian-intake-tower.jpg
+cover: cover-ian-intake-tower
 slug: the-personal-branding-defence
 ---
 > Start by knowing what you want and who you are, build credibility around it and deliver it online in a compelling way.

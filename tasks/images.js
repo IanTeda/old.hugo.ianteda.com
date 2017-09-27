@@ -12,10 +12,13 @@ module.exports = (gulp, config, argv, $) => {
   return function() {
     let stream = gulp
       // Image sources
-      .src(
-        (argv.theme ? 'themes/' + argv.theme + '/' : '') +
-        config.images.src
-      )
+      .src(config.images.src)
+
+      // Create response copies and compress
+      .pipe($.responsive(
+        config.images.responsive.config,
+        config.images.responsive.global
+      ))
 
       // Minimise images
       .pipe($.imagemin(config.imagemin.options))
@@ -24,19 +27,16 @@ module.exports = (gulp, config, argv, $) => {
       .pipe($.hash())
 
       // Save images to destination
-      .pipe(gulp.dest(
-        (argv.theme ? 'themes/' + argv.theme + '/' : '') +
-        config.images.dest
-      ))
+      .pipe(gulp.dest(config.images.dest))
 
       // Create hash map of images
-      .pipe($.hash.manifest('hash-images.json'))
+      .pipe($.hash.manifest('images.json'))
       .on('end', function() {
         $.util.log('Images hashed');
       })
 
-      // Put hash map in the data directory
-      .pipe(gulp.dest((argv.theme ? 'themes/' + argv.theme: '') + '/data'));
+      // Write has map to /data folder
+      .pipe(gulp.dest('data'));
 
     return stream;
   };

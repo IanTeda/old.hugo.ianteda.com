@@ -4,7 +4,7 @@ description: A Master Mind Group can be thought of as a peer advisory board that
 date: 2016-02-17
 category: ["blog", "management"]
 tags: ["business"]
-cover: /images/cover-franklin.jpg
+cover: cover-franklin
 slug: the-mastermind-brief
 ---
 > No two minds ever come together without thereby creating a third, invisible intangible force, which may be likened to a third mind [the master mind].

@@ -4,7 +4,7 @@ description: The turtle wins the race not by aiming for big (fast) wins, instead
 date: 2016-07-01
 category: ["blog", "management"]
 tags: ["leadership"]
-cover: /images/cover-turtle.jpg
+cover: cover-turtle
 slug: the-turtle-mindset
 ---
 

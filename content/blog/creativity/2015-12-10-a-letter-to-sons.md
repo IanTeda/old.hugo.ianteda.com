@@ -4,7 +4,7 @@ description: Live, love, be generous, show respect and give thanks.
 date: 2015-12-10
 category: ["blog","creativity"]
 tags: ["life"]
-cover: /images/cover-slinky.jpg
+cover: cover-slinky
 slug: a-letter-to-sons
 ---
 

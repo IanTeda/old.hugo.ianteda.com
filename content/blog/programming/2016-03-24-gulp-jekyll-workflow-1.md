@@ -4,7 +4,7 @@ description: Part 1 - Gulp design pattern for working with Jekyll website genera
 date: 2016-03-24
 category: ["blog", "programming"]
 tags: ["jekyll", "gulp"]
-cover: /images/cover-code-gulp.jpg
+cover: cover-code-gulp
 slug: gulp-jekyll-workflow-1
 ---
 

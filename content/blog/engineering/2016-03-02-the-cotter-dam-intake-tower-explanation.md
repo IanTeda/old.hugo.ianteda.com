@@ -5,8 +5,7 @@ date: 2016-03-02
 tags: ["Work"]
 categories: ["blog", "engineering"]
 featured: false
-cover: /assets/images/cover-intake-tower.jpg
-logo: /assets/images/logo-light.png
+cover: cover-intake-tower
 ---
 
 A short video featuring yours truly, and the construction of the intake tower on the Cotter Dam project.

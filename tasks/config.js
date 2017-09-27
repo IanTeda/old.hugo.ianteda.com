@@ -82,8 +82,44 @@ module.exports = {
     },
   },
   images: {
+    extensions: src + 'images/**/*.{png,gif,jpg}',
     src: src + 'images/**/*.{png,gif,jpg}',
     dest: hstatic + 'images',
+    responsive: {
+      config: {
+        '*': [
+          {
+            width: 576,
+            rename: {
+              suffix: '@mobile',
+              extname: '.jpg',
+            },
+            withoutEnlargement: false,
+          }, {
+            width: 768,
+            rename: {
+              suffix: '@tablet',
+              extname: '.jpg',
+            },
+            withoutEnlargement: false,
+          }, {
+            width: 992,
+            rename: {
+              suffix: '@desktop',
+              extname: '.jpg',
+            },
+            withoutEnlargement: false,
+          }, {
+            width: 1200,
+            rename: {
+              suffix: '@highres',
+              extname: '.jpg',
+            },
+            withoutEnlargement: false,
+          },
+        ],
+      },
+    },
   },
   imagemin: {
     options: {
