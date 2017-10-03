@@ -2,7 +2,7 @@
 title: The Turtle Mindset
 description: The turtle wins the race not by aiming for big (fast) wins, instead he stays on his path with a single minded focus.
 date: 2016-07-01
-category: ["blog", "management"]
+category: ["leadership"]
 tags: ["leadership"]
 cover: cover-turtle
 slug: the-turtle-mindset

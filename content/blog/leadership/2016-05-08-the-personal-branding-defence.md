@@ -2,7 +2,7 @@
 title: The Personal Branding Defence
 description: If you are not branding yourself, others are doing it for you.
 date: 2016-05-08
-category: ["blog", "management"]
+category: ["leadership"]
 tags: ["marketing"]
 cover: cover-ian-intake-tower
 slug: the-personal-branding-defence

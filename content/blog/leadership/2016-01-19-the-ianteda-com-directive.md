@@ -2,7 +2,7 @@
 title: The ianteda.com Directive
 description: Why I created ianteda.com and what I am hoping to create.
 date: 2016-01-21
-categories: ["blog", "management"]
+categories: ["leadership"]
 tags: ["ianteda.com"]
 cover: cover-old-typewriter
 slug: the-ianteda-com-directive

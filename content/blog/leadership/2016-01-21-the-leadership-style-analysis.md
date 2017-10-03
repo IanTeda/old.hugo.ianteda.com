@@ -2,7 +2,7 @@
 title: The Leadership Style Analysis
 description: You need to find your own style of leadership, one that complements your character. However, good leaders use all three styles depending on the dynamics.
 date: 2016-01-21
-category: ["blog", "management"]
+category: ["leadership"]
 tags: ["leadership"]
 cover: cover-stars
 slug: the-leadership-style-analysis
