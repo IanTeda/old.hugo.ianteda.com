@@ -22,25 +22,18 @@ googleAnalytics =           "UA-71253711-1"
     gplus =                 "https://plus.google.com/+IanTeda"
     youtube =               "https://www.youtube.com/user/IanTeda/"
 
-[[menu.index]]
-    name = "about hugo"
-    identifier = "about"
-    url = "/about/"
-[[menu.index]]
-    name = "getting started"
-    url = "/getting-started/"
-[[menu.index_dropdown]]
-    name = "getting started"
-    url = "/getting-started/"
-[[menu.index_dropdown]]
-    name = "getting started"
-    url = "/getting-started/"
-[[menu.index_dropdown]]
-    name = "getting started"
-    url = "/getting-started/"
-[[menu.index_dropdown]]
-    name = "getting started"
-    url = "/getting-started/"
+[[menu.categories]]
+    name = "Creativity"
+    url = "/creativity"
+[[menu.categories]]
+    name = "Engineering"
+    url = "/engineering"
+[[menu.categories]]
+    name = "Leadership"
+    url = "/leadership"
+[[menu.categories]]
+    name = "Programming"
+    url = "/programming"
 
 [related]
 
