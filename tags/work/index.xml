@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work on Ian Teda</title>
-    <link>https://ianteda.com/v2/tags/work/</link>
+    <link>https://test.ianteda.com/tags/work/</link>
     <description>Recent content in Work on Ian Teda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Mar 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ianteda.com/v2/tags/work/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://test.ianteda.com/tags/work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Video - The Cotter Dam Intake Tower Explanation</title>
-      <link>https://ianteda.com/v2/engineering/2016-03-02-the-cotter-dam-intake-tower-explanation/</link>
+      <link>https://test.ianteda.com/engineering/2016-03-02-the-cotter-dam-intake-tower-explanation/</link>
       <pubDate>Wed, 02 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ianteda.com/v2/engineering/2016-03-02-the-cotter-dam-intake-tower-explanation/</guid>
+      <guid>https://test.ianteda.com/engineering/2016-03-02-the-cotter-dam-intake-tower-explanation/</guid>
       <description>A short video featuring yours truly, and the construction of the intake tower on the Cotter Dam project.
   Video &amp;amp; Cover Image Credit: Icon Water{:target=&amp;rdquo;_blank&amp;rdquo;} &amp;amp; Richard Snashall{:target=&amp;rdquo;_blank&amp;rdquo;}</description>
     </item>

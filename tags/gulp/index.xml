@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gulp on Ian Teda</title>
-    <link>https://ianteda.com/v2/tags/gulp/</link>
+    <link>https://test.ianteda.com/tags/gulp/</link>
     <description>Recent content in Gulp on Ian Teda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Mar 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ianteda.com/v2/tags/gulp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://test.ianteda.com/tags/gulp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gulp Jekyll Workflow - Part 1 Design Pattern</title>
-      <link>https://ianteda.com/v2/programming/gulp-jekyll-workflow-1/</link>
+      <link>https://test.ianteda.com/programming/gulp-jekyll-workflow-1/</link>
       <pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ianteda.com/v2/programming/gulp-jekyll-workflow-1/</guid>
+      <guid>https://test.ianteda.com/programming/gulp-jekyll-workflow-1/</guid>
       <description>Always start with the end in mind. So you know what direction to travel  — Ian Teda 
  Keeping the end in mind, I listed four design criteria (patterns) to target when writting Gulp tasks. I wanted my workflow to be modern, simple, configurable and modulised.
 Design Criteria/Patterns
@@ -25,10 +25,10 @@ Design Criteria/Patterns
     
     <item>
       <title>The Gulp, Jekyll, Github Pages &amp; Cloudflare Mixture</title>
-      <link>https://ianteda.com/v2/programming/the-gulp-jekyll-github-pages-cloudflare-mixture/</link>
+      <link>https://test.ianteda.com/programming/the-gulp-jekyll-github-pages-cloudflare-mixture/</link>
       <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ianteda.com/v2/programming/the-gulp-jekyll-github-pages-cloudflare-mixture/</guid>
+      <guid>https://test.ianteda.com/programming/the-gulp-jekyll-github-pages-cloudflare-mixture/</guid>
       <description>Flexible, simple, fast, secure &amp;amp; https. Total cost, $15AUD for domain registration.  — Ian Teda 
  Web technologies for development hosting and security are vast. With proponents singing their own praises. At the start of my ianteda.com project 1 I looked around at the options.
 Wordpress{:target=&amp;rdquo;_blank&amp;rdquo;} serves up over 26%2 of the internet. Been there done that, so I crossed it off the list .

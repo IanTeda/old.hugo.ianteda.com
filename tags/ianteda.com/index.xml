@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ianteda.com on Ian Teda</title>
-    <link>https://ianteda.com/v2/tags/ianteda.com/</link>
+    <link>https://test.ianteda.com/tags/ianteda.com/</link>
     <description>Recent content in Ianteda.com on Ian Teda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Jan 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ianteda.com/v2/tags/ianteda.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://test.ianteda.com/tags/ianteda.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The ianteda.com Directive</title>
-      <link>https://ianteda.com/v2/leadership/the-ianteda-com-directive/</link>
+      <link>https://test.ianteda.com/leadership/the-ianteda-com-directive/</link>
       <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ianteda.com/v2/leadership/the-ianteda-com-directive/</guid>
+      <guid>https://test.ianteda.com/leadership/the-ianteda-com-directive/</guid>
       <description>{: .img-circle }
 Hello and thank you for visiting ianteda.com, my little corner of the Internet.
 I created ianteda.com to be useful. By sharing content around ideas, thoughts and projects I am working on. Second to being useful, I wanted to build and manage my - Ian Teda - professional image, brand and authority.

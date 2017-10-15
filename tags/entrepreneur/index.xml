@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entrepreneur on Ian Teda</title>
-    <link>https://ianteda.com/v2/tags/entrepreneur/</link>
+    <link>https://test.ianteda.com/tags/entrepreneur/</link>
     <description>Recent content in Entrepreneur on Ian Teda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Feb 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ianteda.com/v2/tags/entrepreneur/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://test.ianteda.com/tags/entrepreneur/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Idea Value Proposition</title>
-      <link>https://ianteda.com/v2/leadership/the-idea-value-proposition/</link>
+      <link>https://test.ianteda.com/leadership/the-idea-value-proposition/</link>
       <pubDate>Fri, 26 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ianteda.com/v2/leadership/the-idea-value-proposition/</guid>
+      <guid>https://test.ianteda.com/leadership/the-idea-value-proposition/</guid>
       <description>&amp;ldquo;Daring ideas are like chessmen moved forward. They may be beaten, but they may start a winning game.&amp;rdquo;  &amp;ndash; Johann Wolfgang von Goethe
  Ideas are easy, cheap even. It is the execution that is hard and because it is hard it is worth millions. If the execution wasn&amp;rsquo;t hard everyone would be doing it. And if everyone was doing it, then it would be worthless and quickly become a race to the bottom.</description>
     </item>
