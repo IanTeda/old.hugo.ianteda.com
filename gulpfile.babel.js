@@ -63,6 +63,8 @@ gulp.task(
   )
 );
 
+
+
 /**
  * Hugo Tasks
  * Usage: gulp hugo:clean - Clean generated pages from build folder
@@ -87,6 +89,15 @@ gulp.task(
     "hugo:clean",
     "hugo:build"
   )
+);
+
+/**
+ * GitHub Pages Task
+ * usage: gulp gh-pages - Push files to GitHub registry
+ */
+gulp.task(
+  "gh-pages",
+  requireTask("gh-pages")
 );
 
 gulp.task('default', gulp.parallel('hugo'));

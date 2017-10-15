@@ -1,8 +1,8 @@
-baseURL =                   "https://ianteda.com"
+baseURL =                   "https://ianteda.com/v2"
 languageCode =              "en-us"
 title =                     "Ian Teda"
 theme =                     "hugo_theme_materialize"
-canonifyURLs =              true
+canonifyURLs =              false
 
 # Build to temp folder during development
 publishDir =                "public"
@@ -13,6 +13,8 @@ googleAnalytics =           "UA-71253711-1"
     author =                "Ian Teda"
     tagLine =               "Husband, father, engineer & explorer."
     email =                 "ian@teda.id.au"
+    indexHeader =           "cover-bw-highrise"
+    now =                   "now.html"
     facebook =              "https://www.facebook.com/ian.teda"
     github =                "https://github.com/IanTeda"
     twitter =               "https://twitter.com/IanTeda"
@@ -24,16 +26,16 @@ googleAnalytics =           "UA-71253711-1"
 
 [[menu.categories]]
     name = "Creativity"
-    url = "/creativity"
+    url = "creativity"
 [[menu.categories]]
     name = "Engineering"
-    url = "/engineering"
+    url = "engineering"
 [[menu.categories]]
     name = "Leadership"
-    url = "/leadership"
+    url = "leadership"
 [[menu.categories]]
     name = "Programming"
-    url = "/programming"
+    url = "programming"
 
 [related]
 

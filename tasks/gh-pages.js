@@ -9,10 +9,9 @@
  */
 module.exports = (gulp, config, argv, $) => {
   return function() {
-    var stream = gulp
-      .src(config.jekyll.deploy)
+    let stream = gulp
+      .src(config.ghPages.src)
       .pipe($.ghPages(config.ghPages.options));
-
     return stream;
   };
 };

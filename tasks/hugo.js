@@ -10,18 +10,10 @@
 module.exports = (gulp, config, argv, $) => {
   return (callback) => {
     if (argv.prod) {
-      $.shelljs.exec(
-        'hugo --config config.production.toml' +
-        // Use theme passed to CLI if it exists
-        (argv.theme ? ' --theme=' + argv.theme : '')
-      );
+      $.shelljs.exec('hugo');
       callback();
     } else {
-      $.shelljs.exec(
-        'hugo server --buildDrafts' +
-        // Use theme passed to CLI if it exists
-        (argv.theme ? ' --theme=' + argv.theme : '')
-      );
+      $.shelljs.exec('hugo server --buildDrafts');
       callback();
     }
   };
