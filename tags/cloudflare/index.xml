@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloudflare on Ian Teda</title>
+    <link>https://ianteda.com/v2/tags/cloudflare/</link>
+    <description>Recent content in Cloudflare on Ian Teda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Mar 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ianteda.com/v2/tags/cloudflare/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Gulp, Jekyll, Github Pages &amp; Cloudflare Mixture</title>
+      <link>https://ianteda.com/v2/programming/the-gulp-jekyll-github-pages-cloudflare-mixture/</link>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ianteda.com/v2/programming/the-gulp-jekyll-github-pages-cloudflare-mixture/</guid>
+      <description>Flexible, simple, fast, secure &amp;amp; https. Total cost, $15AUD for domain registration.  — Ian Teda 
+ Web technologies for development hosting and security are vast. With proponents singing their own praises. At the start of my ianteda.com project 1 I looked around at the options.
+Wordpress{:target=&amp;rdquo;_blank&amp;rdquo;} serves up over 26%2 of the internet. Been there done that, so I crossed it off the list .
+I almost settled on Ghost{:target=&amp;rdquo;_blank&amp;rdquo;}.</description>
+    </item>
+    
+  </channel>
+</rss>

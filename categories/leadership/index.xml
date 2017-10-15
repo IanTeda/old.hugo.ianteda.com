@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leadership on Ian Teda</title>
+    <link>https://ianteda.com/v2/categories/leadership/</link>
+    <description>Recent content in Leadership on Ian Teda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ianteda.com/v2/categories/leadership/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The ianteda.com Directive</title>
+      <link>https://ianteda.com/v2/leadership/the-ianteda-com-directive/</link>
+      <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ianteda.com/v2/leadership/the-ianteda-com-directive/</guid>
+      <description>{: .img-circle }
+Hello and thank you for visiting ianteda.com, my little corner of the Internet.
+I created ianteda.com to be useful. By sharing content around ideas, thoughts and projects I am working on. Second to being useful, I wanted to build and manage my - Ian Teda - professional image, brand and authority.
+The concept of being useful came from Scott Adams{:target=&amp;rdquo;_blank&amp;rdquo;} the creator of the Dilbert Cartoons. The answer to the ultimate question of Life, the Universe, and Everything is not 42{:target=&amp;rdquo;_blank&amp;rdquo;} but &amp;ldquo;be useful&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

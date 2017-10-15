@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ian Teda</title>
+    <link>https://ianteda.com/v2/categories/</link>
+    <description>Recent content in Categories on Ian Teda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ianteda.com/v2/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://ianteda.com/v2/categories/blog/</link>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ianteda.com/v2/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering</title>
+      <link>https://ianteda.com/v2/categories/engineering/</link>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ianteda.com/v2/categories/engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leadership</title>
+      <link>https://ianteda.com/v2/categories/leadership/</link>
+      <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ianteda.com/v2/categories/leadership/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
