@@ -1,13 +1,17 @@
-baseURL =                   "https://ianteda.com/v2"
+baseURL =                   "https://test.ianteda.com/"
 languageCode =              "en-us"
 title =                     "Ian Teda"
 theme =                     "hugo_theme_materialize"
 canonifyURLs =              false
+uglyurls =                  true
 
 # Build to temp folder during development
-publishDir =                "public"
+publishDir =                ".build"
 
 googleAnalytics =           "UA-71253711-1"
+
+[permalinks]
+    blog = "blog"
 
 [params]
     author =                "Ian Teda"

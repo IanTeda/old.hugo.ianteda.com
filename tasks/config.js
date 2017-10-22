@@ -24,10 +24,10 @@ module.exports = {
     dest: tmp + assets + 'fonts',
   },
   ghPages: {
-    src: 'public/**/*',
+    src: '.build/**/*',
     options: {
       branch: 'gh-pages',
-      cacheDir: '.publish',
+      cacheDir: '.tmp',
       remoteUrl: 'git@github.com:IanTeda/hugo.ianteda.com.git',
     },
   },
