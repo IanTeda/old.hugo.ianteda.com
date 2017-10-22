@@ -3,3 +3,4 @@ data/**/hash.*
 static/
 public/
 themes/
+.build/

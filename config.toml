@@ -1,4 +1,4 @@
-baseURL =                   "https://test.ianteda.com/"
+baseURL =                   "https://ianteda.com/"
 languageCode =              "en-us"
 title =                     "Ian Teda"
 theme =                     "hugo_theme_materialize"
@@ -10,8 +10,12 @@ publishDir =                ".build"
 
 googleAnalytics =           "UA-71253711-1"
 
+[taxonomies]
+  category =                "categories"
+  series =                  "series"
+
 [permalinks]
-    blog = "blog"
+    blog =                  "blog"
 
 [params]
     author =                "Ian Teda"
@@ -29,40 +33,44 @@ googleAnalytics =           "UA-71253711-1"
     youtube =               "https://www.youtube.com/user/IanTeda/"
 
 [[menu.categories]]
-    name = "Creativity"
-    url = "creativity"
+    name =                  "Creativity"
+    url =                   "creativity"
 [[menu.categories]]
-    name = "Engineering"
-    url = "engineering"
+    name =                  "Engineering"
+    url =                   "engineering"
 [[menu.categories]]
-    name = "Leadership"
-    url = "leadership"
+    name =                  "Leadership"
+    url =                   "leadership"
 [[menu.categories]]
-    name = "Programming"
-    url = "programming"
+    name =                  "Programming"
+    url =                   "programming"
+
 
 [related]
 
-# Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
-threshold = 80
+    # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+    threshold =             80
 
-# To get stable "See also" sections we, by default, exclude newer related pages.
-includeNewer = true
+    # To get stable "See also" sections we, by default, exclude newer related pages.
+    includeNewer =          true
 
-# Will lower case keywords in both queries and in the indexes.
-toLower = true
+    # Will lower case keywords in both queries and in the indexes.
+    toLower =               true
 
-[[related.indices]]
-name = "keywords"
-weight = 150
-[[related.indices]]
-name  = "author"
-toLower = true
-weight = 30
-[[related.indices]]
-name  = "tags"
-weight = 100
-[[related.indices]]
-name  = "date"
-weight = 10
-pattern = "2006"
+    [[related.indices]]
+        name =              "keywords"
+        weight =            150
+
+    [[related.indices]]
+        name  =             "author"
+        toLower =           true
+        weight =            30
+
+    [[related.indices]]
+        name  =             "tags"
+        weight =            100
+
+    [[related.indices]]
+        name  =             "date"
+        weight =            10
+        pattern =           "2006"
