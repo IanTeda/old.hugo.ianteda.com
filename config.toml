@@ -34,16 +34,16 @@ googleAnalytics =           "UA-71253711-1"
 
 [[menu.categories]]
     name =                  "Creativity"
-    url =                   "/creativity"
+    url =                   "/categories/creativity"
 [[menu.categories]]
     name =                  "Engineering"
-    url =                   "/engineering"
+    url =                   "/categories/engineering"
 [[menu.categories]]
     name =                  "Leadership"
-    url =                   "/leadership"
+    url =                   "/categories/leadership"
 [[menu.categories]]
     name =                  "Programming"
-    url =                   "/programming"
+    url =                   "/categories/programming"
 
 
 [related]
