@@ -3,7 +3,7 @@ languageCode =              "en-us"
 title =                     "Ian Teda"
 theme =                     "hugo_theme_materialize"
 canonifyURLs =              false
-uglyurls =                  true
+uglyurls =                  false
 
 # Build to temp folder during development
 publishDir =                ".build"
@@ -15,7 +15,7 @@ googleAnalytics =           "UA-71253711-1"
   series =                  "series"
 
 [permalinks]
-    blog =                  "blog"
+
 
 [params]
     author =                "Ian Teda"
@@ -34,16 +34,16 @@ googleAnalytics =           "UA-71253711-1"
 
 [[menu.categories]]
     name =                  "Creativity"
-    url =                   "creativity"
+    url =                   "/creativity"
 [[menu.categories]]
     name =                  "Engineering"
-    url =                   "engineering"
+    url =                   "/engineering"
 [[menu.categories]]
     name =                  "Leadership"
-    url =                   "leadership"
+    url =                   "/leadership"
 [[menu.categories]]
     name =                  "Programming"
-    url =                   "programming"
+    url =                   "/programming"
 
 
 [related]

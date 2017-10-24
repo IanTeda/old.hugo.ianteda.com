@@ -74,7 +74,7 @@ gulp.task(
 gulp.task(
   "hugo:clean",
   requireCleanTask(
-    "public/**/*"
+    ".build/**/*"
   )
 );
 gulp.task(

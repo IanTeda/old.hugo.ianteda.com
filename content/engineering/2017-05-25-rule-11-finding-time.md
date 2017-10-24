@@ -2,7 +2,7 @@
 title: Rule 11 - Finding Time
 description: Routine, discipline, prioritisation, execution, measurement and adaption.
 date: 2017-05-25
-categories: ["blog", "engineering"]
+categories: ["engineering"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-autumn-leaves
 slug: rule-11-finding-time
