@@ -1,9 +1,10 @@
 ---
 title: A Letter to my Sons
 description: Live, love, be generous, show respect and give thanks.
+excerpt: Give thanks for what you have and for the joy of life. If you see no reason to give thanks, the fault lies only in yourself.
 date: 2015-12-10
 categories: ["creativity"]
-cover: cover-slinky
+cover: cover-austin-magnets
 slug: a-letter-to-son
 ---
 

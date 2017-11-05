@@ -9,7 +9,7 @@ slug: the-mastermind-brief
 > No two minds ever come together without thereby creating a third, invisible intangible force, which may be likened to a third mind [the master mind].
 > <cite> -- Napoleon Hill</cite>
 
-[![Think and Grow Rich - Book Cover](/assets/images/book-think-and-grow-rich.jpg "Think and Grow Rich - Book Cover"){: .book-cover}](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1585424331&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=iate-20)
+{{< book-cover src="book-think-and-grow-rich" alt="Think and Grow Rich - By Napolean Hill" href="http://a.co/4zvV4Ni" >}}
 
 The phrase Mastermind Group (MMG) was first coined by Napoleon Hill in his 1937 book "[Think and Grow Rich](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1585424331&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=iate-20)". A MMG can be thought of as a peer advisory board that meets with the aim of sharpening the groups personal and business skills so they can achieve optimum outcomes[^napoleon-hill]. It is not a group coaching session[^definition].
 
@@ -99,10 +99,10 @@ MMG are typically built through networks and connections. A good way to build yo
 
 #### Footnotes
 
-[^start-mmg]: [How To Start and Run a Mastermind Group](http://www.lifehack.org/articles/productivity/how-to-start-and-run-a-mastermind-group.html){:target="_blank"}
-[^definition]: [What is a Mastermind Group? A Definition](http://www.thesuccessalliance.com/what-is-a-mastermind-group.html){:target="_blank"}
-[^napoleon-hill]: [Video: Napoleon Hill's Mastermind Principle](https://www.youtube.com/watch?v=LDHCoNnuqUI){:target="_blank"}
-[^mmg-structure]: [Video: How to Structure a Mastermind Meeting - SPI TV, Ep. 10](https://www.youtube.com/watch?v=6N-rAEgIxOY){:target="_blank"}
-[^mmg-tips]: [Video: Mastermind Groups are the Secret to Success - Tips and Presentation! - SPI TV, Ep. 9](https://www.youtube.com/watch?v=p28vrcjZ8jc){:target="_blank"}
-[^mmg-build]: [Video: How to Build a Winning Mastermind Group (Webinar Replay) - SPI TV, Ep. 12](https://www.youtube.com/watch?v=U0Np-IszK-8){:target="_blank"}
+[^start-mmg]: [How To Start and Run a Mastermind Group](http://www.lifehack.org/articles/productivity/how-to-start-and-run-a-mastermind-group.html)
+[^definition]: [What is a Mastermind Group? A Definition](http://www.thesuccessalliance.com/what-is-a-mastermind-group.html)
+[^napoleon-hill]: [Video: Napoleon Hill's Mastermind Principle](https://www.youtube.com/watch?v=LDHCoNnuqUI)
+[^mmg-structure]: [Video: How to Structure a Mastermind Meeting - SPI TV, Ep. 10](https://www.youtube.com/watch?v=6N-rAEgIxOY)
+[^mmg-tips]: [Video: Mastermind Groups are the Secret to Success - Tips and Presentation! - SPI TV, Ep. 9](https://www.youtube.com/watch?v=p28vrcjZ8jc)
+[^mmg-build]: [Video: How to Build a Winning Mastermind Group (Webinar Replay) - SPI TV, Ep. 12](https://www.youtube.com/watch?v=U0Np-IszK-8)
 [^open-close]: [Open and Closed Questions](http://changingminds.org/techniques/questioning/open_closed_questions.htm)

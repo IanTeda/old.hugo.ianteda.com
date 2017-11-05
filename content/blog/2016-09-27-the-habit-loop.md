@@ -15,7 +15,7 @@ It might appear that the choices we make each day are the product of a well thou
 
 Habits allow us to undertake tasks with difficulty the first time, but then over time with increasing ease and final in a semi-autonomous mode.
 
-[![The Power of Habit - Why we do what we do in life and business Book Cover](/assets/images/book-power-of-habit.jpg "The Power of Habit - Why we do what we do in life and business"){: .book-cover}](https://amzn.com/081298160X){:target="_blank"}
+{{< book-cover src="book-power-of-habit" alt="The Power of Habit - Why we do what we do in life and business Book Cover" href="https://amzn.com/081298160X)" >}}
 
 Charles Duhigg in his book "The Power of Habit - Why we do what we do in life and business" breaks habits down into a three-step loop, the habit loop:
 
@@ -23,7 +23,7 @@ Charles Duhigg in his book "The Power of Habit - Why we do what we do in life an
 2. Routine: Now in autonomous mode, the brain steps through the pre defined 1243 routine -- which can be emotional, physical or intellectual;
 3. Reward: finally, a reward reinforces the routine. Helping the brain figure out if the particular routine -- loop -- is worth remembering;
 
-![The Power of Habit - Why we do what we do in life and business Book Cover](/assets/images/habit-loop.jpg "The Power of Habit - Why we do what we do in life and business")
+{{< image src="habit-loop" alt="Power of Habit - Why we do what we do in life and business" width="100%">}}
 
 Habits emerge without permission because our brains are constantly looking for ways to save effort. Left to its own devices, the brain will try to make almost any routine into a habit, because habits allow our minds to ramp down more often and conserve mental energy. Any behaviour that can be reduced to a routine is one less behaviour that we must spend time and energy consciously thinking about and deciding upon. Habits free up time and energy for other matters.
 

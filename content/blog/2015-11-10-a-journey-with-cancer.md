@@ -1,12 +1,13 @@
 ---
 title: A Journey With Cancer
 description: A short blog based on the eulogy I gave at my fathers funeral.
+excerpt: My fathers journey with cancer illustrates well his character, the person that he was and the life that he lived.
 date: 2015-11-10
 categories: ["creativity"]
 cover: cover-dirk-teda-rover
 slug: a-journey-with-cancer
 ---
-I would like to acknowledge and thank all those that helped and supported my father on his final journey, and the Teda family after his passing. Your love is very much appreciated and heartfelt. Thank You.
+I would like to acknowledge and thank all those that helped and supported my father on end of his journey, and the Teda family after his passing. Your love is very much appreciated and heartfelt. Thank You.
 
 His journey with cancer illustrates well his character, the person that he was and the life that he lived. He was:
 
@@ -34,9 +35,9 @@ His journey with cancer, can best be described as a mysterious journey of unknow
 
 Early on during his journey, as we sat around at home I asked him "What he wanted to be remembered for". His answer "That he gave to his kids, to his family the most precious thing anyone can give, his time". Many of the family photos found in our photo albums were taken during family holidays. This is a testament to just that, time spent with his family. I don't think I have ever met anyone that was taken on as many family holidays as his children were. While Laura and I where honey mooning in Fiji enjoying the weather and warm water, Laura asked me "if this is the best holiday ever?" My answer, "hmmm, maybe not as good as Blowering dam". Our family holidays are by fare my fondest childhood memories.
 
-In the past I have been accused of being stubborn and reminded that "it is ok to ask for help", a character trait I share with dad. Another way of putting it would be hard-working, determined or closer. All through his journey with cancer he was up early showering and shaving himself. He never complained about his situation, or asked why me. He always did for himself that what he could and never gave up hope, sure he wavered but he always tried.
+In the past I have been accused of being stubborn and reminded that "it is ok to ask for help", a character trait I share with dad. Another way of putting it would be hard-working, determined or finisher. All through his journey with cancer he was up early showering and shaving himself. He never complained about his situation, or asked why me. He always did for himself that what he could and never gave up hope, sure he wavered but he always tried.
 
-You hear people saying "I'm not going to be like my parents", "I'm never going to do this like my parents did". For me my hope and prayer is that one day I can be as great a man, father and husband that he was. We don't always see the things our parents do for us, I certainly didn't. We just expect them, its situation normal. With the passing of time and as I watch the way my friends interacted with their kids, I have realised just how much dad and just how much mum did for their kids.
+You hear people saying "I'm not going to be like my parents", "I'm never going to do this like my parents did". For me my hope and prayer is that one day I can be as great a man, father and husband that he was. We don't always see the things our parents do for us, I certainly didn't. We just expect them, its situation normal. With the passing of time and as I watch the way my friends interacted with their kids, I have realised just how much my 0dad and mum did for their kids.
 
 The last week of his life was tough, but was a something we went through together. Something we choose to be part of because of our love for each other. During this time, as I sat with dad listening to the familiar sounds of the birds outside, the sound of the wind in the trees and the unique sounds found in every house I understood why he wanted to undertake the final part of his journey in his home. A home surrounded by the love of his family and in the home that he put some much of his life, so much his love into. His skillfull hands can be seen throughout his home. In the TV cabinet he built, in the bathroom he built, in the kitchen he built, the garage he built, the garden tendered to, everywhere. He put all that he was into his home.
 

@@ -32,16 +32,16 @@ Say you invest $100,000 from your widget profits, but the investment doesn't wor
 | $        80,000 |             80% | $         80,000 |                400% |
 | $        90,000 |             90% | $         90,000 |                900% |
 
-![Win Loss - Percentage Graph](/assets/images/win-loss-ratio-graph.jpg "Win Loss Precentage Graph")
+{{< image src="win-loss-ratio-graph" alt="Win Loss - Percentage Graph" width="100%">}}
 
 > Watch the turtle. He only moves forward by sticking his neck out.
 > <cite> —Louis V. Gerstner, Jr.</cite>
 
-Richard Branson is known for his "Screw it let’s do it" tag line, but like all successful business people he always protects his down side. At the launch of Virgin Atlantic Branson negotiated with Boeing to buy back his plane if the venture didn't work out[^branson], limiting the downside or loses to 6 months of Virgin profits. Yes you need to take risks (see  "[The Bold Mistake Instruction](/creativity/the-bold-mistake-instruction.html)"), but betting the farm is rarely a good plan. Always protect your principle[^TIP].
+Richard Branson is known for his "Screw it let’s do it" tag line, but like all successful business people he always protects his down side. At the launch of Virgin Atlantic Branson negotiated with Boeing to buy back his plane if the venture didn't work out[^branson], limiting the downside or loses to 6 months of Virgin profits. Yes you need to take risks (see  "[The Bold Mistake Instruction](/blog/the-bold-mistake-instruction.html)"), but betting the farm is rarely a good plan. Always protect your principle[^TIP].
 
 ##### Footnotes
-[^reckoning]: [The Investment Principles of Winning by not Losing](http://www.dailyreckoning.com.au/investment-principles-winning-losing/2014/08/13/){:target="_blank"}
-[^great]: [Great Investors Win by Not Losing](https://www.linkedin.com/pulse/great-investors-win-losing-daniel-crosby-ph-d-){:target="_blank"}
-[^branson]: [Risk, Reward And Worst Case Scenarios](http://www.forbes.com/sites/alisoncoleman/2014/05/11/risk-reward-and-worst-case-scenarios-how-entrepreneurs-like-richard-branson-and-tony-hsieh-call-it/#279756b3c28c){:target="_blank"}
-[^TIP]: [The Intelligent Investor By Benjamin Graham](https://www.theinvestorspodcast.com/the-intelligent-investor-benjamin-graham/){:target="_blank"}
+[^reckoning]: [The Investment Principles of Winning by not Losing](http://www.dailyreckoning.com.au/investment-principles-winning-losing/2014/08/13/)
+[^great]: [Great Investors Win by Not Losing](https://www.linkedin.com/pulse/great-investors-win-losing-daniel-crosby-ph-d-)
+[^branson]: [Risk, Reward And Worst Case Scenarios](http://www.forbes.com/sites/alisoncoleman/2014/05/11/risk-reward-and-worst-case-scenarios-how-entrepreneurs-like-richard-branson-and-tony-hsieh-call-it/#279756b3c28c)
+[^TIP]: [The Intelligent Investor By Benjamin Graham](https://www.theinvestorspodcast.com/the-intelligent-investor-benjamin-graham/)
 Cover Photo Credit: [Wexor Tmg](https://unsplash.com/photos/L-2p8fapOA8)

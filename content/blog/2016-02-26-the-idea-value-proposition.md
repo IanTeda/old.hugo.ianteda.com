@@ -16,7 +16,7 @@ It is important to realise that an idea is not a product or a business[^not-a-bu
 
 ## The Proposition
 
-~~~JavaScript
+~~~
 // The Value Proposition
 Product Value = Idea x Execution
 
@@ -48,8 +48,8 @@ So don't burn energy protecting and worrying someone will steal your idea, they 
 
 ### Footnotes:
 
-[^sivers]: [Ideas are just a multiplier of execution -- Derek Sivers](https://sivers.org/multiply){:target="_blank"}
-[^not-a-business]: [Ideas Are Cheap, Execution is Worth Millions -- Sathyvelu Kunashegaran](https://medium.com/the-1-blog-series/ideas-are-cheap-execution-is-worth-millions-e203efbcaa49#.u9b3zzspk){:target="_blank"}
-[^dim-dozen]: [Ideas are a Dime a Dozen](http://www.forbes.com/sites/amyanderson/2013/03/14/ideas-are-a-dime-a-dozen-people-who-implement-them-are-priceless/#57e07877304b){:target="_blank"}
+[^sivers]: [Ideas are just a multiplier of execution -- Derek Sivers](https://sivers.org/multiply)
+[^not-a-business]: [Ideas Are Cheap, Execution is Worth Millions -- Sathyvelu Kunashegaran](https://medium.com/the-1-blog-series/ideas-are-cheap-execution-is-worth-millions-e203efbcaa49#.u9b3zzspk)
+[^dim-dozen]: [Ideas are a Dime a Dozen](http://www.forbes.com/sites/amyanderson/2013/03/14/ideas-are-a-dime-a-dozen-people-who-implement-them-are-priceless/#57e07877304b)
 
-Photo cover credit: [Larry Myhre](https://www.flickr.com/photos/larrymyhre/23648279433/){:target="_blank"}
+Photo cover credit: [Larry Myhre](https://www.flickr.com/photos/larrymyhre/23648279433/)

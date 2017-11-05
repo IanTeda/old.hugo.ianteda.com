@@ -49,13 +49,13 @@ googleAnalytics =           "UA-71253711-1"
 [related]
 
     # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
-    threshold =             80
+    threshold = 0
 
     # To get stable "See also" sections we, by default, exclude newer related pages.
-    includeNewer =          true
+    includeNewer = true
 
     # Will lower case keywords in both queries and in the indexes.
-    toLower =               true
+    toLower = true
 
     [[related.indices]]
         name =              "keywords"
@@ -67,7 +67,7 @@ googleAnalytics =           "UA-71253711-1"
         weight =            30
 
     [[related.indices]]
-        name  =             "tags"
+        name  =             "categories"
         weight =            100
 
     [[related.indices]]

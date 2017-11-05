@@ -1,7 +1,7 @@
 ---
-title: The Habit Modification Framework
+title: The Habit Modification
 description: It is our habits that influence our actions, and it is our actions that define our character
-date: 2016-09-27
+date: 2016-09-29
 categories: ["creativity"]
 cover: cover-car-rock
 slug: the-habit-modification
@@ -20,7 +20,7 @@ I explored what habits are and how they work in a previous post, [The Habit Loop
 > Men's natures are alike; it is their habits that separate them.
 > <cite> Confucius, Analects.</cite>
 
-![The Habit Loop](/assets/images/habit-loop.jpg "The Habit Loop")
+{{< image src="habit-loop" alt="Power of Habit - Why we do what we do in life and business" width="100%">}}
 
 Most habits sneak up on use by surprise, because we are not aware of the cues and rewards. But habits can be intentionally formed by putting together a cue, routine, and reward. To form a new habit spend time cultivating the craving for the reward that the routine provides. This in turn will drive the habit loop and hard wire in the craving.
 
@@ -34,7 +34,7 @@ Most of our habits have occurred for so long that we pay little attention to the
 
 ### The Habit Modification Framework
 
-[![The Power of Habit - Why we do what we do in life and business Book Cover](/assets/images/book-power-of-habit.jpg "The Power of Habit - Why we do what we do in life and business"){: .book-cover}](https://amzn.com/081298160X){:target="_blank"}
+{{< book-cover src="book-power-of-habit" alt="The Power of Habit - Why we do what we do in life and business Book Cover" href="https://amzn.com/081298160X)" >}}
 
 In his book "[The Power of Habit - Why we do what we do in life and business](https://amzn.com/081298160X)" Charles Duhigg proposes a framework[^framework] for changing habits. I have modified it slightly into the framework below.
 
@@ -97,4 +97,4 @@ Here are a few ideas:
 
 > Watch your thoughts, they become your WORDS. Watch your words, they become you ACTIONS. Watch your actions, they become your HABITS. Watch your habits, they become your CHARACTER. Watch your character, it becomes your DESTINY.
 
-[^framework]: [How Habits Work](http://charlesduhigg.com/how-habits-work/){:target="_blank"}
+[^framework]: [How Habits Work](http://charlesduhigg.com/how-habits-work/)
