@@ -28,7 +28,7 @@ If you consider your project budget has a 10% profit built in and work gets affe
 
 ## Quality
 
-Cutting corners is a short game, you may win once or twice but in the end probability always wins and you will have on your hands rework. So keep in mind and respect _[Rule 6 - The Six P's: Prior Planning Prevents Piss Poor Performance](https://ianteda.com/engineering/rule-6-the-6-ps.html)_. By planning the works, communicating the plan, monitor performance of the plan and adapting when needed.
+Cutting corners is a short game, you may win once or twice but in the end probability always wins and you will have on your hands rework. So keep in mind and respect _[Rule 6 - The Six P's: Prior Planning Prevents Piss Poor Performance](/blog/rule-6-the-6-ps)_. By planning the works, communicating the plan, monitor performance of the plan and adapting when needed.
 
 > The best way to make money is to do the job once and do it right.
 
@@ -40,4 +40,4 @@ Leaving behind a negative legacy for those that work for you, the clients that p
 
 > The best way to make money is to leave behind a positive legacy. It is through that legacy that you add value. And if your client sees the value they will be happy to have you build something else (for the right price).
 
-_Check out the [Engineering Rule Book](https://ianteda.com/engineering/rule-book.html) for the other rules._
+_Check out the [Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._

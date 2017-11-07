@@ -40,4 +40,4 @@ _Answer:_ Take control of your time, to find time.
 
 > Time is, time was, but time shall be no more. <br/><cite>- James Joyce</cite>
 
-_Check out the [Engineering Rule Book](https://ianteda.com/engineering/rule-book.html) for the other rules._
+_Check out the [Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._

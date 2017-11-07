@@ -18,8 +18,8 @@ Things go wrong, everyone understands that. But there is a difference between ba
 
 When bringing bad news about the costs, have an understanding why your quaities increased or why the rate changed. Know what the worst case is if thins are kept the sameπ -- understanding the problem -- and these are the changes we are making to bring the cost blow out back in -- getting in front of the issue and controlling your destiny.
 
-Give me good news, give me bad news. Just don't give me surprises. No one likes surprises. Make your mistakes ones of ambition, not sloth -- [The Bold Mistake Instruction](https://ianteda.com/creativity/the-bold-mistake-instruction.html).
+Give me good news, give me bad news. Just don't give me surprises. No one likes surprises. Make your mistakes ones of ambition, not sloth -- [The Bold Mistake Instruction](/blog/the-bold-mistake-instruction).
 
 > Rule 3 - Give me good news, give bad news. Just don't give me surprises
 
-_Check out the [Engineering Rule Book](https://ianteda.com/engineering/rule-book.html) for the other rules._
+_Check out the [Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._

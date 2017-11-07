@@ -20,6 +20,6 @@ Because of the abstraction of information, it becomes easy for professionals to 
 
 >The true test of a man’s character is what he does when no one is watching.<br/><cite>— John Wooden</cite>
 
-As professionals we are trusted with information. And with that trust comes the responsibility to give the correct advice, to the best of knowledge. Keep in mind that your name is everything ([The Personal Branding Defence](https://ianteda.com/management/the-personal-branding-defence.html)) and that it is a small profession.
+As professionals we are trusted with information. And with that trust comes the responsibility to give the correct advice, to the best of knowledge. Keep in mind that your name is everything ([The Personal Branding Defence](/blog/the-personal-branding-defence.html)) and that it is a small profession.
 
-_Check out the [Engineering Rule Book](https://ianteda.com/engineering/rule-book.html) for the other rules._
+_Check out the [Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._

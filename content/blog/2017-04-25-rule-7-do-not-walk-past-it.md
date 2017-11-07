@@ -16,4 +16,4 @@ To live by this rule means difficult conversations, extra work and extra respons
 
 Big problems can often be avoid by addressing small problems that come past you. So don't ignore the small problems, by walking past them. Instead get out in front of them and avoid the big ones.
 
-_Check out the [Engineering Rule Book](https://ianteda.com/engineering/rule-book.html) for the other rules._
+_Check out the [Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._

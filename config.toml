@@ -4,6 +4,7 @@ title =                     "Ian Teda"
 theme =                     "hugo_theme_materialize"
 canonifyURLs =              false
 uglyurls =                  false
+summaryLength =             45
 
 # Build to temp folder during development
 publishDir =                ".build"
@@ -20,7 +21,7 @@ googleAnalytics =           "UA-71253711-1"
 [params]
     author =                "Ian Teda"
     tagLine =               "Husband, father, engineer & explorer."
-    email =                 "ian@teda.id.au"
+    email =                 "mailto://ian@teda.id.au"
     indexHeader =           "cover-bw-highrise"
     now =                   "now.html"
     facebook =              "https://www.facebook.com/ian.teda"

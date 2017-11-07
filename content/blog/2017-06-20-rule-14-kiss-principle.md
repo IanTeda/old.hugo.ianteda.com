@@ -40,6 +40,6 @@ If people don't understand you, the chances are you haven't simplified the conce
 
 The principle is also true of writing. The art to a good article is being able to express yourself in as few words as possible. While not losing the essences of your message.
 
-_Check out the [Engineering Rule Book](https://ianteda.com/engineering/rule-book.html) for the other rules._
+_Check out the [Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._
 
 [^navy]: [KISS Principle](https://en.wikipedia.org/wiki/KISS_principle)

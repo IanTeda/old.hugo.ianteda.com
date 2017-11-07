@@ -24,4 +24,4 @@ We all have a unique view — perspective — and we are all paid to think for o
 
 > I have always found that the man whose second thoughts are good is worth watching.<br/><cite>James M. Barrie</cite>
 
-_Check out the [Engineering Rule Book](https://ianteda.com/engineering/rule-book.html) for the other rules._
+_Check out the [Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._
