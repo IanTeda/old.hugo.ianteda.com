@@ -40,4 +40,4 @@ Leaving behind a negative legacy for those that work for you, the clients that p
 
 > The best way to make money is to leave behind a positive legacy. It is through that legacy that you add value. And if your client sees the value they will be happy to have you build something else (for the right price).
 
-_Check out the [Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._
+_Check out the [The Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._

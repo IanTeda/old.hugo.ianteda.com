@@ -52,7 +52,7 @@ I check-in by asking them to paraphrase -- repeat what I just said in there own 
 
 > Question everything. Learn something. Answer nothing.<br/><cite>— Engineer’s Motto</cite>
 
-_Check out the [Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._
+_Check out the [The Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._
 
 [^5whys]: [5 Whys: Getting to the Root of a Problem Quickly](https://www.mindtools.com/pages/article/newTMC_5W.htm)
 [^changeminds]: [Open and Closed Questions](http://changingminds.org/techniques/questioning/open_closed_questions.htm)

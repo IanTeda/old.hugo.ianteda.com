@@ -20,4 +20,4 @@ Strategically, you are de-risking the project by removing the biggest unknown on
 
 Physiologically, you are providing a proof case. If we can smash the hardest part, the rest is going to be easy. Lets get after it. We have made it up the hill and the rest is downhill. Awesome.
 
-_Check out the [Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._
+_Check out the [The Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._

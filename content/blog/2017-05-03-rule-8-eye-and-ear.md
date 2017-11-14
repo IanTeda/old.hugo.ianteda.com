@@ -20,4 +20,4 @@ By doing this you are able to answer more questions, know the right person to as
 
 > Rule 8 - Keep One Eye Open and Your Ear to the Ground
 
-_Check out the [Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._
+_Check out the [The Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._

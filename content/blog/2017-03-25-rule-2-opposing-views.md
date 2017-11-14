@@ -24,4 +24,4 @@ When faced with opposing views, often the answer is both.
 
 > Rule 2 - When faced with opposing views, often the answer is both
 
-_Check out the [Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._
+_Check out the [The Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._

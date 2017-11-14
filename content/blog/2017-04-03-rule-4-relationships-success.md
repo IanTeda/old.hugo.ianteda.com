@@ -21,4 +21,4 @@ The [rule 2](/blog/rule-2-opposing-views) here — the flip side, the other side
 
 > Rule 4 - Relationships, say hello because success is largely a result of those around you
 
-_Check out the [Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._
+_Check out the [The Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._
