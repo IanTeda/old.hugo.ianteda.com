@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Series on Ian Teda</title>
+    <link>https://ianteda.com/series/</link>
+    <description>Recent content in Blog Series on Ian Teda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ianteda.com/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Engineering Rule Book</title>
+      <link>https://ianteda.com/series/the-engineering-rule-book/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ianteda.com/series/the-engineering-rule-book/</guid>
+      <description>Forward The Engineering Rule Book is a collection of rules, lessons and school-boy-errors that I have picked up over the years while working as a construction engineer.
+These rules where often taught to me by mentors, bosses and colleagues. I now hope they can be of use to others and so have put them into URLS.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,26 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Leadership on Ian Teda</title>
-    <link>https://test.ianteda.com/categories/leadership/</link>
-    <description>Recent content in Leadership on Ian Teda</description>
+    <title>Leadership Posts on Ian Teda</title>
+    <link>https://ianteda.com/categories/leadership/</link>
+    <description>Recent content in Leadership Posts on Ian Teda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://test.ianteda.com/categories/leadership/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ianteda.com/categories/leadership/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The ianteda.com Directive</title>
-      <link>https://test.ianteda.com/leadership/the-ianteda-com-directive/</link>
+      <title>The Turtle Mindset</title>
+      <link>https://ianteda.com/blog/the-turtle-mindset/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ianteda.com/blog/the-turtle-mindset/</guid>
+      <description>&amp;ldquo;Turtles carry their homes on their backs.&amp;rdquo; Running her finger over the tattoo, she tells him what her dad told her: &amp;ldquo;They&amp;rsquo;re exposed and hidden at the same time. They&amp;rsquo;re a symbol of strength and perseverance.&amp;rdquo;  &amp;ndash; Christina Baker Kline
+ In the Aesop&amp;rsquo;s Fables &amp;ldquo;The Tortoise and the Hare&amp;rdquo;, the turtle wins the race not by aiming for big (fast) wins, instead he stays on his path with a single minded focus.</description>
+    </item>
+    
+    <item>
+      <title>The Personal Branding Defence</title>
+      <link>https://ianteda.com/blog/the-personal-branding-defence/</link>
+      <pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ianteda.com/blog/the-personal-branding-defence/</guid>
+      <description>Start by knowing what you want and who you are, build credibility around it and deliver it online in a compelling way.  — Krista Neher
+ You are a brand If you are not branding yourself, others are doing it for you. Going to a job interview, leasing a house or doing business then your name will be googled.</description>
+    </item>
+    
+    <item>
+      <title>The Idea Value Proposition</title>
+      <link>https://ianteda.com/blog/the-idea-value-proposition/</link>
+      <pubDate>Fri, 26 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ianteda.com/blog/the-idea-value-proposition/</guid>
+      <description>&amp;ldquo;Daring ideas are like chessmen moved forward. They may be beaten, but they may start a winning game.&amp;rdquo;  &amp;ndash; Johann Wolfgang von Goethe
+ Ideas are easy, cheap even. It is the execution that is hard and because it is hard it is worth millions.</description>
+    </item>
+    
+    <item>
+      <title>The Mastermind Brief</title>
+      <link>https://ianteda.com/blog/the-mastermind-brief/</link>
+      <pubDate>Wed, 17 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ianteda.com/blog/the-mastermind-brief/</guid>
+      <description>No two minds ever come together without thereby creating a third, invisible intangible force, which may be likened to a third mind [the master mind].  &amp;ndash; Napoleon Hill
+  The phrase Mastermind Group (MMG) was first coined by Napoleon Hill in his 1937 book &amp;ldquo;Think and Grow Rich&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>The Leadership Style Analysis</title>
+      <link>https://ianteda.com/blog/the-leadership-style-analysis/</link>
       <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://test.ianteda.com/leadership/the-ianteda-com-directive/</guid>
-      <description>{: .img-circle }
-Hello and thank you for visiting ianteda.com, my little corner of the Internet.
-I created ianteda.com to be useful. By sharing content around ideas, thoughts and projects I am working on. Second to being useful, I wanted to build and manage my - Ian Teda - professional image, brand and authority.
-The concept of being useful came from Scott Adams{:target=&amp;rdquo;_blank&amp;rdquo;} the creator of the Dilbert Cartoons. The answer to the ultimate question of Life, the Universe, and Everything is not 42{:target=&amp;rdquo;_blank&amp;rdquo;} but &amp;ldquo;be useful&amp;rdquo;.</description>
+      <guid>https://ianteda.com/blog/the-leadership-style-analysis/</guid>
+      <description>&amp;ldquo;Styles are tailor made to different situations. Different leaders must have their own styles and these styles must be able to adapt to different people and situations.&amp;rdquo;  &amp;ndash; John Ng
+ You need to find your own style of leadership, one that complements your character.</description>
+    </item>
+    
+    <item>
+      <title>The ianteda.com Directive</title>
+      <link>https://ianteda.com/blog/the-ianteda-com-directive/</link>
+      <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ianteda.com/blog/the-ianteda-com-directive/</guid>
+      <description>Hello and thank you for visiting ianteda.com, my little corner of the Internet.
+I created ianteda.com to be useful. By sharing content around ideas, thoughts and projects I am working on. Second to being useful, I wanted to build and manage my - Ian Teda - professional image, brand and authority.</description>
     </item>
     
   </channel>

@@ -1,41 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Ian Teda</title>
-    <link>https://test.ianteda.com/categories/</link>
-    <description>Recent content in Categories on Ian Teda</description>
+    <title>Categories Posts on Ian Teda</title>
+    <link>https://ianteda.com/categories/</link>
+    <description>Recent content in Categories Posts on Ian Teda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://test.ianteda.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ianteda.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blog</title>
-      <link>https://test.ianteda.com/categories/blog/</link>
-      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      <title>Creativity Posts</title>
+      <link>https://ianteda.com/categories/creativity/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://test.ianteda.com/categories/blog/</guid>
-      <description></description>
+      <guid>https://ianteda.com/categories/creativity/</guid>
+      <description>Creativity blog posts</description>
     </item>
     
     <item>
-      <title>Engineering</title>
-      <link>https://test.ianteda.com/categories/engineering/</link>
-      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      <title>Engineering Posts</title>
+      <link>https://ianteda.com/categories/engineering/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://test.ianteda.com/categories/engineering/</guid>
-      <description></description>
+      <guid>https://ianteda.com/categories/engineering/</guid>
+      <description>Engineering blog posts</description>
     </item>
     
     <item>
-      <title>Leadership</title>
-      <link>https://test.ianteda.com/categories/leadership/</link>
-      <pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
+      <title>Leadership Posts</title>
+      <link>https://ianteda.com/categories/leadership/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://test.ianteda.com/categories/leadership/</guid>
-      <description></description>
+      <guid>https://ianteda.com/categories/leadership/</guid>
+      <description>Leadership blog posts</description>
+    </item>
+    
+    <item>
+      <title>Programming Posts</title>
+      <link>https://ianteda.com/categories/programming/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ianteda.com/categories/programming/</guid>
+      <description>Programming blog posts</description>
     </item>
     
   </channel>

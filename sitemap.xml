@@ -3,310 +3,213 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://test.ianteda.com/engineering/rule-16-the-professional-engineer/</loc>
+    <loc>https://ianteda.com/blog/rule-16-the-professional-engineer/</loc>
     <lastmod>2017-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/engineering/rule-15-paid-to-think/</loc>
+    <loc>https://ianteda.com/blog/rule-15-paid-to-think/</loc>
     <lastmod>2017-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/engineering/rule-14-kiss-principle/</loc>
+    <loc>https://ianteda.com/blog/rule-14-kiss-principle/</loc>
     <lastmod>2017-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/engineering/rule-13-good-questions/</loc>
+    <loc>https://ianteda.com/blog/rule-13-good-questions/</loc>
     <lastmod>2017-06-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/engineering/rule-12-hard-things/</loc>
+    <loc>https://ianteda.com/blog/rule-12-hard-things/</loc>
     <lastmod>2017-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/engineering/rule-11-finding-time/</loc>
+    <loc>https://ianteda.com/blog/rule-11-finding-time/</loc>
     <lastmod>2017-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/engineering/rule-10-pop-quiz/</loc>
+    <loc>https://ianteda.com/blog/rule-10-pop-quiz/</loc>
     <lastmod>2017-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/engineering/rule-9-always-start-with-the-end-in-mind/</loc>
+    <loc>https://ianteda.com/blog/rule-9-always-start-with-the-end-in-mind/</loc>
     <lastmod>2017-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/engineering/2017-05-03-rule-8-eye-and-ear/</loc>
+    <loc>https://ianteda.com/blog/rule-8-eye-and-ear/</loc>
     <lastmod>2017-05-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/engineering/rule-7-do-not-walk-past-it/</loc>
+    <loc>https://ianteda.com/blog/rule-7-do-not-walk-past-it/</loc>
     <lastmod>2017-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/engineering/rule-6-the-6-ps/</loc>
+    <loc>https://ianteda.com/blog/rule-6-the-6-ps/</loc>
     <lastmod>2017-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/engineering/rule-5-start-early/</loc>
+    <loc>https://ianteda.com/blog/rule-5-start-early/</loc>
     <lastmod>2017-04-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/engineering/rule-4-relationships-success/</loc>
+    <loc>https://ianteda.com/blog/rule-4-relationships-success/</loc>
     <lastmod>2017-04-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/engineering/rule-3-dont-give-me-surprises/</loc>
+    <loc>https://ianteda.com/blog/rule-3-dont-give-me-surprises/</loc>
     <lastmod>2017-03-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/engineering/rule-2-opposing-views/</loc>
+    <loc>https://ianteda.com/blog/rule-2-opposing-views/</loc>
     <lastmod>2017-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/creativity/</loc>
+    <loc>https://ianteda.com/blog/</loc>
     <lastmod>2017-03-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/engineering/</loc>
+    <loc>https://ianteda.com/series/</loc>
     <lastmod>2017-03-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/leadership/</loc>
+    <loc>https://ianteda.com/categories/</loc>
     <lastmod>2017-03-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/programming/</loc>
+    <loc>https://ianteda.com/categories/creativity/</loc>
     <lastmod>2017-03-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/engineering/rule-1-what-is-your-job/</loc>
+    <loc>https://ianteda.com/categories/engineering/</loc>
+    <lastmod>2017-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ianteda.com/categories/leadership/</loc>
+    <lastmod>2017-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ianteda.com/categories/programming/</loc>
+    <lastmod>2017-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ianteda.com/series/the-engineering-rule-book/</loc>
+    <lastmod>2017-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ianteda.com/blog/rule-1-what-is-your-job/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/creativity/the-habit-loop/</loc>
+    <loc>https://ianteda.com/blog/the-habit-modification/</loc>
+    <lastmod>2016-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ianteda.com/blog/the-habit-loop/</loc>
     <lastmod>2016-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/creativity/the-habit-modification/</loc>
-    <lastmod>2016-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/programming/the-api-design-guide/</loc>
+    <loc>https://ianteda.com/blog/the-api-design-guide/</loc>
     <lastmod>2016-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/leadership/the-turtle-mindset/</loc>
+    <loc>https://ianteda.com/blog/the-turtle-mindset/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/creativity/the-passion-falsity/</loc>
+    <loc>https://ianteda.com/blog/the-passion-falsity/</loc>
     <lastmod>2016-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/leadership/the-personal-branding-defence/</loc>
+    <loc>https://ianteda.com/blog/the-personal-branding-defence/</loc>
     <lastmod>2016-05-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/creativity/the-mental-model-definition/</loc>
+    <loc>https://ianteda.com/blog/the-mental-model-definition/</loc>
     <lastmod>2016-04-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/programming/gulp-jekyll-workflow-1/</loc>
-    <lastmod>2016-03-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/programming/the-gulp-jekyll-github-pages-cloudflare-mixture/</loc>
+    <loc>https://ianteda.com/blog/the-gulp-jekyll-github-pages-cloudflare-mixture/</loc>
     <lastmod>2016-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/engineering/2016-03-02-the-cotter-dam-intake-tower-explanation/</loc>
+    <loc>https://ianteda.com/blog/cotter-dam-intake-explanation/</loc>
     <lastmod>2016-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/leadership/the-idea-value-proposition/</loc>
+    <loc>https://ianteda.com/blog/the-idea-value-proposition/</loc>
     <lastmod>2016-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/creativity/the-bold-mistake-instruction/</loc>
+    <loc>https://ianteda.com/blog/the-bold-mistake-instruction/</loc>
     <lastmod>2016-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/leadership/the-mastermind-brief/</loc>
+    <loc>https://ianteda.com/blog/the-mastermind-brief/</loc>
     <lastmod>2016-02-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/leadership/the-leadership-style-analysis/</loc>
+    <loc>https://ianteda.com/blog/the-leadership-style-analysis/</loc>
     <lastmod>2016-01-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/leadership/the-ianteda-com-directive/</loc>
+    <loc>https://ianteda.com/blog/the-ianteda-com-directive/</loc>
     <lastmod>2016-01-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/creativity/a-letter-to-sons/</loc>
+    <loc>https://ianteda.com/blog/a-letter-to-son/</loc>
     <lastmod>2015-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/creativity/a-journey-with-cancer/</loc>
+    <loc>https://ianteda.com/blog/a-journey-with-cancer/</loc>
     <lastmod>2015-11-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/tags/api/</loc>
-    <lastmod>2016-08-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/categories/blog/</loc>
+    <loc>https://ianteda.com/</loc>
     <lastmod>2017-07-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://test.ianteda.com/tags/business/</loc>
-    <lastmod>2016-02-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/categories/</loc>
-    <lastmod>2017-07-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/tags/cloudflare/</loc>
-    <lastmod>2016-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/categories/engineering/</loc>
-    <lastmod>2017-07-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/tags/engineering-rule-book/</loc>
-    <lastmod>2017-07-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/engineering-rule-book/</loc>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/tags/entrepreneur/</loc>
-    <lastmod>2016-02-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/tags/github/</loc>
-    <lastmod>2016-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/tags/gulp/</loc>
-    <lastmod>2016-03-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/</loc>
-    <lastmod>2017-07-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/tags/ianteda.com/</loc>
-    <lastmod>2016-01-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/tags/jekyll/</loc>
-    <lastmod>2016-03-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/tags/leadership/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/categories/leadership/</loc>
-    <lastmod>2016-01-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/tags/life/</loc>
-    <lastmod>2016-09-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/tags/marketing/</loc>
-    <lastmod>2016-05-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/tags/</loc>
-    <lastmod>2016-08-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/now/</loc>
-  </url>
-  
-  <url>
-    <loc>https://test.ianteda.com/tags/work/</loc>
-    <lastmod>2016-03-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://ianteda.com/now/</loc>
   </url>
   
 </urlset>
