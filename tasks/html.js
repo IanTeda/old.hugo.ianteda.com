@@ -9,18 +9,18 @@
  */
 module.exports = (gulp, config, argv, $) => {
   return function() {
-    var stream = gulp
+    let stream = gulp
       .src(config.html.src)
-      .pipe($.if(argv.prod, $.size({title: 'Html:'})))
-      .pipe($.if(argv.prod, $.htmlmin(config.htmlmin.options)))
-      .pipe($.if(argv.prod, $.size({title: 'Minimised:'})))
-      .pipe($.if(argv.prod, gulp.dest(config.html.dest)))
-      .pipe($.if(argv.prod, $.gzip(config.gzip.options)))
-      .pipe($.if(argv.prod, $.size({
+      .pipe($.size({title: 'Html:'}))
+      .pipe($.htmlmin(config.htmlmin.options))
+      .pipe($.size({title: 'Minimised:'}))
+      .pipe(gulp.dest(config.html.dest))
+      .pipe($.gzip(config.gzip.options))
+      .pipe($.size({
         title: 'GZiped:',
-        zip: true
-      })))
-      .pipe($.if(argv.prod, gulp.dest(config.html.dest)));
+        zip: true,
+      }))
+      .pipe(gulp.dest(config.html.dest));
 
     return stream;
   };

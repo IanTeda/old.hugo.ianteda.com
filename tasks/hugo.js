@@ -9,12 +9,7 @@
 
 module.exports = (gulp, config, argv, $) => {
   return (callback) => {
-    if (argv.prod) {
-      $.shelljs.exec('hugo');
-      callback();
-    } else {
-      $.shelljs.exec('hugo server --buildDrafts');
-      callback();
-    }
+    $.shelljs.exec('hugo');
+    callback();
   };
 };

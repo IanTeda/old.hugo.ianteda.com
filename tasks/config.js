@@ -5,24 +5,13 @@ let csswring = require('csswring');
 let pngquant = require('imagemin-pngquant');
 
 const assets = 'assets/';
-const build = 'public/';
+const build = '.build/';
 const tmp = '.tmp/';
 const hstatic = 'static/';
 const nodeModules = 'node_modules/';
 const src = 'src/';
 
 module.exports = {
-  downloads: {
-    src: assets + '/downloads/**/*',
-    dest: tmp + assets + 'downloads',
-  },
-  fonts: {
-    src: [
-      nodeModules + 'font-awesome/fonts/**/*.{eot,svg,ttf,woff,woff2,otf}',
-      assets + 'fonts/**/*.{eot,svg,ttf,woff,woff2,otf}',
-    ],
-    dest: tmp + assets + 'fonts',
-  },
   ghPages: {
     src: '.build/**/*',
     options: {
@@ -52,7 +41,7 @@ module.exports = {
     },
   },
   html: {
-    src: build + '**/*.html',
+    src: build + '/**/*.html',
     dest: build,
   },
   htmlmin: {

@@ -63,7 +63,30 @@ gulp.task(
   )
 );
 
+/**
+ * Clean Map Files
+ * Map files used during development and are not needed in production
+ * Usage: gulp maps:clean - Clean images from build folder
+*/
+gulp.task(
+  "maps:clean",
+  requireCleanTask(
+    ".build/**/*.map"
+  )
+);
 
+/**
+ * Uglify and Compress HTML
+ * Map files used during development and are not needed in production
+ * Usage: gulp maps:clean - Clean images from build folder
+*/
+
+gulp.task(
+  "html:build",
+  requireTask(
+    "html"
+  )
+);
 
 /**
  * Hugo Tasks
@@ -100,4 +123,4 @@ gulp.task(
   requireTask("gh-pages")
 );
 
-gulp.task('default', gulp.parallel('hugo'));
+gulp.task('default', gulp.series('hugo', 'maps:clean', 'html:build'));
