@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ianteda.com/blog/the-hugo-acceleration/</loc>
+    <lastmod>2017-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ianteda.com/blog/rule-16-the-professional-engineer/</loc>
     <lastmod>2017-07-08T00:00:00+00:00</lastmod>
   </url>
@@ -204,7 +209,7 @@
   
   <url>
     <loc>https://ianteda.com/</loc>
-    <lastmod>2017-07-08T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

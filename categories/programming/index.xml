@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>The Hugo Acceleration</title>
+      <link>https://ianteda.com/blog/the-hugo-acceleration/</link>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ianteda.com/blog/the-hugo-acceleration/</guid>
+      <description>Simply put, Hugo is way faster than Jekyll at building your site after pushing edits &amp;amp; commits.1
+ My Jekyll build time was quickly growing and I was finding myself having to fix dependencies every time I felt the need to update Jekyll. I was getting frustrated, having to fight Jekyll when I wanted to be creating content.</description>
+    </item>
+    
+    <item>
       <title>The API Design Guide</title>
       <link>https://ianteda.com/blog/the-api-design-guide/</link>
       <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
