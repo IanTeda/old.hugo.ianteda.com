@@ -124,3 +124,5 @@ gulp.task(
 );
 
 gulp.task('default', gulp.series('hugo', 'maps:clean', 'html:build'));
+
+gulp.task('deploy', gulp.series('default', 'gh-pages'));

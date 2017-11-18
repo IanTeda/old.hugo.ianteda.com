@@ -4,3 +4,4 @@ static/
 public/
 themes/
 .build/
+.tmp/

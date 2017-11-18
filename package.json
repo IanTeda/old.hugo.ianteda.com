@@ -12,7 +12,7 @@
     "jsdocs": "gulp jsdocs",
     "gulp": "gulp",
     "package-update": "npm-check-updates -u",
-    "serve": "hugo server --buildDrafts --buildExpired --buildFuture --cleanDestinationDir --disableFastRender",
+    "hugo": "hugo server --buildDrafts --buildExpired --buildFuture --cleanDestinationDir --disableFastRender",
     "start": "gulp"
   },
   "repository": {

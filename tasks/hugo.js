@@ -9,7 +9,7 @@
 
 module.exports = (gulp, config, argv, $) => {
   return (callback) => {
-    $.shelljs.exec('hugo');
+    $.shelljs.exec('hugo --buildExpired --buildFuture --cleanDestinationDir');
     callback();
   };
 };

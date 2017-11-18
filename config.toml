@@ -1,6 +1,6 @@
 baseURL =                   "https://ianteda.com/"
 languageCode =              "en-us"
-title =                     "Ian Teda"
+title =                     "IAN TEDA"
 theme =                     "hugo_theme_materialize"
 canonifyURLs =              false
 uglyurls =                  false

@@ -1,7 +1,7 @@
 ---
 title: The Hugo Acceleration
 description: I feel the need for speed
-date: 2017-11-27
+date: 2017-11-17
 publishdate: 2017-11-27
 categories: ["programming"]
 cover: cover-caution-steep
