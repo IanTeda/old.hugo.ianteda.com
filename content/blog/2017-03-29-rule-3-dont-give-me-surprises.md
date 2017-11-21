@@ -8,7 +8,7 @@ cover: cover-slippery-surface
 slug: rule-3-dont-give-me-surprises
 ---
 
-> Be in control of your destiny, by getting out in front of issues and avoiding suprises.
+{{< blockquote quote="Be in control of your destiny, by getting out in front of issues and avoiding suprises.">}}
 
 As a manager, I want to know about the good news and the bad news. But don’t bring me surprises. Surprises indicate a lack of understanding and ownership of what you are responsible for.
 
@@ -19,7 +19,5 @@ Things go wrong, everyone understands that. But there is a difference between ba
 When bringing bad news about the costs, have an understanding why your quaities increased or why the rate changed. Know what the worst case is if thins are kept the sameπ -- understanding the problem -- and these are the changes we are making to bring the cost blow out back in -- getting in front of the issue and controlling your destiny.
 
 Give me good news, give me bad news. Just don't give me surprises. No one likes surprises. Make your mistakes ones of ambition, not sloth -- [The Bold Mistake Instruction](/blog/the-bold-mistake-instruction).
-
-> Rule 3 - Give me good news, give bad news. Just don't give me surprises
 
 _Check out the [The Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._

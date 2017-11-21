@@ -8,8 +8,7 @@ cover: cover-center-point-morning
 slug: rule-5-start-early
 ---
 
-> The early bird catches the worm.
-> <cite> - William Camden</cite>
+{{< blockquote quote="The early bird catches the worm." author="William Camden">}}
 
 Always try to start work early because it demonstrates that you want your job and you want to be there. Most things can be taught, enthusiasim and desire, for the most part, cannot be.
 
@@ -17,7 +16,7 @@ Getting to work early gives you the oppurtunity to set the destiny of constructi
 
 The last reason is about respect. Don't ask people to do things you wouldn't do yourself. Your formen and workers are starting early, so should you.
 
-> Fruits of one's labor(s): the results of one’s work. We displayed the fruits of our labor at the county fair. What have you accomplished? Where is the fruit of your labors?
+{{< blockquote quote="Fruits of one's labor(s): the results of one’s work. We displayed the fruits of our labor at the county fair. What have you accomplished? Where is the fruit of your labors?">}}
 
 Construction work demands a lot of hours from you. Early mornings, late evenings, weekends and night shifts. But with those hours comes the satisfaction of seeing things get built. Creating something from nothing. Giving birth.
 

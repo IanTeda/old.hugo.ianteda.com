@@ -8,15 +8,15 @@ cover: cover-tempe-sunset
 slug: rule-13-good-questions
 ---
 
-> Successful people ask better questions, and as a result, they get better answers.<br/><cite>-- Tony Robbins</cite>
+{{< blockquote quote="Successful people ask better questions, and as a result, they get better answers." author="Tony Robbins">}}
 
 Questions are the cornerstone of communication -- aka leadership, problem solving and learning. So being able to ask good questions is the key to good communication, efficient problem solving and effective learning.
 
 There is an art to asking a good questions, because after all if you put garbage in you get garbage out. If people are giving you the wrong answers, the chances are you are asking the wrong questions.
 
-## Open-Ended Questions -- Communication
+#### Open-Ended Questions -- Communication
 
-> It is not the answer that enlightens, but the question.<br><cite>-- Decouvertes</cite>
+{{< blockquote quote="It is not the answer that enlightens, but the question." author="Decouvertes">}}
 
 An open-ended question is question that has a non yes-or-no answer. Open-ended questions invite people into a conversation and make them articulate their point of view, give you their opinions and share their feelings.
 
@@ -28,9 +28,9 @@ Open ended questions can be a little uncomfortable, because they appear to hand 
 
 When getting to know people and building relationships open-ended questions about them are a great way to build rapport. After all, we all love talking about ourselves.
 
-## The 5 Why’s
+#### The 5 Why’s
 
-> If you do not ask the right questions, you do not get the right answers. A question asked in the right way often points to its own answer. <br/><cite>— Edward Hodnett</cite>
+{{< blockquote quote="If you do not ask the right questions, you do not get the right answers. A question asked in the right way often points to its own answer." author="Edward Hodnett">}}
 
 Toddlers love to ask why, over and over and over again. And so should you. Often the root cause to a problem can be found in the fifth why[^5whys]. Start by defining the problem, then ask:
 
@@ -42,15 +42,15 @@ Toddlers love to ask why, over and over and over again. And so should you. Often
 
 With the five why's, you will be a lot closer to understanding your problem. Asking why sounds simplistic, but it forces people to articulate their view. But ensure answers are based in truth, that it can be demonstrated. With each successive why, a layer of fluff is removed. Simplifying the groups understanding of the problem and its cause. The root cause can be found in the most simplistic explanation.
 
-## Can you Paraphrase what I just Said?
+#### Can you Paraphrase what I just Said?
 
-> For true success ask yourself these four questions: Why? Why not? Why not me? Why not now?<br/><cite>— James Allen</cite>
+{{< blockquote quote="For true success ask yourself these four questions: Why? Why not? Why not me? Why not now?" author="James Allen">}}
 
 I like to check-in when explaining something new to people, to help ensure understanding. It can be frustrating when someone walks away and you think they understand what needs to be done. Only to find out a couple of days later that they didn't understand and missed the point.
 
 I check-in by asking them to paraphrase -- repeat what I just said in there own words -- what I have just explained or asked them to do. But keep in mind, if they don't understand, the chances are you haven't explained it good enough. So try again and again until they do.
 
-> Question everything. Learn something. Answer nothing.<br/><cite>— Engineer’s Motto</cite>
+{{< blockquote quote="Question everything. Learn something. Answer nothing." author="Engineer’s Motto">}}
 
 _Check out the [The Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._
 

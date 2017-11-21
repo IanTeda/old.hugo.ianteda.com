@@ -8,7 +8,7 @@ cover: cover-hydepark-night
 slug: rule-2-opposing-views
 ---
 
-> Much of life is a dichotomy, a contradiction and construction life is no different.
+{{< blockquote quote="Much of life is a dichotomy, a contradiction and construction life is no different.">}}
 
 When faced with what seem like mutually exclusive and opposing views, often the answer is both. Much of life is a dichotomy, a contradiction and construction life is no different. The skill comes in first realizing this, being comfortable with the contradictions and knowing how to find the balance.
 
@@ -21,7 +21,5 @@ Should I micro manage or macro manage? The answer is you should do both. There a
 Should I be good cop or bad cop? The answer is both. You must be able to go to the extremes of being angry and being passive, and be able to recognise when and how to deploy each of them. But you cannot live life at the extreme of either. You need to be able to defend your ideas, but if you never change your mind people will not approach you with what could be the answer.
 
 When faced with opposing views, often the answer is both.
-
-> Rule 2 - When faced with opposing views, often the answer is both
 
 _Check out the [The Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._

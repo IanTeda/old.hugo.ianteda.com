@@ -7,11 +7,12 @@ series: [ "The Engineering Rule Book" ]
 cover: cover-wharf-timbers
 slug: rule-10-pop-quiz
 ---
-> You don't know, what you don't know.<br/><cite>- Unknown</cite>
+
+{{< blockquote quote="You don't know, what you don't know." author="Unknown">}}
 
 Never have truer words been spoken. It is always the unknown unknowns that get you. Because they blind side you when you are looking the other way.
 
-> What gets measured gets managed.<br/><cite>- Peter Drucker</cite>
+{{< blockquote quote="What gets measured gets managed." author="Peter Drucker">}}
 
 If you want people to focus on something, ask them to measure it. And pop quiz them each day about what the number is. The pop quiz will help:
 
@@ -20,17 +21,17 @@ If you want people to focus on something, ask them to measure it. And pop quiz t
 * Reinforce that this is important to you;
 * Allow you adapt sooner to changes. With the level of detail or how often you measure being relative to the complexity and size;
 
-> Measurement is fabulous. Unless you are busy measuring what is easy to measure as opposed to what's important.<br/><cite>  - Seth Godin</cite>
+{{< blockquote quote="Measurement is fabulous. Unless you are busy measuring what is easy to measure as opposed to what's important." author="Seth Godin">}}
 
 Worried about not meeting program: measure how many m3 of concrete have gone in, tonnes of reinforcement or dollars spent to date.
 
 Worried about the budget: measure man hours, plant hours or wastage.
 
-> One accurate measurement, is worth a thousand expert opinions.<br/><cite>- Unknown</cite>
+{{< blockquote quote="One accurate measurement, is worth a thousand expert opinions." author="Unknown">}}
 
 The best tool I have found for measuring on construction projects is [Earn Value Analysis (EVA)](https://en.wikipedia.org/wiki/Earned_value_management). It allows you to measure scope, time and costs against planned work.
 
-> If you don't know how your are performing relative to the plan, how do you know when you are off track and need correction?<br/><cite> - Personal</cite>
+{{< blockquote quote="If you don't know how your are performing relative to the plan, how do you know when you are off track and need correction?" author="Personal">}}
 
 _Check out the [The Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._
 

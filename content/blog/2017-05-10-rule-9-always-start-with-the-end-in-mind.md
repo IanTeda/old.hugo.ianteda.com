@@ -8,13 +8,13 @@ cover: cover-coat-hanger
 slug: rule-9-always-start-with-the-end-in-mind
 ---
 
-> I can't change the direction of the wind, but I can adjust my sails to always reach my destination. <br/><cite>-- Jimmy Dean</cite>
+{{< blockquote quote="I can't change the direction of the wind, but I can adjust my sails to always reach my destination." author="Jimmy Dean">}}
 
 Always start with the end in mind. What is the ideal outcome? What is your destination? And then breakdown the journey into manageable pieces, reverse engineering the path to get there.
 
 If you don't have a destination, you don't have direction. And if you don't have direction you are lost, going around and around in circles.
 
-> By prevailing over all obstacles and distractions, one may unfailingly arrive at his chosen goal or destination. <br/><cite>-- Christopher Columbus</cite>
+{{< blockquote quote="By prevailing over all obstacles and distractions, one may unfailingly arrive at his chosen goal or destination." author="Christopher Columbus">}}
 
 The path isn't always clear, because the path is not always well traveled. But with an end in mind, a good internal compass and a belief in self you can reach your destination.
 
@@ -22,7 +22,7 @@ A good internal compass is about optimism. The optimism that the destination is 
 
 The path less traveled can be dangerous, it is uncharted and filled with traps. And when pioneering, when innovating often you will need to be the first to taste the berries and hope they are not poisonous.
 
-> To become 'unique,' the challenge is to fight the hardest battle which anyone can imagine until you reach your destination. <br/><cite>-- A. P. J. Abdul Kalam</cite>
+{{< blockquote quote="To become 'unique,' the challenge is to fight the hardest battle which anyone can imagine until you reach your destination." author="A. P. J. Abdul Kalam">}}
 
 _Check out the [The Engineering Rule Book](/series/the-engineering-rule-book) for the other rules._
 

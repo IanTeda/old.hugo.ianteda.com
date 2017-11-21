@@ -8,11 +8,11 @@ cover: cover-old-rail
 slug: rule-12-hard-things
 ---
 
-> Sometimes the hardest thing and the right thing are the same.<br/><cite>The Fray - All at Once</cite>
+{{< blockquote quote="Sometimes the hardest thing and the right thing are the same." author="The Fray - All at Once">}}
 
 Anything worthwhile is hard. Because it is the difficulties that make it unique and it is the uniqueness that makes it valuable.
 
-> Difficult roads often lead to beautiful destinations. <br/><cite>- Unknown</cite>
+{{< blockquote quote="Difficult roads often lead to beautiful destinations." author="Unknown">}}
 
 When you have the choice, always start with the hardest part first. By achieving the hardest part first you gain a strategic and physiological advantage.
 

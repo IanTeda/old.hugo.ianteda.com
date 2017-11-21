@@ -7,8 +7,7 @@ series: [ "The Engineering Rule Book" ]
 cover: cover-helens-tunnel
 slug: rule-7-do-not-walk-past-it
 ---
-
-> The standard you walk past, is the standard you accept. <br><cite> - David Morrison</cite>
+{{< blockquote quote="The standard you walk past, is the standard you accept." author="David Morrison">}}
 
 Be it a safety concern, poor workmanship or bad behaviour if you close your eyes and walk past it then you are accepting it. You are saying that you are not concerned and feel free to keep doing it without correction.
 
