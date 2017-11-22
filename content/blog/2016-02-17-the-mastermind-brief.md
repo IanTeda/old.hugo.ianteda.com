@@ -6,17 +6,16 @@ categories: ["leadership"]
 cover: cover-franklin
 slug: the-mastermind-brief
 ---
-> No two minds ever come together without thereby creating a third, invisible intangible force, which may be likened to a third mind [the master mind].
-> <cite> -- Napoleon Hill</cite>
+
+{{< blockquote quote="No two minds ever come together without thereby creating a third, invisible intangible force, which may be likened to a third mind [the master mind]" author="Napoleon Hill">}}
 
 {{< book-cover src="book-think-and-grow-rich" alt="Think and Grow Rich - By Napolean Hill" href="http://a.co/4zvV4Ni" >}}
 
 The phrase Mastermind Group (MMG) was first coined by Napoleon Hill in his 1937 book "[Think and Grow Rich](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1585424331&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=iate-20)". A MMG can be thought of as a peer advisory board that meets with the aim of sharpening the groups personal and business skills so they can achieve optimum outcomes[^napoleon-hill]. It is not a group coaching session[^definition].
 
-### The Why?
+#### The Why?
 
-> “You are the average of the five people you spend the most time with.”
-> <cite> — Jim Rohn</cite>
+{{< blockquote quote="You are the average of the five people you spend the most time with." author="Jim Rohn">}}
 
 The possible result of any situation is the average of all possible outcomes. So if your aim is to become a professional table tennis player, then surround yourself with professional table tennis players. To be successful, surround yourself with and successful people. A MMG is a way of surrounding yourself with like-minded people of similar focuses, ambition and interest. Both Benjamin Franklin and Thomas Edison saw the benefits MMG.
 
@@ -24,17 +23,17 @@ Don’t reinvent the wheel, you are not the first professional table tennis play
 
 A MMG is a place of unbiased ideas and respectful opinions. Encouragement, inspiration, shared resources and accountability[^start-mmg]. It is not a gossip group but focused on your growth and the growth of others in the group through the collective brain. To paraphrase Napoleon Hill, success is planned and earned. The only limitation you have is the one you accept in your own mind.
 
-### What is in a name?
+#### What is in a name?
 
 A name and description helps set the purpose and make clear the groups aims. Ensuring it is formed around people striving for a common purpose, but not necessarily with common perspectives. Hearing different views helps you see the forest from the trees. It is not always easy to see your own problems they way others do[^mmg-structure]. It is important to have people with similar drive, commitment and be in the same place in business/life so that everyone gets something from the MGG and the input doesn't become lop sided.
 
-### MMG Membership
+#### MMG Membership
 
 Pick your group members carefully, as the group will only be as good as the people in it. Try to choose people with different perspective and skill sets, because they will see the world in a different way and provide solutions you may not see[^start-mmg]. And only allow new members with the unanimous consent of the group.
 
 Be ready to ask a member to leave the MMG if they are not up to the standard of participation and do it quickly once the poor behaviour becomes clear. A "slacking" member will bring down the energy and fun level of the whole MMG[^mmg-tips].
 
-### Create habits by creating rules
+#### Create habits by creating rules
 
 A set of rules will help set expectations for the MMG group, avoid disappointment and provide understanding on their return of investment (time). If someone is not a good fit for the group (i.e. not meeting expectations), than the rules — not followed — make a hard conversation about someone leaving easier.
 
@@ -47,13 +46,13 @@ A set of rules will help set expectations for the MMG group, avoid disappointmen
 1. What happens in the MMG stays in the MMG. It is a sacred place.
 1. Be willing to dissect and be dissected.
 
-### Meet Regularly and Precisely
+#### Meet Regularly and Precisely
 
 Keep to a regular meeting schedule and ensure all members are punctual. Ensuring that meetings end on time and each member has equal time. Capture what happens at each meeting: lessons and triumphs; goals; items you want to keep each other accountable on.
 
 Assuming a 60 minute meeting, a meeting starts with a 10 minute round table where everyone shares wins they have had — preferable from previous goals. This sets a positive tone for the meeting and gets the blood pumping. Followed by a 40 minute hot seat where one member presents a problem or business idea they are working on and the group provides feed back and advice on how to move forward. To close out the meeting a second 10 minute round table where the MMG share goals for the following period[^mmg-structure].
 
-### Roles and Responsibilities
+#### Roles and Responsibilities
 
 Each meeting needs three roles, rotated each meeting: 1 - The Facilitator; 2- The Hot Seat; 3 - The Group. Each roles has different responsibilities within the meeting:
 
@@ -79,7 +78,7 @@ The Group
 * Encourages and supports (energize)
 * Ask open questions, not closed ones[^open-close]
 
-### Tips
+#### Tips
 
 9 Tips to for a successful MMG:
 
@@ -93,11 +92,9 @@ The Group
 1. Make it a priority
 1. Create rules
 
-### Building a MMG
+#### Building a MMG
 
 MMG are typically built through networks and connections. A good way to build your network is to go to environments were you can find like minded people such as seminars, meet ups and industry groups. The more successful you become the easier it is to find people for your MMG[^mmg-build].
-
-#### Footnotes
 
 [^start-mmg]: [How To Start and Run a Mastermind Group](http://www.lifehack.org/articles/productivity/how-to-start-and-run-a-mastermind-group.html)
 [^definition]: [What is a Mastermind Group? A Definition](http://www.thesuccessalliance.com/what-is-a-mastermind-group.html)

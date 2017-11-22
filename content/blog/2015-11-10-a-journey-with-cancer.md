@@ -7,6 +7,7 @@ categories: ["creativity"]
 cover: cover-dirk-teda-rover
 slug: a-journey-with-cancer
 ---
+
 I would like to acknowledge and thank all those that helped and supported my father on end of his journey, and the Teda family after his passing. Your love is very much appreciated and heartfelt. Thank You.
 
 His journey with cancer illustrates well his character, the person that he was and the life that he lived. He was:

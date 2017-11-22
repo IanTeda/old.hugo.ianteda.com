@@ -6,8 +6,8 @@ categories: ["creativity"]
 cover: cover-car-rock
 slug: the-habit-modification
 ---
-> Your beliefs become your thoughts; Your thoughts become your words; Your words become your actions; Your actions become your habits; Your habits become your values; Your values become your destiny.
-> <cite> Mahatma Ghandi.</cite> 
+
+{{< blockquote quote="Your beliefs become your thoughts; Your thoughts become your words; Your words become your actions; Your actions become your habits; Your habits become your values; Your values become your destiny." author="Mahatma Ghandi.">}} 
 
 It is our habits that influence our actions, and it is our actions that define our character. It is what we do, our habits, not what we say that people judge use on.
 
@@ -17,8 +17,7 @@ I explored what habits are and how they work in a previous post, [The Habit Loop
 
 ## Creating Habits
 
-> Men's natures are alike; it is their habits that separate them.
-> <cite> Confucius, Analects.</cite>
+{{< blockquote quote="Men's natures are alike; it is their habits that separate them." author="Confucius, Analects.">}} 
 
 {{< image src="habit-loop" alt="Power of Habit - Why we do what we do in life and business" width="100%">}}
 
@@ -95,6 +94,6 @@ Here are a few ideas:
 * _Keystone_: build habits of other habits. Break things down to small wins. Want to exercise more, work on the habit of getting up early. Then build on that by exercising first thing in the morning.
 * _Keep a log_: writing down a few words helps later when recalling what you were thinking, feeling or doing. Our brains don't remember the whole story. They remember key events and build out the rest with our understanding of reality. That is why a smell or a place can bring up memories.
 
-> Watch your thoughts, they become your WORDS. Watch your words, they become you ACTIONS. Watch your actions, they become your HABITS. Watch your habits, they become your CHARACTER. Watch your character, it becomes your DESTINY.
+{{< blockquote quote="Watch your thoughts, they become your WORDS. Watch your words, they become you ACTIONS. Watch your actions, they become your HABITS. Watch your habits, they become your CHARACTER. Watch your character, it becomes your DESTINY.">}} 
 
 [^framework]: [How Habits Work](http://charlesduhigg.com/how-habits-work/)

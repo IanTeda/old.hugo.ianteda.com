@@ -6,8 +6,8 @@ categories: ["creativity"]
 cover: cover-locks
 slug: the-habit-loop
 ---
-> A habit is something you can do without thinking — which is why most of us have so many of them.
-> <cite> Frank A. Clark.</cite>
+
+{{< blockquote quote="A habit is something you can do without thinking — which is why most of us have so many of them." author="Frank A. Clark.">}}
 
 We are, for the most part a collection of habits. A collection of emotional, physical and intellectual habits, systematically organised for our brains optimisation. Manifesting themselves in our character, businesses, social groups and cultures.
 
@@ -39,5 +39,4 @@ Habits could be brought about by a craving for positive emotions, or accomplishm
 
 For example every McDonald’s looks the same - the company deliberately tries to standardize stores’ architecture and what employees say to customers, so everything is a consistent cue to trigger eating routines. The sound a Coca-Cola can makes when you open it. The foaming of your tooth paste. Why you always enter a Supermarket on the left hand side and the fresh food is first.
 
-> The chains of habit are generally too small to be felt until they are too strong to be broken.
-> <cite> Samuel Johnson.</cite>
+{{< blockquote quote="The chains of habit are generally too small to be felt until they are too strong to be broken." author="Samuel Johnson.">}}

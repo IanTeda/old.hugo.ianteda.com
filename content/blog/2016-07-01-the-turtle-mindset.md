@@ -7,8 +7,7 @@ cover: cover-turtle
 slug: the-turtle-mindset
 ---
 
-> "Turtles carry their homes on their backs." Running her finger over the tattoo, she tells him what her dad told her: "They're exposed and hidden at the same time. They're a symbol of strength and perseverance."
-> <cite> -- Christina Baker Kline</cite>
+{{< blockquote quote="Turtles carry their homes on their backs. Running her finger over the tattoo, she tells him what her dad told her: They're exposed and hidden at the same time. They're a symbol of strength and perseverance." author="Christina Baker Kline">}}
 
 In the Aesop's Fables "[The Tortoise and the Hare](https://en.wikipedia.org/wiki/The_Tortoise_and_the_Hare)", the turtle wins the race not by aiming for big (fast) wins, instead he stays on his path with a single minded focus. Soon overtaking the hare, one little win at a time.
 
@@ -34,8 +33,8 @@ Say you invest $100,000 from your widget profits, but the investment doesn't wor
 
 {{< image src="win-loss-ratio-graph" alt="Win Loss - Percentage Graph" width="100%">}}
 
-> Watch the turtle. He only moves forward by sticking his neck out.
-> <cite> —Louis V. Gerstner, Jr.</cite>
+
+{{< blockquote quote="Watch the turtle. He only moves forward by sticking his neck out." author="Louis V. Gerstner, Jr.">}}
 
 Richard Branson is known for his "Screw it let’s do it" tag line, but like all successful business people he always protects his down side. At the launch of Virgin Atlantic Branson negotiated with Boeing to buy back his plane if the venture didn't work out[^branson], limiting the downside or loses to 6 months of Virgin profits. Yes you need to take risks (see  "[The Bold Mistake Instruction](/blog/the-bold-mistake-instruction.html)"), but betting the farm is rarely a good plan. Always protect your principle[^TIP].
 

@@ -6,8 +6,8 @@ categories: ["leadership"]
 cover: cover-ian-intake-tower
 slug: the-personal-branding-defence
 ---
-> Start by knowing what you want and who you are, build credibility around it and deliver it online in a compelling way.
-> <cite> — Krista Neher</cite>
+
+{{< blockquote quote="Start by knowing what you want and who you are, build credibility around it and deliver it online in a compelling way." author="Krista Neher">}}
 
 ### You are a brand
 
@@ -17,22 +17,19 @@ Personal branding is about telling your story (1), letting the world know what y
 
 #### 1 - Your Story
 
-> If people like you they will listen to you, but if they trust you, they’ll do business with you.
-> <cite> — Zig Ziglar</cite>
+{{< blockquote quote="If people like you they will listen to you, but if they trust you, they’ll do business with you." author="Zig Ziglar">}}
 
 Your story is the proof, the walk behind your talk. It demonstrates who you are and what you believe in. When telling your story don’t create two worlds be authentic, it is easier to remember. People will see through your false world, discard what you say and not trust you.
 
 #### 2 - Your Values
 
-> If people believe they share values with a company, they will stay loyal to the brand.
-> <cite> — Howard Schultz</cite>
+{{< blockquote quote="If people believe they share values with a company, they will stay loyal to the brand." author="Howard Schultz">}}
 
 People buy the brand not the product. In the same way people will buy into you, not what you say. [^start-with-why]. Why should someone trust you? What code to you live by?
 
 #### 3 - Build Credibility
 
-> A brand is the set of expectations, memories, stories and relationships that, taken together, account for a consumer’s decision to choose one product or service over another.
-> <cite> — Seth Godin</cite>
+{{< blockquote quote="A brand is the set of expectations, memories, stories and relationships that, taken together, account for a consumer’s decision to choose one product or service over another." author="Seth Godin">}}
 
 Building credibility is about continuing your story, sharing your thoughts and putting yourself out there. It builds your personal trust, authenticity and authority. A common way to build credibility is to blog (write). Put into words what you believe, think or notice about the world and then put a URL to it for others to read. You could also try doing a vlog.
 

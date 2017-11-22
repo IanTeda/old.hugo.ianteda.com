@@ -6,8 +6,8 @@ categories: ["creativity"]
 cover: cover-machiavelli
 slug: the-bold-mistake-instruction
 ---
-> All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.
-> <cite>-- Chapter III: Of Mixed Princedoms[^footnote]</cite>
+
+{{< blockquote quote="All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer." author="Chapter III: Of Mixed Princedoms">}}
 
 {{< book-cover src="book-the-prince" alt="The Prince - Book Cover" href="http://a.co/3LveTaO" >}}
 

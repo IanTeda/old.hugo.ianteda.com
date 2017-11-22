@@ -6,8 +6,8 @@ categories: ["creativity"]
 cover: cover-glob
 slug: the-mental-model-definition
 ---
-> Man seeks for himself a simplified and lucid image of the world.
-> <cite> -- Albert Einstein</cite>
+
+{{< blockquote quote="Man seeks for himself a simplified and lucid image of the world." author="Albert Einstein">}}
 
 Mental models simplify the world around us so we can make sense of our surroundings. They are an [abstraction](https://en.wikipedia.org/wiki/Abstraction) of reality, a simplification of an incomprehensibly world so our limited cognitive capabilities can process all our inputs without overload.
 
@@ -19,8 +19,7 @@ We form Mental models either through direct, or shared experiences. We can see t
 
 Why do people with more experience get the job? Because they have more mental models to guide them. When your set of mental models is limited, so is your potential for finding a solution. The decision maker without a mental model to apply is overwhelmed [^creative-advatage], we cannot function without them. We abstract away complexity and understanding when we hire a plumber, visit a doctor or engage a lawyer. Why? Because it would take a long time to learn all the knowledge and skills needed to be plumber, doctor and lawyer.
 
-> The image of the world around us, which we carry in our head, is just a model. Nobody in his head imagines all the world, government[s] or [countries]. He has only selected concepts, and relationships between them, and uses those to represent the real system.
-> <cite> -- Jay Wright Forrester</cite>
+{{< blockquote quote="The image of the world around us, which we carry in our head, is just a model. Nobody in his head imagines all the world, government[s] or [countries]. He has only selected concepts, and relationships between them, and uses those to represent the real system." author="Jay Wright Forrester">}}
 
 Over at [Creative Advantage](http://www.createadvantage.com/glossary/mental-model) they list four general problems with mental models:
 
@@ -29,8 +28,7 @@ Over at [Creative Advantage](http://www.createadvantage.com/glossary/mental-mode
 * Third, they could lead to wrong answers if fed by incorrect information
 * Fourth, their effectiveness is rarely assessed.
 
-> If all you have is a hammer, everything looks like a nail.
-> <cite> -- Abraham Maslow</cite>
+{{< blockquote quote="If all you have is a hammer, everything looks like a nail." author="Abraham Maslow">}}
 
 The more you master a single mental model, the more likely this mental model will be your downfall. Knowledge is about connections, connections between mental models. Wisdom is the application of that knowledge.
 

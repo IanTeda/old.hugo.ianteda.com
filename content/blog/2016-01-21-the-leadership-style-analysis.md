@@ -7,12 +7,11 @@ cover: cover-stars
 slug: the-leadership-style-analysis
 ---
 
-> "Styles are tailor made to different situations. Different leaders must have their own styles and these styles must be able to adapt to different people and situations."
-> <cite> -- John Ng</cite>
+{{< blockquote quote="Styles are tailor made to different situations. Different leaders must have their own styles and these styles must be able to adapt to different people and situations." author="John Ng">}}
 
 You need to find your own style of leadership, one that complements your character. That being said, a good leader use all three styles depending on the dynamics.
 
-### Leadership Styles
+#### Leadership Styles
 
 The father of leadership literature is arguably the psychologist [Kurt Lewin](https://en.wikipedia.org/wiki/Kurt_Lewin). Who in 1939, following his research proposed 3 styles of leadership[^enotes]:
 
@@ -30,7 +29,7 @@ The Kurt Lewin study discovered[^definition-of-leadership] that members of Autho
 
 Like most things in life, it isn't healthy to live at the extreme. You need to have balance. I belive it is also true for leadership styles. Living at the extreme of one style isn't productive for you or the group. Your default style should be somewhere in the intersection of the three, however you need to be able to goto one of the extremes if the dynamics require it.
 
-### When to Use
+#### When to Use
 
 The __Autocratic Leadership__ style is best used when the group -- or individual -- lack knowledge[^leadership-styles]. Such as when they are new or just learning the role and the leader is competent and a good coach.
 
@@ -40,7 +39,6 @@ The __Delegator Leadership__ style is best used when number of members out grows
 
 Small business typically start with the Autocratic, move onto Participator and if the owner can let go, transition to the Delegator style. Much like raising children.
 
-#### Footnotes:
 [^enotes]: [Authoritarian, Democratic & Laissez-Faire Leadership](http://www.enotes.com/research-starters/authoritarian-democratic-laissez-faire-leadership)
 [^laissez-faire]: [Dictionary: laissez-faire](http://www.dictionary.com/browse/laissez-faire)
 [^definition-of-leadership]: [Definition of Leadership. Kurt Lewin & Belbin](https://nofinchaos.wordpress.com/2012/03/07/definition-of-leadership-kurt-lewin/)

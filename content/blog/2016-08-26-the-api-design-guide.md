@@ -7,7 +7,7 @@ cover: cover-old-typewriter
 slug: the-api-design-guide
 ---
 
-> An API allows one piece of software talking to another piece of software
+{{< blockquote quote="An API allows one piece of software talking to another piece of software">}}
 
 ### Definitions
 
