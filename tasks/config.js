@@ -49,8 +49,6 @@ module.exports = {
       removeComments: true,
       collapseWhitespace: true,
       collapseBooleanAttributes: true,
-      removeAttributeQuotes: true,
-      removeRedundantAttributes: true,
     },
   },
   inject: {
