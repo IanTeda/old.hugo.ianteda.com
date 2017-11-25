@@ -46,6 +46,13 @@ googleAnalytics =           "UA-71253711-1"
     name =                  "Programming"
     url =                   "/categories/programming"
 
+[[menu.series]]
+    name =                  "The Engineering Rule Book"
+    url =                   "/series/the-engineering-rule-book"
+[[menu.series]]
+    name =                  "Letters to my Kids"
+    url =                   "/series/letters-to-my-kids"
+
 
 [related]
 
