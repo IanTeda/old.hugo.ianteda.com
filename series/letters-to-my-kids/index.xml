@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Letters to my Kids on Ian Teda</title>
+    <link>https://ianteda.com/series/letters-to-my-kids/</link>
+    <description>Recent content in Letters to my Kids on Ian Teda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ianteda.com/series/letters-to-my-kids/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Know Yourself, Be Yourself, Love Yourself.</title>
+      <link>https://ianteda.com/blog/know-yourself-be-yourself-love-yourself/</link>
+      <pubDate>Sat, 25 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ianteda.com/blog/know-yourself-be-yourself-love-yourself/</guid>
+      <description>A letter to my kids,
+ Nosce te ipsum, tu ipse esto, ama te ipsum. &amp;ldquo;know yourself, be yourself, love Yourself&amp;rdquo;
+ Know Yourself: Step back from the movie being played in your head and examine your habits, your motives and your desires from the outside in.</description>
+    </item>
+    
+  </channel>
+</rss>
