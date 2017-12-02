@@ -11,4 +11,4 @@ forward: A series of letters to my kids
 
 A series of letters I wrote for my kids.
 
-Thoughts, philosophies, maximums, lessons, and hopes I would like to pass on. How to live, how to love and how to be.
+Thoughts, philosophies, maximums, lessons, and hopes I would like to pass on to my kids. How to live, how to love and how to be.

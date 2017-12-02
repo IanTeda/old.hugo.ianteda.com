@@ -11,7 +11,7 @@ slug: know-yourself-be-yourself-love-yourself
 
 A letter to my kids,
 
-> Nosce te ipsum, tu ipse esto, ama te ipsum. "know yourself, be yourself, love Yourself"
+{{< blockquote src="https://www.quora.com/What-is-the-proper-English-Latin-translation-for-know-thyself-be-thyself-love-thyself-in-the-feminine" quote="Nosce te ipsum, tu ipse esto, ama te ipsum. 'know yourself, be yourself, love Yourself'" author="Quora">}}
 
 __Know Yourself__: Step back from the movie being played in your head and examine your habits, your motives and your desires from the outside in. Do they reflect who you want to be, where you want to be, and what your goals and priorities are?  To know yourself is detach from your ego and ask why?
 
@@ -21,4 +21,4 @@ __Love Yourself__: You will never be able to love others and others will find it
 
 Do your habits reflect your goals, does your character reflect the person you want to be, do you love yourself and the person you are.  If not, take action. Because if you do not master your life, life will master you and pass you by.
 
-Check out other [Letters to my Kids](/series/letters-to-my-kids)
+Have a read of other [Letters to my Kids](/series/letters-to-my-kids)
