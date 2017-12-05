@@ -9,8 +9,6 @@ summaryLength =             45
 # Build to temp folder during development
 publishDir =                ".build"
 
-googleAnalytics =           "UA-71253711-1"
-
 [taxonomies]
   category =                "categories"
   series =                  "series"
@@ -19,8 +17,10 @@ googleAnalytics =           "UA-71253711-1"
 
 
 [params]
+    googleAnalytics =       "UA-71253711-1"
     author =                "Ian Teda"
     tagLine =               "Husband, father, engineer & explorer."
+    description =           "I choose to be authentic through honesty, integrity and transparency. With a spirit for creativity, imagination and adventure. Seeking personal growth by being curious, learning and reflecting. Looking for freedom through the discipline of habit. But most of all I am trying to be useful by adding value in what I do."
     email =                 "mailto://ian@teda.id.au"
     indexHeader =           "cover-bw-highrise"
     now =                   "/now"
