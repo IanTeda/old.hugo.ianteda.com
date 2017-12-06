@@ -1,5 +1,6 @@
 ---
 title: The Mastermind Brief
+type: blog
 description: A Master Mind Group can be thought of as a peer advisory board that meets with the aim of sharpening the groups personal and business skills so they can achieve optimum outcomes
 date: 2016-02-17
 categories: ["leadership"]

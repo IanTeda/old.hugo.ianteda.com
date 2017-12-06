@@ -1,4 +1,5 @@
 ---
+type: blog
 title: Rule 9 - Always start with the end in mind.
 description: Then reverse engineer how to get there.
 date: 2017-05-10

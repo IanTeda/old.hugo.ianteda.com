@@ -1,4 +1,5 @@
 ---
+type: blog
 title: Rule 15 - We Are All Paid To Think
 description: It does not take a four year degree to think
 date: 2017-07-02

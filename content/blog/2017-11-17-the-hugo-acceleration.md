@@ -1,4 +1,5 @@
 ---
+type: blog
 title: The Hugo Acceleration
 description: I feel the need for speed
 date: 2017-11-17

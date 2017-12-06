@@ -1,4 +1,5 @@
 ---
+type: blog
 title: Rule 8 - Keep one eye open and your ear to the ground.
 description: Take the long slow way around site, keeping one eye open and your ear to the ground.
 date: 2017-05-03

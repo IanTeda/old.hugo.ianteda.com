@@ -1,5 +1,6 @@
 ---
 title: The Intake Tower Explanation
+type: blog
 description: A video about the construction of Cotter Dam intake tower
 date: 2016-03-02
 categories: ["engineering"]

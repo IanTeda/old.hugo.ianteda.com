@@ -1,5 +1,6 @@
 ---
 title: A Letter to my Sons
+type: blog
 description: Live, love, be generous, show respect and give thanks.
 excerpt: Give thanks for what you have and for the joy of life. If you see no reason to give thanks, the fault lies only in yourself.
 date: 2015-12-10

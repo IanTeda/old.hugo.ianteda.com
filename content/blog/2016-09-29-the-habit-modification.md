@@ -1,4 +1,5 @@
 ---
+type: blog
 title: The Habit Modification
 description: It is our habits that influence our actions, and it is our actions that define our character
 date: 2016-09-29

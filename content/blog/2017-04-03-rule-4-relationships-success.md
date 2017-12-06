@@ -1,4 +1,5 @@
 ---
+type: blog
 title: Rule 4 - Relationships, say hello because success is largely a result of those around you.
 description: The best way to build relationships is to say hello and make an effort to learn their name.
 date: 2017-04-03

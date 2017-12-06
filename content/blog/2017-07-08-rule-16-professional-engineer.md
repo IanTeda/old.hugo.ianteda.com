@@ -1,4 +1,5 @@
 ---
+type: blog
 title: Rule 16 - The Professional Engineer
 description: Collections of information get abstracted away into what we call professions
 date: 2017-07-08

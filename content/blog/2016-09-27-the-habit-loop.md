@@ -1,4 +1,5 @@
 ---
+type: blog
 title: The Habit Loop
 description: The chains of habit are generally too small to be felt until they are too strong to be broken.
 date: 2016-09-27

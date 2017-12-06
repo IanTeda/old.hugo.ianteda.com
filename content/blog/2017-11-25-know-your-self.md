@@ -1,4 +1,5 @@
 ---
+type: blog
 title: Know Yourself, Be Yourself, Love Yourself.
 description: A Series of Letters to my Kids
 date: 2017-11-25

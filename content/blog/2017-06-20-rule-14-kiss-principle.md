@@ -1,4 +1,5 @@
 ---
+type: blog
 title: Rule 14 - The KISS Principle
 description: Make everything as simple as possible, but not simpler. Albert Einstein
 date: 2017-06-20

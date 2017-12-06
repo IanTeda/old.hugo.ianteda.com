@@ -1,5 +1,6 @@
 ---
 title: The API Design Guide
+type: blog
 description: One piece of software talking to another piece of software
 date: 2016-08-26
 categories: ["programming"]

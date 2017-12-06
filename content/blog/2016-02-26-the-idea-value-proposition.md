@@ -1,5 +1,6 @@
 ---
 title: The Idea Value Proposition
+type: blog
 description: Ideas are easy, cheap even. It is the execution that is hard, and because it is hard it is worth millions.
 date: 2016-02-26
 categories: ["leadership"]

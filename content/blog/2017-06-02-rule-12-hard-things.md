@@ -1,4 +1,5 @@
 ---
+type: blog
 title: Rule 12 - When you have the choice, always start with the hardest part.
 description: By achieving the hardest part first you gain a strategic and phycological advantage.
 date: 2017-06-02

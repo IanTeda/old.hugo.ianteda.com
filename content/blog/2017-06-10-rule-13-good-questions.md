@@ -1,4 +1,5 @@
 ---
+type: blog
 title: Rule 13 - Learn to ask good questions.
 description: Questions are the cornerstone of communication, problem solving and learning.
 date: 2017-06-10

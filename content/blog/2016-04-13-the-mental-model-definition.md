@@ -1,5 +1,6 @@
 ---
 title: The Mental Model Definition
+type: blog
 description: Mental models are an abstraction of reality, a simplification of an incomprehensibly world.
 date: 2016-04-13
 categories: ["creativity"]

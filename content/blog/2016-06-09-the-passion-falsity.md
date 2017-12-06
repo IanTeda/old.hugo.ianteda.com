@@ -1,5 +1,6 @@
 ---
 title: The Passion Falsity
+type: blog
 description: Don't follow your passion, it isn’t waiting for you. Instead create your life and let your passion follow you.
 date: 2016-06-09
 categories: ["creativity"]

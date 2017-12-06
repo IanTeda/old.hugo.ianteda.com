@@ -1,5 +1,6 @@
 ---
 title: The ianteda.com Directive
+type: blog
 description: Why I created ianteda.com and what I am hoping to create.
 date: 2016-01-21
 categories: ["leadership"]

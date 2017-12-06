@@ -1,4 +1,5 @@
 ---
+type: blog
 title: Rule 10 - Pop quiz, what is the number?
 description: You care about what you measure, so measure what you care about.
 date: 2017-05-18

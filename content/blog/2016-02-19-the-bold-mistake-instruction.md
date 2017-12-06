@@ -1,5 +1,6 @@
 ---
 title: The Bold Mistake Instruction
+type: blog
 description: All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively.
 date: 2016-02-19
 categories: ["creativity"]

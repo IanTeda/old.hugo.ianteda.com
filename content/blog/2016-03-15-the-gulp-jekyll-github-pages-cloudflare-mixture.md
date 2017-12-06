@@ -1,5 +1,6 @@
 ---
 title: The Gulp, Jekyll, Github Pages & Cloudflare Mixture
+type: blog
 description: Simple, fast, flexible, secure & https. Total cost, $15AUD for domain registration.
 date: 2016-03-15
 categories: ["programming"]

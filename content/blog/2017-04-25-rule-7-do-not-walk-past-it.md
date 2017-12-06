@@ -1,4 +1,5 @@
 ---
+type: blog
 title: Rule 7 - Do not walk past it.
 description: The standard you walk past, is the standard you accept.
 date: 2017-04-25

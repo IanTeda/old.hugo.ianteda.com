@@ -1,5 +1,6 @@
 ---
 title: The Personal Branding Defence
+type: blog
 description: If you are not branding yourself, others are doing it for you.
 date: 2016-05-08
 categories: ["leadership"]

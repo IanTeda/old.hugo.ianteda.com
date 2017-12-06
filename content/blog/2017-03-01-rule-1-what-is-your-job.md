@@ -1,4 +1,5 @@
 ---
+type: blog
 title: Rule 1 - Your job is to make money.
 description: As a construction engineer, what is your job?
 date: 2017-03-01
