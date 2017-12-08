@@ -3,7 +3,6 @@ type: blog
 title: Life is Hard, and that is Good!
 description: A letter about lifes challenges
 date: 2017-12-02
-publishdate: 2017-12-02
 categories: ["creativity"]
 series: [ "Letters to my Kids" ]
 cover: cover-dock
