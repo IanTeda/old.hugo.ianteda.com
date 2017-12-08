@@ -50,8 +50,8 @@ publishDir =                ".build"
     name =                  "The Engineering Rule Book"
     url =                   "/series/the-engineering-rule-book"
 [[menu.series]]
-    name =                  "Letters to my Kids"
-    url =                   "/series/letters-to-my-kids"
+    name =                  "Letters to my Children"
+    url =                   "/series/letters-to-my-children"
 
 
 [related]

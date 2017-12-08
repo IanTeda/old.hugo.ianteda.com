@@ -5,7 +5,7 @@ description: If you do not master your life, life will master you and pass you b
 excerpt: Step back from the movie being played in your head and examine your habits, your motives and your desires from the outside in.
 date: 2017-11-25
 categories: ["creativity"]
-series: [ "Letters to my Kids" ]
+series: [ "Letters to my Children" ]
 cover: cover-fire-crash
 slug: know-be-love-yourself
 ---
@@ -22,4 +22,4 @@ __Love Yourself__: You will never be able to love others and others will find it
 
 Do your habits reflect your goals, does your character reflect the person you want to be, do you love yourself and the person you are.  If not, take action. Because if you do not master your life, life will master you and pass you by.
 
-_Have a read of other [Letters to my Kids](/series/letters-to-my-kids)_
+_Have a read of other [Letters to my Children](/series/letters-to-my-children)_
