@@ -1,7 +1,8 @@
 ---
 title: The Leadership Style Analysis
 type: blog
-description: You need to find your own style of leadership, one that complements your character. However, good leaders use all three styles depending on the dynamics.
+description: Find your own style of leadership, one that complements your character.
+excerpt: You need to find your own style of leadership, one that complements your character. However, good leaders use all three styles depending on the dynamics.
 date: 2016-01-21
 categories: ["leadership"]
 cover: cover-stars

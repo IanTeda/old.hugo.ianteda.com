@@ -1,12 +1,13 @@
 ---
 type: blog
-title: Rule 4 - Relationships, say hello because success is largely a result of those around you.
-description: The best way to build relationships is to say hello and make an effort to learn their name.
+title: Rule 4 - Relationships Are Success
+description: The best way to build relationships is to say hello and make an effort to learn peoples name.
+excerpt: From construction of the project to your career, success — however you measure it — is largely a result of the people around you. So make an effort to build relationships with everyone, from the project director to the members of the workforce. And the best way to build relationships is to say hello and make an effort to learn peoples name.
 date: 2017-04-03
 categories: ["engineering"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-country-road
-slug: rule-4-relationships-success
+slug: rule-4-relationships-are-success
 ---
 
 {{< blockquote quote="You are the average of the five people you spend the most time with." author="Jim Rohn">}}

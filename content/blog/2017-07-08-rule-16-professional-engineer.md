@@ -1,7 +1,8 @@
 ---
 type: blog
 title: Rule 16 - The Professional Engineer
-description: Collections of information get abstracted away into what we call professions
+description: Collections of information get abstracted away into what we call professions.
+except: It isn’t possible for each of us to know everything, so we rely on professions. And we rely on professionals to understand that information. Being a professional is about being a trustee of information.
 date: 2017-07-08
 categories: ["engineering"]
 series: [ "The Engineering Rule Book" ]

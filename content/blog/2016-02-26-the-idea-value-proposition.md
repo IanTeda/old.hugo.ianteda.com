@@ -2,6 +2,7 @@
 title: The Idea Value Proposition
 type: blog
 description: Ideas are easy, cheap even. It is the execution that is hard, and because it is hard it is worth millions.
+excerpt: Ideas are easy, cheap even. It is the execution that is hard and because it is hard it is worth millions. If the execution wasn't hard everyone would be doing it. And if everyone was doing it, then it would be worthless and quickly become a race to the bottom.
 date: 2016-02-26
 categories: ["leadership"]
 cover: cover-edison-lab

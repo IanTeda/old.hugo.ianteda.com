@@ -1,7 +1,8 @@
 ---
 type: blog
-title: Rule 13 - Learn to ask good questions.
+title: Rule 13 - Learn To Ask Good Questions
 description: Questions are the cornerstone of communication, problem solving and learning.
+excerpt: Questions are the cornerstone of communication, leadership, problem solving and learning. So being able to ask good questions is the key to good communication, efficient problem solving and effective learning.
 date: 2017-06-10
 categories: ["engineering"]
 series: [ "The Engineering Rule Book" ]
@@ -11,7 +12,7 @@ slug: rule-13-good-questions
 
 {{< blockquote quote="Successful people ask better questions, and as a result, they get better answers." author="Tony Robbins">}}
 
-Questions are the cornerstone of communication -- aka leadership, problem solving and learning. So being able to ask good questions is the key to good communication, efficient problem solving and effective learning.
+Questions are the cornerstone of communication, leadership, problem solving and learning. So being able to ask good questions is the key to good communication, efficient problem solving and effective learning.
 
 There is an art to asking a good questions, because after all if you put garbage in you get garbage out. If people are giving you the wrong answers, the chances are you are asking the wrong questions.
 

@@ -1,6 +1,7 @@
 ---
 type: blog
 title: The Habit Modification
+excerpt: It is our habits that control our actions, and it is our actions that define our character. It is what we do, our habits, not what we say that people judge use on.
 description: It is our habits that influence our actions, and it is our actions that define our character
 date: 2016-09-29
 categories: ["creativity"]
@@ -10,7 +11,7 @@ slug: the-habit-modification
 
 {{< blockquote quote="Your beliefs become your thoughts; Your thoughts become your words; Your words become your actions; Your actions become your habits; Your habits become your values; Your values become your destiny." author="Mahatma Ghandi.">}} 
 
-It is our habits that influence our actions, and it is our actions that define our character. It is what we do, our habits, not what we say that people judge use on.
+It is our habits that control our actions, and it is our actions that define our character. It is what we do, our habits, not what we say that people judge use on.
 
 Good habits are hard to form, and take continuous effort to maintain. While bad habits sneak up on us by surprise, forming easily and fast. And once created habits are hard to remove, because they become hard wired into our brains by cravings. These cravings -- addictions -- for the reward drive the routine. Habits are like a folded piece of paper that always wants to return to the fold it knows. Habits can be your making or your undoing.
 

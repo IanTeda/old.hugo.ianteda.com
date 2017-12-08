@@ -2,10 +2,11 @@
 title: The Gulp, Jekyll, Github Pages & Cloudflare Mixture
 type: blog
 description: Simple, fast, flexible, secure & https. Total cost, $15AUD for domain registration.
+excerpt: Jekyll comes with tooling out of the box to help with development, such as server reload on file change and SASS transpiling. But I wanted more flexibility (options) with my development workflow, so I piped in Gulp.
 date: 2016-03-15
 categories: ["programming"]
 cover: cover-old-typewriter
-slug: the-gulp-jekyll-github-pages-cloudflare-mixture
+slug: the-gulp-jekyll-github-cloudflare-mixture
 ---
 
 {{< blockquote quote="Flexible, simple, fast, secure & https. Total cost, $15AUD for domain registration." author="Ian Teda">}}

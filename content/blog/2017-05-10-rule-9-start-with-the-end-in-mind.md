@@ -1,12 +1,13 @@
 ---
 type: blog
-title: Rule 9 - Always start with the end in mind.
-description: Then reverse engineer how to get there.
+title: Rule 9 - Start With The End In Mind
+description: Reverse engineer how to get to your end goal.
+excerpt: Always start with the end in mind. What is the ideal outcome? What is your destination? And then breakdown the journey into manageable pieces, reverse engineering the path to get there.
 date: 2017-05-10
 categories: ["engineering"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-coat-hanger
-slug: rule-9-always-start-with-the-end-in-mind
+slug: rule-9-start-with-the-end-in-mind
 ---
 
 {{< blockquote quote="I can't change the direction of the wind, but I can adjust my sails to always reach my destination." author="Jimmy Dean">}}

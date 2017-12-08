@@ -1,12 +1,13 @@
 ---
 type: blog
-title: Rule 10 - Pop quiz, what is the number?
+title: Rule 10 - Measure It
 description: You care about what you measure, so measure what you care about.
+excerpt: If you want people to focus on something, ask them to measure it. You care about what you measure, so measure what you care about.
 date: 2017-05-18
 categories: ["engineering"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-wharf-timbers
-slug: rule-10-pop-quiz
+slug: rule-10-measure-it
 ---
 
 {{< blockquote quote="You don't know, what you don't know." author="Unknown">}}

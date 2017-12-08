@@ -1,12 +1,13 @@
 ---
 type: blog
-title: Rule 2 - When faced with opposing views, often the answer is both.
+title: Rule 2 - Often The Answer Is Both
 description: Much of life is a dichotomy, a contradiction and construction life is no different.
+expert: When faced with what seem like mutually exclusive and opposing views, often the answer is both. Much of life is a dichotomy, a contradiction and construction life is no different. The skill comes in first realizing this, being comfortable with the contradictions and knowing how to find the balance.
 date: 2017-03-25
 categories: ["engineering"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-hydepark-night
-slug: rule-2-opposing-views
+slug: rule-2-the-answer-is-both
 ---
 
 {{< blockquote quote="Much of life is a dichotomy, a contradiction and construction life is no different.">}}

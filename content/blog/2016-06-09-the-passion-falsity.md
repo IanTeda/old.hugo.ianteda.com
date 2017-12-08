@@ -2,6 +2,7 @@
 title: The Passion Falsity
 type: blog
 description: Don't follow your passion, it isn’t waiting for you. Instead create your life and let your passion follow you.
+excerpt: Life isn't something you chip away at until you find your passion waiting inside. Life is something you build upon slowly over time, it is something you create. So instead of discovering yourself, create yourself. Become a master craftsman of your life.
 date: 2016-06-09
 categories: ["creativity"]
 cover: cover-sunrise-grass

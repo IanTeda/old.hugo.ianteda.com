@@ -2,6 +2,7 @@
 type: blog
 title: The Habit Loop
 description: The chains of habit are generally too small to be felt until they are too strong to be broken.
+excerpt: We are, for the most part a collection of habits. A collection of emotional, physical and intellectual habits, systematically organised for our brains optimisation. Manifesting themselves in our character, businesses, social groups and cultures.
 date: 2016-09-27
 categories: ["creativity"]
 cover: cover-locks

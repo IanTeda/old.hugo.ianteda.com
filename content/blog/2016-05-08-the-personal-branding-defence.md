@@ -2,6 +2,7 @@
 title: The Personal Branding Defence
 type: blog
 description: If you are not branding yourself, others are doing it for you.
+excerpt: If you are not branding yourself, others are doing it for you. Going to a job interview, leasing a house or doing business then your name will be googled. Personal branding is about managing your name in a world of misinformation, disinformation, and semi-permanent Google records.
 date: 2016-05-08
 categories: ["leadership"]
 cover: cover-ian-intake-tower

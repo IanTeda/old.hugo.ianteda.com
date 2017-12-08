@@ -2,6 +2,7 @@
 type: blog
 title: Rule 11 - Finding Time
 description: Routine, discipline, prioritisation, execution, measurement and adaption.
+excerpt: If time is the most valuable thing we have, then it makes sense to maximise our return. How? Through the routine and discipline of prioritising our demands, executing on our priorities, measuring our output and adapting as needed.
 date: 2017-05-25
 categories: ["engineering"]
 series: [ "The Engineering Rule Book" ]

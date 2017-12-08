@@ -1,7 +1,8 @@
 ---
 type: blog
 title: Rule 15 - We Are All Paid To Think
-description: It does not take a four year degree to think
+description: You do not need a four year degree to think.
+exceprt: It does not take a four year degree to think. Just because an engineer has been to University does not mean they have the answer. No mater your role we are all paid to think.
 date: 2017-07-02
 categories: ["engineering"]
 series: [ "The Engineering Rule Book" ]
@@ -17,7 +18,7 @@ One day over lunch, after a typical physical morning labouring Cam asked me "how
 
 {{< blockquote quote="Think like a man of action, act like a man of thought." author="Henri Bergson">}}
 
-It is something I bring up in my own way when talking to the guys and girls building the project. It does not take a four year degree to think. Just because an engineer has been to University does not mean they have the answer. I remind them of the lesson I was taught, that no mater your role we are all paid to think.
+It is something I bring up in my own way when talking to the girls building the project. It does not take a four year degree to think. Just because an engineer has been to University does not mean they have the answer. I remind them of the lesson I was taught, that no mater your role we are all paid to think.
 
 {{< blockquote quote="If everyone is thinking alike, then somebody isn't thinking." author="George S. Patton">}}
 

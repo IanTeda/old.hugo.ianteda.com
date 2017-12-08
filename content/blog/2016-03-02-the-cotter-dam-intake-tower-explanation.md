@@ -1,11 +1,12 @@
 ---
 title: The Intake Tower Explanation
 type: blog
-description: A video about the construction of Cotter Dam intake tower
+description: A video about the construction of Cotter Dam intake tower.
+excerpt: A short video featuring yours truly, and the construction of the intake tower on the Cotter Dam project.
 date: 2016-03-02
 categories: ["engineering"]
 cover: cover-intake-tower
-slug: cotter-dam-intake-explanation
+slug: the-intake-explanation
 ---
 
 A short video featuring yours truly, and the construction of the intake tower on the Cotter Dam project.

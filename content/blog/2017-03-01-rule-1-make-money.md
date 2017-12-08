@@ -1,21 +1,22 @@
 ---
 type: blog
-title: Rule 1 - Your job is to make money.
+title: Rule 1 - Your Job Is To Make Money
+expert: Your job as a construction engineer is to make money for your employer, XYZ Constructions. You are not there for practice and you are not working for XYZ Construction Charities. XYZ Constructions is paying you a salary of $X with the intention that you return $(X+1). They are looking for a return on their investment, your salary.
 description: As a construction engineer, what is your job?
 date: 2017-03-01
 categories: [ "engineering" ]
 series: [ "The Engineering Rule Book" ]
 cover: cover-hb-walkway
-slug: rule-1-what-is-your-job
+slug: rule-1-make-money
 ---
 
 {{< blockquote quote="Rule 1 - Your job is to make money. By building it safely, building it once and leaving a positive legacy.">}} 
 
 “What do think your job is?”. It is a question I like to ask graduate engineers as they are starting in construction, because it helps to orientate them as they start life in the workforce and start in construction.
 
-What is your job? Your job as a construction engineer is to make money for your employer, XYZ Constructions. You are not there for practice and you are not working for XYZ Construction Charities. XYZ Constructions is paying you a salary of $X with the intention that you return $(X+1). They are looking for a return on their investment.
+What is your job? Your job as a construction engineer is to make money for your employer, XYZ Constructions. You are not there for practice and you are not working for XYZ Construction Charities. XYZ Constructions is paying you a salary of $X with the intention that you return $(X+1). They are looking for a return on their investment, your salary.
 
-With that reality understood, it is important to highlight that the best way to make money in construction is by building it safely, building it once (quality) and leaving a positive legacy. 
+With that reality understood, it is important to highlight that the best way to make money in construction is by building it safely, building it once (quality) and leaving a positive legacy.
 
 Say you have two identical projects and on one project someone gets hurt, they have to build it twice and they allow pollution into a local river. Which project will make more money?
 

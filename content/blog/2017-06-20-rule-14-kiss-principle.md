@@ -2,18 +2,19 @@
 type: blog
 title: Rule 14 - The KISS Principle
 description: Make everything as simple as possible, but not simpler. Albert Einstein
+excerpt: It isn't hard to make things difficult, anybody can do that. Even someone stupid. The skill and art, is in making it simple. Simple is the essence, the most important part, something that is repeatable, provides the same outcome.
 date: 2017-06-20
 categories: ["engineering"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-lane-way
-slug: rule-14-kiss-principle
+slug: rule-14-the-kiss-principle
 ---
 
 {{< blockquote quote="Simplicity is the ultimate sophistication." author="Leonardo da Vinci">}}
 
 Keep It Simple Stupid (KISS).
 
-It isn't hard to make things difficult, anybody can do that. Even someone stupid. The skill and art, is in making it simple. 
+It isn't hard to make things difficult, anybody can do that. Even someone stupid. The skill and art, is in making it simple.
 
 Simple is: the essence; the most important part; something that is repeatable; provides the same outcome; that if you remember anything, remember this;
 

@@ -1,12 +1,13 @@
 ---
 type: blog
-title: Know Yourself, Be Yourself, Love Yourself.
-description: A Series of Letters to my Kids
+title: Know Yourself, Be Yourself, Love Yourself
+description: If you do not master your life, life will master you and pass you by.
+excerpt: Step back from the movie being played in your head and examine your habits, your motives and your desires from the outside in.
 date: 2017-11-25
 categories: ["creativity"]
 series: [ "Letters to my Kids" ]
 cover: cover-fire-crash
-slug: know-yourself-be-yourself-love-yourself
+slug: know-be-love-yourself
 ---
 
 A letter to my kids,
@@ -21,4 +22,4 @@ __Love Yourself__: You will never be able to love others and others will find it
 
 Do your habits reflect your goals, does your character reflect the person you want to be, do you love yourself and the person you are.  If not, take action. Because if you do not master your life, life will master you and pass you by.
 
-Have a read of other [Letters to my Kids](/series/letters-to-my-kids)
+_Have a read of other [Letters to my Kids](/series/letters-to-my-kids)_

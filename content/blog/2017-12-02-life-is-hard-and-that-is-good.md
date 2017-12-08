@@ -1,7 +1,8 @@
 ---
 type: blog
-title: Life is Hard, and that is Good!
-description: A letter about lifes challenges
+title: Life Is Hard, And That Is Good!
+description: A letter about lifes challenges.
+excerpt: Life is not all sun shine, unicorns and rainbows. Life is hard, it is meant to be hard and that is good! It is good because, it is through struggle and adversity that we grow and learn. And it is with a measure of difficulty that value is assigned.
 date: 2017-12-02
 categories: ["creativity"]
 series: [ "Letters to my Kids" ]
@@ -31,4 +32,4 @@ Let failure be a surprise.
 
 {{< blockquote src="https://www.brainyquote.com/quotes/thomas_a_edison_149049" quote="Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." author="Thomas A. Edison">}}
 
-Check out other [Letters to my Kids](/series/letters-to-my-kids)
+_Have a read of other [Letters to my Kids](/series/letters-to-my-kids)_

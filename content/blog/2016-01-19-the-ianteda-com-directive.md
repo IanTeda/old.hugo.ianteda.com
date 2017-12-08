@@ -2,6 +2,7 @@
 title: The ianteda.com Directive
 type: blog
 description: Why I created ianteda.com and what I am hoping to create.
+excerpt: I created ianteda.com to be useful. By sharing content around ideas, thoughts and projects I am working on. Second I wanted to build and manage my professional image, brand and authority.
 date: 2016-01-21
 categories: ["leadership"]
 cover: cover-bw-highrise
