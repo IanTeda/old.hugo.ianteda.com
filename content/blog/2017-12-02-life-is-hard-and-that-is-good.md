@@ -10,7 +10,7 @@ cover: cover-dock
 slug: life-is-hard-and-that-is-good
 ---
 
-A letter to my kids,
+A letter to my Children,
 
 {{< blockquote src="http://philosiblog.com/2012/02/17/real-difficulties-can-be-overcome-it-is-only-the-imaginary-ones-that-are-unconquerable/" quote="Real difficulties can be overcome; it is only the imaginary ones that are unconquerable." author="Theodore N. Vail">}}
 
@@ -32,4 +32,4 @@ Let failure be a surprise.
 
 {{< blockquote src="https://www.brainyquote.com/quotes/thomas_a_edison_149049" quote="Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." author="Thomas A. Edison">}}
 
-_Have a read of other [Letters to my Kids](/series/letters-to-my-children)_
+_Have a read of other [Letters to my Children](/series/letters-to-my-children)_

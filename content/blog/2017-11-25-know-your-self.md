@@ -10,7 +10,7 @@ cover: cover-fire-crash
 slug: know-be-love-yourself
 ---
 
-A letter to my kids,
+A letter to my Children,
 
 {{< blockquote src="https://www.quora.com/What-is-the-proper-English-Latin-translation-for-know-thyself-be-thyself-love-thyself-in-the-feminine" quote="Nosce te ipsum, tu ipse esto, ama te ipsum. 'know yourself, be yourself, love Yourself'" author="Quora">}}
 
