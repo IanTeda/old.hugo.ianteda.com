@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ianteda.com/video/the-cotter-construction-journey/</loc>
+    <lastmod>2017-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ianteda.com/blog/your-character/</loc>
+    <lastmod>2017-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ianteda.com/blog/life-is-hard-and-that-is-good/</loc>
     <lastmod>2017-12-02T00:00:00+00:00</lastmod>
   </url>
@@ -108,11 +118,6 @@
   </url>
   
   <url>
-    <loc>https://ianteda.com/categories/</loc>
-    <lastmod>2017-03-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ianteda.com/categories/creativity/</loc>
     <lastmod>2017-03-24T00:00:00+00:00</lastmod>
   </url>
@@ -128,12 +133,22 @@
   </url>
   
   <url>
+    <loc>https://ianteda.com/categories/</loc>
+    <lastmod>2017-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ianteda.com/categories/programming/</loc>
     <lastmod>2017-03-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ianteda.com/series/the-engineering-rule-book/</loc>
+    <lastmod>2017-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ianteda.com/video/</loc>
     <lastmod>2017-03-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -183,7 +198,7 @@
   </url>
   
   <url>
-    <loc>https://ianteda.com/blog/the-intake-explanation/</loc>
+    <loc>https://ianteda.com/video/the-intake-explanation/</loc>
     <lastmod>2016-03-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -224,7 +239,7 @@
   
   <url>
     <loc>https://ianteda.com/</loc>
-    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
