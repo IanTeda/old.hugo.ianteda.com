@@ -64,6 +64,33 @@ gulp.task(
 );
 
 /**
+ * Photos Tasks
+ * Usage: gulp photos:clean - Clean photos from build folder
+ * Usage: gulp photos:build - Copy and minify photos to build folder
+ * Usage: gulp photos       - Clean build folder, then minify and copy photos to build folder
+*/
+gulp.task(
+  "photos:clean",
+  requireCleanTask(
+    config.photos.dest + "/**/*.{png,gif,jpg}"
+  )
+);
+gulp.task(
+  "photos:build",
+  requireTask(
+    "photos"
+  )
+);
+gulp.task(
+  "photos",
+  gulp.series(
+    "photos:clean",
+    "photos:build"
+  )
+);
+
+
+/**
  * Clean Map Files
  * Map files used during development and are not needed in production
  * Usage: gulp maps:clean - Clean images from build folder

@@ -115,6 +115,11 @@ module.exports = {
       use: [pngquant()],
     },
   },
+  photos: {
+    extensions: src + 'photos/4K Stogram/ianteda/**/*.{png,gif,jpg}',
+    src: src + 'photos/4K Stogram/ianteda/**/*.{png,gif,jpg}',
+    dest: hstatic + 'photos',
+  },
   scripts: {
     filename: 'main.js',
     src: [
