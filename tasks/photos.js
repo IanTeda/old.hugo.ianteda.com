@@ -30,7 +30,7 @@ module.exports = (gulp, config, argv, $) => {
       .pipe(gulp.dest(config.photos.dest))
 
       // Create hash map JOSN of photos
-      .pipe($.hash.manifest('photos-hash.json'))
+      .pipe($.hash.manifest('photos_hash.json'))
       .on('end', function() {
         $.util.log('Images hashed');
       })
