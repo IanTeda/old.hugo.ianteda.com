@@ -13,20 +13,20 @@
     
     <item>
       <title>The Hugo Acceleration</title>
-      <link>https://ianteda.com/blog/the-hugo-acceleration/</link>
+      <link>https://ianteda.com/blogs/the-hugo-acceleration/</link>
       <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ianteda.com/blog/the-hugo-acceleration/</guid>
+      <guid>https://ianteda.com/blogs/the-hugo-acceleration/</guid>
       <description>Simply put, Hugo is way faster than Jekyll at building your site after pushing edits &amp;amp; commits.
 Quora  My Jekyll build time was quickly growing and I was finding myself having to fix dependencies every time I felt the need to update Jekyll. I was getting frustrated, having to fight Jekyll when I wanted to be creating content.</description>
     </item>
     
     <item>
       <title>The API Design Guide</title>
-      <link>https://ianteda.com/blog/the-api-design-guide/</link>
+      <link>https://ianteda.com/blogs/the-api-design-guide/</link>
       <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ianteda.com/blog/the-api-design-guide/</guid>
+      <guid>https://ianteda.com/blogs/the-api-design-guide/</guid>
       <description>An API allows one piece of software talking to another piece of software
  Definitions Some terms used in this guide and there definitions:
  API - Application Programming Interface, an interface for one piece of software to talk to another; Collection - A collection of resources found at an endpoint; Consumer (Client) - A client computer application making requests of the API; cURL - A command line tool for getting and sending files using URL syntax; Endpoint - An API URL on a Server which represents either a Resource or a Collection; Granularity - The level of detailed returned in the request response; HTTP - A protocol for communicating over networks, aka the internet; Idempotent (Stateless) - Side-effect free, can happen multiple times without affecting the data state; Resource - A single instance of an object in an endpoint request response; REST (RESTful) - Representational State Transfer, an architectural style for the design of network-based software; SSL - Secure Socket Layer, the standard security technology for establishing an encrypted link between a web server and a browser URL - Uniform Resource Locator and is a reference (an address) to a resource on the Internet.</description>
@@ -34,10 +34,10 @@ Quora  My Jekyll build time was quickly growing and I was finding myself having 
     
     <item>
       <title>The Gulp, Jekyll, Github Pages &amp; Cloudflare Mixture</title>
-      <link>https://ianteda.com/blog/the-gulp-jekyll-github-cloudflare-mixture/</link>
+      <link>https://ianteda.com/blogs/the-gulp-jekyll-github-cloudflare-mixture/</link>
       <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ianteda.com/blog/the-gulp-jekyll-github-cloudflare-mixture/</guid>
+      <guid>https://ianteda.com/blogs/the-gulp-jekyll-github-cloudflare-mixture/</guid>
       <description>Flexible, simple, fast, secure &amp;amp; https. Total cost, $15AUD for domain registration.
 Ian Teda  Web technologies for development hosting and security are vast. With proponents singing their own praises. At the start of my ianteda.com project 1 I looked around at the options.</description>
     </item>
