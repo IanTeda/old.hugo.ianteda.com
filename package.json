@@ -28,6 +28,7 @@
   "homepage": "https://github.com/IanTeda/hugo.ianteda.com#readme",
   "dependencies": {
     "gulp-filenames-to-json": "^0.1.2",
+    "gulp-to-json": "^1.0.1",
     "instagram-node": "^0.5.8"
   },
   "devDependencies": {

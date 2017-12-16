@@ -16,10 +16,7 @@ module.exports = (gulp, config, argv, $) => {
 
       // Parse src and put into JSON file
       // gulp-load-plugin camelCases hyphens
-      .pipe($.filenamesToJson(config.photos.json_options))
-
-      // Write has map to /data folder
-      .pipe(gulp.dest('data'));
+      .pipe($.toJson(config.photos.json_options));
 
     return stream;
   };

@@ -21,7 +21,7 @@ module.exports = (gulp, config, argv, $) => {
       ))
 
       // Minimise images
-      .pipe($.imagemin(config.imagemin.options))
+      // .pipe($.imagemin(config.imagemin.options))
 
       // Add hash to image files
       .pipe($.hash())

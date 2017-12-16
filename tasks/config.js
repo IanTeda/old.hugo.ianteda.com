@@ -120,9 +120,8 @@ module.exports = {
     extensions: src + 'photos/4K Stogram/ianteda/**/*.{png,gif,jpg}',
     src: src + 'photos/4K Stogram/ianteda/**/*.{png,gif,jpg}',
     dest: hstatic + 'photos',
-    data: data + 'photos.json',
     json_options: {
-      fileName: 'photos.json',
+      filename: 'data/photos-list.json',
     },
   },
   scripts: {
