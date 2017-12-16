@@ -10,6 +10,7 @@ const tmp = '.tmp/';
 const hstatic = 'static/';
 const nodeModules = 'node_modules/';
 const src = 'src/';
+const data = 'data/';
 
 module.exports = {
   ghPages: {
@@ -119,6 +120,10 @@ module.exports = {
     extensions: src + 'photos/4K Stogram/ianteda/**/*.{png,gif,jpg}',
     src: src + 'photos/4K Stogram/ianteda/**/*.{png,gif,jpg}',
     dest: hstatic + 'photos',
+    data: data + 'photos.json',
+    json_options: {
+      fileName: 'photos.json',
+    },
   },
   scripts: {
     filename: 'main.js',

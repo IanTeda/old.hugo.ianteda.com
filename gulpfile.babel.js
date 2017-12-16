@@ -76,6 +76,12 @@ gulp.task(
   )
 );
 gulp.task(
+  "photos:json",
+  requireTask(
+    "photos-to-json"
+  )
+);
+gulp.task(
   "photos:build",
   requireTask(
     "photos"
@@ -83,9 +89,12 @@ gulp.task(
 );
 gulp.task(
   "photos",
-  gulp.series(
-    "photos:clean",
-    "photos:build"
+  gulp.parallel(
+    gulp.series(
+      "photos:clean",
+      "photos:build"
+    ),
+    "photos:json"
   )
 );
 

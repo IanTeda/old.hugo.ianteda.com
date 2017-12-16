@@ -8,6 +8,8 @@
  * @return {stream} Stream - Task stream to manage images in project
  */
 
+var filenamesToJson = require('gulp-filenames-to-json');
+
 module.exports = (gulp, config, argv, $) => {
   return function() {
     let stream = gulp
