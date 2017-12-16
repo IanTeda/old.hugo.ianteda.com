@@ -11,31 +11,31 @@
 module.exports = (gulp, config, argv, $) => {
   return function() {
     let stream = gulp
-      // Image sources
+      // Photo sources
       .src(config.photos.src)
 
-      // Create response copies and compress
+      // Create JSON with list of photo file names
+      .pipe($.toJson(config.photos.json_options))
+
+      // Create response copies and compress photos
       .pipe($.responsive(
         config.images.responsive.config,
         config.images.responsive.global
       ))
 
-      // Minimise images
-      .pipe($.imagemin(config.imagemin.options))
-
-      // Add hash to image files
+      // Add hash to photo files
       .pipe($.hash())
 
-      // Save images to destination
+      // Save photos to destination
       .pipe(gulp.dest(config.photos.dest))
 
-      // Create hash map of images
-      .pipe($.hash.manifest('photos.json'))
+      // Create hash map JOSN of photos
+      .pipe($.hash.manifest('photos-hash.json'))
       .on('end', function() {
         $.util.log('Images hashed');
       })
 
-      // Write has map to /data folder
+      // Write hash map JSON file to /data folder
       .pipe(gulp.dest('data'));
 
     return stream;

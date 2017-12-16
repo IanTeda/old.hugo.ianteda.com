@@ -9,7 +9,6 @@
     "deploy": "gulp deploy -prod",
     "eslint": "eslint",
     "build": "gulp build -prod",
-    "jsdocs": "gulp jsdocs",
     "gulp": "gulp",
     "package-update": "npm-check-updates -u && npm install",
     "hugo": "hugo server --buildDrafts --buildExpired --buildFuture --cleanDestinationDir --disableFastRender",
@@ -27,9 +26,7 @@
   },
   "homepage": "https://github.com/IanTeda/hugo.ianteda.com#readme",
   "dependencies": {
-    "gulp-filenames-to-json": "^0.1.2",
-    "gulp-to-json": "^1.0.1",
-    "instagram-node": "^0.5.8"
+    
   },
   "devDependencies": {
     "autoprefixer": "^7.1.1",
@@ -66,6 +63,7 @@
     "gulp-rename": "^1.2.2",
     "gulp-responsive": "^2.8.0",
     "gulp-rev": "^8.1.0",
+    "gulp-to-json": "^1.0.1",
     "gulp-sass": "^3.1.0",
     "gulp-size": "^2.0.0",
     "gulp-sourcemaps": "^2.6.0",

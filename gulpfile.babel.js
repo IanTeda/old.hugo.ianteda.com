@@ -89,13 +89,10 @@ gulp.task(
 );
 gulp.task(
   "photos",
-  gulp.parallel(
     gulp.series(
       "photos:clean",
       "photos:build"
-    ),
-    "photos:json"
-  )
+    )
 );
 
 

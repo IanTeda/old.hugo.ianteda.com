@@ -122,6 +122,7 @@ module.exports = {
     dest: hstatic + 'photos',
     json_options: {
       filename: 'data/photos-list.json',
+      strip: /^.+\/?\\?ianteda\/?\\?/ //create just file names by removing everything from left of ianteda/ folder in 4K Stogram
     },
   },
   scripts: {
