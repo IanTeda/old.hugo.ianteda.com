@@ -1,5 +1,5 @@
 ---
-title: Video Posts
+title: Video Gallery
 excerpt: Video posts on ianteda.com
 date: 2017-03-24
 publishdate: 2017-03-24
