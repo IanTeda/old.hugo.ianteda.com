@@ -10,7 +10,7 @@ cover: cover-grany-puzzle
 slug: your-character
 ---
 
-A letter to my children,
+On the subject of character,
 
 {{< blockquote src="https://www.goodreads.com/quotes/9940-the-best-index-to-a-person-s-character-is-how-he" quote="The best index to a person's character is how he treats people who can't do him any good, and how he treats people who can't fight back." author="Abigail Van Buren">}}
 

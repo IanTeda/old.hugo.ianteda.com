@@ -10,7 +10,7 @@
     "eslint": "eslint",
     "build": "gulp build -prod",
     "gulp": "gulp",
-    "package-update": "npm-check-updates -u && npm install",
+    "update": "npm-check-updates -u && npm install",
     "hugo": "hugo server --buildDrafts --buildExpired --buildFuture --cleanDestinationDir --disableFastRender",
     "start": "gulp"
   },
@@ -25,9 +25,7 @@
     "url": "https://github.com/IanTeda/hugo.ianteda.com/issues"
   },
   "homepage": "https://github.com/IanTeda/hugo.ianteda.com#readme",
-  "dependencies": {
-    
-  },
+  "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^7.1.1",
     "babel-core": "^6.0.20",
@@ -51,7 +49,7 @@
     "gulp-gh-pages": "^0.5.2",
     "gulp-gzip": "^1.1.0",
     "gulp-hash": "^4.1.1",
-    "gulp-htmlmin": "^3.0.0",
+    "gulp-htmlmin": "^4.0.0",
     "gulp-if": "^2.0.0",
     "gulp-imagemin": "^4.0.0",
     "gulp-inject": "^4.2.0",
