@@ -5,6 +5,7 @@ description: You care about what you measure, so measure what you care about.
 excerpt: If you want people to focus on something, ask them to measure it. You care about what you measure, so measure what you care about.
 date: 2017-05-18
 categories: ["engineering"]
+tags: ["construction engineering", "construction management", "civil engineering", "measure"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-wharf-timbers
 slug: rule-10-measure-it

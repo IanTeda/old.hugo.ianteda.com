@@ -5,6 +5,7 @@ description: One piece of software talking to another piece of software.
 excerpt: An API is an Application Programming Interface. An interface for one piece of software to talk to another[^concepts] and data to be shared. It is a set of endpoints for serving up data.
 date: 2016-08-26
 categories: ["programming"]
+tags: ["api", "application interface", "RESTful", "REST"]
 cover: cover-old-typewriter
 slug: the-api-design-guide
 ---

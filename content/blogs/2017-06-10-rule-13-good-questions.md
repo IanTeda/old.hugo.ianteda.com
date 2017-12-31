@@ -5,6 +5,7 @@ description: Questions are the cornerstone of communication, problem solving and
 excerpt: Questions are the cornerstone of communication, leadership, problem solving and learning. So being able to ask good questions is the key to good communication, efficient problem solving and effective learning.
 date: 2017-06-10
 categories: ["engineering"]
+tags: ["construction engineering", "construction management", "civil engineering", "questions", "good questions"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-tempe-sunset
 slug: rule-13-good-questions

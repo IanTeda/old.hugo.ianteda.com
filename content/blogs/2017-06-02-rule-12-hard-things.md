@@ -5,6 +5,7 @@ description: By achieving the hardest part first you gain a strategic and psycho
 excerpt: When you have the choice, always start with the hardest part first. By achieving the hardest part first you gain a strategic and psychological advantage. You know it can be done.
 date: 2017-06-02
 categories: ["engineering"]
+tags: ["construction engineering", "construction management", "civil engineering", "hardest", "starting"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-old-rail
 slug: rule-12-hard-things

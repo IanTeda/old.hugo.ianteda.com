@@ -5,6 +5,7 @@ description: The best way to build relationships is to say hello and make an eff
 excerpt: From construction of the project to your career, success — however you measure it — is largely a result of the people around you. So make an effort to build relationships with everyone, from the project director to the members of the workforce. And the best way to build relationships is to say hello and make an effort to learn peoples name.
 date: 2017-04-03
 categories: ["engineering"]
+tags: ["construction engineering", "construction management", "civil engineering", "relationships"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-country-road
 slug: rule-4-relationships-are-success

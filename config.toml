@@ -74,6 +74,11 @@ publishDir =                ".build"
         toLower =           true
         weight =            30
 
+[[related.indices]]
+        name  =             "tags"
+        toLower =           true
+        weight =            60
+
     [[related.indices]]
         name  =             "categories"
         weight =            100

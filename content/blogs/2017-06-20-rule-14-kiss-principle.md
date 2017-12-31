@@ -5,6 +5,7 @@ description: Make everything as simple as possible, but not simpler. Albert Eins
 excerpt: It isn't hard to make things difficult, anybody can do that. Even someone stupid. The skill and art, is in making it simple. Simple is the essence, the most important part, something that is repeatable, provides the same outcome.
 date: 2017-06-20
 categories: ["engineering"]
+tags: ["construction engineering", "construction management", "civil engineering", "kiss", "principles"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-lane-way
 slug: rule-14-the-kiss-principle

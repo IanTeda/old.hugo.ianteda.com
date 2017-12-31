@@ -5,6 +5,7 @@ description: Early mornings, late evenings, weekends and night shifts. Why?
 excerpt: Always try to start work early because it demonstrates that you want your job and you want to be there. Most things can be taught. Enthusiasm and desire, for the most part cannot be.
 date: 2017-04-14
 categories: ["engineering"]
+tags: ["construction engineering", "construction management", "civil engineering", "start early", "early bird", "fruits"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-center-point-morning
 slug: rule-5-start-early

@@ -5,6 +5,7 @@ description: Ideas are easy, cheap even. It is the execution that is hard, and b
 excerpt: Ideas are easy, cheap even. It is the execution that is hard and because it is hard it is worth millions. If the execution wasn't hard everyone would be doing it. And if everyone was doing it, then it would be worthless and quickly become a race to the bottom.
 date: 2016-02-26
 categories: ["leadership"]
+tags: ["ideas","value"]
 cover: cover-edison-lab
 slug: the-idea-value-proposition
 ---
@@ -15,7 +16,7 @@ Ideas are easy, cheap even. It is the execution that is hard and because it is h
 
 It is important to realise that an idea is not a product or a business[^not-a-business]. A product, is an idea that is -- or multiple ideas that are -- executed well.  But ideas still hold value. Ideas are a multiplier of the execution, that together produce value. Thus, a good idea produces more value than a bad idea when multiplied by the same execution[^sivers].
 
-## The Proposition
+### The Proposition
 
 ~~~
 // The Value Proposition

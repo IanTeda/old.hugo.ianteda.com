@@ -5,6 +5,7 @@ description: A short blog based on the eulogy I gave at my fathers funeral.
 excerpt: My fathers journey with cancer illustrates well his character, the person that he was and the life that he lived.
 date: 2015-11-10
 categories: ["creativity"]
+tags: ["family"]
 cover: cover-dirk-teda-rover
 slug: a-journey-with-cancer
 ---

@@ -5,6 +5,7 @@ description: Mental models are an abstraction of reality, a simplification of an
 excerpt: Mental models are a set of tools (maps) our brains use to think and make decisions. A personal algorithm to process and make sense of the world around us. We use them to predict the results of our actions or those of others.
 date: 2016-04-13
 categories: ["creativity"]
+tags: ["metal model", "model", "abstraction"]
 cover: cover-glob
 slug: the-mental-model-definition
 ---

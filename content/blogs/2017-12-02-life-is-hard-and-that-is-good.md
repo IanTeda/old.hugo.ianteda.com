@@ -5,6 +5,7 @@ description: A letter to my children about lifes challenges.
 excerpt: Life is not all sun shine, unicorns and rainbows. Life is hard, it is meant to be hard and that is good! It is good because, it is through struggle and adversity that we grow and learn. And it is with a measure of difficulty that value is assigned.
 date: 2017-12-02
 categories: ["creativity"]
+tags: ["children", "letter", "hard things", "hard"]
 series: [ "Letters to my Children" ]
 cover: cover-dock
 slug: life-is-hard-and-that-is-good

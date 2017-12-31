@@ -5,6 +5,7 @@ description: Routine, discipline, prioritisation, execution, measurement and ada
 excerpt: If time is the most valuable thing we have, then it makes sense to maximise our return. How? Through the routine and discipline of prioritising our demands, executing on our priorities, measuring our output and adapting as needed.
 date: 2017-05-25
 categories: ["engineering"]
+tags: ["construction engineering", "construction management", "civil engineering", "finding time", "time"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-autumn-leaves
 slug: rule-11-finding-time

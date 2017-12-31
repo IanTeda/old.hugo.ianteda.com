@@ -5,6 +5,7 @@ description: The turtle wins the race not by aiming for big (fast) wins, instead
 excerpt: In the Aesop's Fables The Tortoise and the Hare. The turtle wins the race not by aiming for big (fast) wins, instead he stays on his path with a single minded focus. Soon overtaking the hare, one little win at a time.
 date: 2016-07-01
 categories: ["leadership"]
+tags: ["do not lose", "win", "winning"]
 cover: cover-turtle
 slug: the-turtle-mindset
 ---

@@ -5,6 +5,7 @@ description: I feel the need, the need for fast website build speeds.
 excerpt: Slow builds are a common complaint with Jekyll and there are things you can do, like incremental builds. But when I decided my website needed more cross promotion within posts I looked around for an alternative to Jekyll and landed on Hugo.
 date: 2017-11-17
 categories: ["programming"]
+tags: ["jekyll", "hugo", "ianteda.com"]
 cover: cover-caution-steep
 slug: the-hugo-acceleration
 ---

@@ -5,6 +5,7 @@ description: Reverse engineer how to get to your end goal.
 excerpt: Always start with the end in mind. What is the ideal outcome? What is your destination? And then breakdown the journey into manageable pieces, reverse engineering the path to get there.
 date: 2017-05-10
 categories: ["engineering"]
+tags: ["construction engineering", "construction management", "civil engineering", "the end"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-coat-hanger
 slug: rule-9-start-with-the-end-in-mind

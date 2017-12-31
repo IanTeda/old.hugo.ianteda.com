@@ -5,6 +5,7 @@ description: All courses of action are risky, so prudence is not in avoiding dan
 excerpt: Life is risk, it cannot be avoided so do not let the possibility of being wrong prevent action. An indecision is still a decision. Move forward knowing that the decision you made was the right one, based on the knowledge you had at the time. Whether or not it turns out right is besides the point, considered action is.
 date: 2016-02-19
 categories: ["creativity"]
+tags: ["mistakes", "action"]
 cover: cover-machiavelli
 slug: the-bold-mistake-instruction
 ---

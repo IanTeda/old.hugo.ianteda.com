@@ -5,6 +5,7 @@ expert: Your job as a construction engineer is to make money for your employer, 
 description: As a construction engineer, what is your job?
 date: 2017-03-01
 categories: [ "engineering" ]
+tags: ["construction engineering", "construction management", "job", "civil engineering"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-hb-walkway
 slug: rule-1-make-money

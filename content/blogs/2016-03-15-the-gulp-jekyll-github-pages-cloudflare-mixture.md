@@ -5,6 +5,7 @@ description: Simple, fast, flexible, secure & https. Total cost, $15AUD for doma
 excerpt: Jekyll comes with tooling out of the box to help with development, such as server reload on file change and SASS transpiling. But I wanted more flexibility (options) with my development workflow, so I piped in Gulp.
 date: 2016-03-15
 categories: ["programming"]
+tags: ["gulp", "jekyll", "Github", "Github Pages", "cloudflare"]
 cover: cover-old-typewriter
 slug: the-gulp-jekyll-github-cloudflare-mixture
 ---

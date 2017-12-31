@@ -5,6 +5,7 @@ description: Be in control of your destiny, by getting out in front of issues an
 expert: As a manager, I want to know about the good news and the bad news. But don’t bring me surprises. Surprises indicate a lack of understanding and ownership of what you are responsible for.
 date: 2017-03-29
 categories: ["engineering"]
+tags: ["construction engineering", "construction management", "civil engineering", "surprises"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-slippery-surface
 slug: rule-3-dont-give-me-surprises

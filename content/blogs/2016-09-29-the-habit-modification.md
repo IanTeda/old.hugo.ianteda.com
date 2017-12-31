@@ -5,6 +5,7 @@ excerpt: It is our habits that control our actions, and it is our actions that d
 description: It is our habits that influence our actions, and it is our actions that define our character
 date: 2016-09-29
 categories: ["creativity"]
+tags: ["habit", "habits", "habit loop", "bad habits", "changing habits", "modificaiton"]
 cover: cover-car-rock
 slug: the-habit-modification
 ---

@@ -5,6 +5,7 @@ description: A letter to my children about character.
 excerpt: Be conscious of who your friends are. There character. As birds of a feather, flock together. Your are most comfortable around people similar to yourself. But that may not be the person (character) you want to be. Choose your friends wisely, as you are the average of the five people you spend the most time with.
 date: 2017-12-09
 categories: ["creativity"]
+tags: ["children", "letter", "character"]
 series: [ "Letters to my Children" ]
 cover: cover-grany-puzzle
 slug: your-character

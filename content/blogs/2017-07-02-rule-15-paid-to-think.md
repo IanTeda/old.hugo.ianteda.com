@@ -5,6 +5,7 @@ description: You do not need a four year degree to think.
 exceprt: It does not take a four year degree to think. Just because an engineer has been to University does not mean they have the answer. No mater your role we are all paid to think.
 date: 2017-07-02
 categories: ["engineering"]
+tags: ["construction engineering", "construction management", "civil engineering", "think", "thinking"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-ecd-scaffold
 slug: rule-15-paid-to-think

@@ -5,6 +5,7 @@ description: Don't follow your passion, it isn’t waiting for you. Instead crea
 excerpt: Life isn't something you chip away at until you find your passion waiting inside. Life is something you build upon slowly over time, it is something you create. So instead of discovering yourself, create yourself. Become a master craftsman of your life.
 date: 2016-06-09
 categories: ["creativity"]
+tags: ["passion", "happiness", "life"]
 cover: cover-sunrise-grass
 slug: the-passion-falsity
 ---
@@ -13,7 +14,7 @@ slug: the-passion-falsity
 
 Life isn't something you chip away at until you find your passion waiting inside. Life is something you build upon slowly over time, it is something you create[^tim-ferris]. So instead of discovering yourself, create yourself. Become a master craftsman of your life.
 
-Who doesn't want to find their passion. It's a romantic notion afterall. That inside you is a vocation you will love, that will bring you happiness and a fulfilling life. You just need the courage to search for it. But the question "What do I truly love?" rarely boils down to a yes-or-no answer. And as such, it will leave you confused and lost. "I want to be happy, I just need to keep looking", is a mantra that will keep you perpetually looking and as a result unhappy about where you are. It will cause you to burn energy trying to figure out your passion, instead of building career capital in your craft. If Steve Jobs hand followed his own advice he would have picked apples.
+Who doesn't want to find their passion. It's a romantic notion after all. That inside you is a vocation you will love, that will bring you happiness and a fulfilling life. You just need the courage to search for it. But the question "What do I truly love?" rarely boils down to a yes-or-no answer. And as such, it will leave you confused and lost. "I want to be happy, I just need to keep looking", is a mantra that will keep you perpetually looking and as a result unhappy about where you are. It will cause you to burn energy trying to figure out your passion, instead of building career capital in your craft. If Steve Jobs hand followed his own advice he would have picked apples.
 
 {{< blockquote quote="To find yourself, think for yourself." author="Socrates">}}
 

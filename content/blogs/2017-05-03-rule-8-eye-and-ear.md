@@ -5,6 +5,7 @@ description: Take the long slow way around site, keeping one eye open and your e
 excerpt: In strategy it is important to see distant things as if they were close and to take a distanced view of close things. Miyamoto Musashi.
 date: 2017-05-03
 categories: ["engineering"]
+tags: ["construction engineering", "construction management", "civil engineering", "observant"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-central-roof
 slug: rule-8-keep-one-eye-open

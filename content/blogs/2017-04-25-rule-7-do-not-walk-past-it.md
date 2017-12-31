@@ -5,6 +5,7 @@ description: The standard you walk past, is the standard you accept.
 excerpt: Be it a safety concern, poor workmanship or bad behaviour if you close your eyes and walk past it then you are accepting it. You are saying that you are not concerned and feel free to keep doing it without correction.
 date: 2017-04-25
 categories: ["engineering"]
+tags: ["construction engineering", "construction management", "civil engineering", "do not walk past it"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-helens-tunnel
 slug: rule-7-do-not-walk-past-it

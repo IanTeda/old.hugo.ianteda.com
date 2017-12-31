@@ -5,6 +5,7 @@ description: Much of life is a dichotomy, a contradiction and construction life 
 expert: When faced with what seem like mutually exclusive and opposing views, often the answer is both. Much of life is a dichotomy, a contradiction and construction life is no different. The skill comes in first realizing this, being comfortable with the contradictions and knowing how to find the balance.
 date: 2017-03-25
 categories: ["engineering"]
+tags: ["construction engineering", "construction management", "civil engineering", "dichotomy"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-hydepark-night
 slug: rule-2-the-answer-is-both

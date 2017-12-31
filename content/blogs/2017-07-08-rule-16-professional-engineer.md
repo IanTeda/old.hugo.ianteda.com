@@ -5,6 +5,7 @@ description: Collections of information get abstracted away into what we call pr
 except: It isn’t possible for each of us to know everything, so we rely on professions. And we rely on professionals to understand that information. Being a professional is about being a trustee of information.
 date: 2017-07-08
 categories: ["engineering"]
+tags: ["construction engineering", "construction management", "civil engineering", "professional"]
 series: [ "The Engineering Rule Book" ]
 cover: cover-blossom
 slug: rule-16-the-professional-engineer
