@@ -82,6 +82,12 @@ gulp.task(
   )
 );
 gulp.task(
+  "jsonReverse",
+  requireTask(
+    "json-reverse"
+  )
+)
+gulp.task(
   "photos",
     gulp.series(
       "photos:clean",

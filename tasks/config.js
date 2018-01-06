@@ -11,6 +11,7 @@ const hstatic = 'static/';
 const nodeModules = 'node_modules/';
 const src = 'src/';
 const data = 'data/';
+const photoList = 'photos_list.json';
 
 module.exports = {
   ghPages: {
@@ -121,7 +122,7 @@ module.exports = {
     src: src + 'photos/4K Stogram/ianteda/**/*.{png,gif,jpg}',
     dest: hstatic + 'photos',
     json_options: {
-      filename: 'data/photos_list.json',
+      filename: data + photoList,
       strip: /^.+\/?\\?ianteda\/?\\?/ //create just file names by removing everything from left of ianteda/ folder in 4K Stogram
     },
   },
@@ -135,6 +136,15 @@ module.exports = {
     ],
     dest: tmp + assets + 'scripts',
     build: build + assets + 'scripts',
+  },
+  sortJson: {
+    src: data + photoList,
+    dest: data + 'reverse.json',
+    options: {
+      cmp: function(a, b) {
+        return a.key < b.key ? 1 : -1;
+      },
+    },
   },
   styles: {
     filename: 'main.css',
