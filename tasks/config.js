@@ -78,6 +78,7 @@ module.exports = {
         '*': [
           {
             width: 600,
+            height: 400, /** Using 3:2 photo ration */
             rename: {
               suffix: '@mobile',
               extname: '.jpg',
@@ -85,6 +86,7 @@ module.exports = {
             withoutEnlargement: false,
           }, {
             width: 992,
+            height: 661.3, /** Using 3:2 photo ration */
             rename: {
               suffix: '@tablet',
               extname: '.jpg',
@@ -92,6 +94,7 @@ module.exports = {
             withoutEnlargement: false,
           }, {
             width: 1200,
+            height: 800, /** Using 3:2 photo ration */
             rename: {
               suffix: '@desktop',
               extname: '.jpg',
@@ -99,6 +102,7 @@ module.exports = {
             withoutEnlargement: false,
           }, {
             width: 2880,
+            height: 1920, /** Using 3:2 photo ration */
             rename: {
               suffix: '@highres',
               extname: '.jpg',
