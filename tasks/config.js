@@ -1,5 +1,3 @@
-'use strict';
-
 let mqpacker = require('css-mqpacker');
 let csswring = require('csswring');
 let pngquant = require('imagemin-pngquant');
@@ -52,6 +50,10 @@ module.exports = {
       collapseWhitespace: true,
       collapseBooleanAttributes: true,
     },
+  },
+  hugoGallery: {
+    src: src + 'photos/**/*.{png,gif,jpg}',
+    dest: 'content/photos',
   },
   inject: {
     ignorePath: tmp,

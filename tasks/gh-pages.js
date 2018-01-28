@@ -1,4 +1,3 @@
-"use strict";
 /**
  * Gulp ghPages Task
  * @param {gulp} gulp - The gulp module passed in
@@ -8,6 +7,8 @@
  * @return {stream} Stream - Task stream to manage GitHub Pages in project
  */
 module.exports = (gulp, config, argv, $) => {
+  'use strict';
+
   return function() {
     let stream = gulp
       .src(config.ghPages.src)

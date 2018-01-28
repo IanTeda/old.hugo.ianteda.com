@@ -1,6 +1,6 @@
-'use strict';
 /**
- * Gulp Image Task
+ * GULP HUGO GALLERY TASK
+ * Write Markdown file for each image file to use as a gallery.
  * @param {gulp} gulp - The gulp module passed in
  * @param {config} config - The projects Gulp config file
  * @param {argv} argv - Arguments flagged at the CLI
@@ -8,18 +8,17 @@
  * @return {stream} Stream - Task stream to manage images in project
  */
 
-var sortJSON = require('gulp-json-sort').default;
+ const hugoGallery = require('gulp-hugo-gallery');
 
 module.exports = (gulp, config, argv, $) => {
-  return function() {
-    let stream = gulp
-      // Photo sources
-      .src(config.sortJson.src)
+    'use strict';
 
-      .pipe(sortJSON(config.sortJson.options))
+    return function() {
+      let stream = gulp
+        .src(config.hugoGallery.src)
+        .pipe(hugoGallery())
+        .pipe(gulp.dest(config.hugoGallery.dest));
 
-      .pipe(gulp.dest(config.sortJson.dest));
-
-    return stream;
+      return stream;
+    };
   };
-};

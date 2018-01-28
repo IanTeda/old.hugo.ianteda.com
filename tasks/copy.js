@@ -1,4 +1,3 @@
-"use strict";
 /**
  * Gulp Copy Task
  * @param {source} source - Source files to be copied
@@ -9,6 +8,8 @@
  * @return {stream} Stream - Task stream to copy files in project
  */
 module.exports = (source, destination, gulp, argv, $) => {
+  'use strict';
+
   return function() {
     var stream = gulp
       .src(source)

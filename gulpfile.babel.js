@@ -82,12 +82,6 @@ gulp.task(
   )
 );
 gulp.task(
-  "jsonReverse",
-  requireTask(
-    "json-reverse"
-  )
-)
-gulp.task(
   "photos",
     gulp.series(
       "photos:clean",
@@ -154,6 +148,15 @@ gulp.task(
 gulp.task(
   "gh-pages",
   requireTask("gh-pages")
+);
+
+/**
+ * GitHub Pages Task
+ * usage: gulp gh-pages - Push files to GitHub registry
+ */
+gulp.task(
+  "hugo-gallery",
+  requireTask("hugo-gallery")
 );
 
 gulp.task('default', gulp.series('hugo', 'maps:clean', 'html:build'));

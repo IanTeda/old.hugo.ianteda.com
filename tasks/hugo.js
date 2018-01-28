@@ -8,6 +8,8 @@
  */
 
 module.exports = (gulp, config, argv, $) => {
+  'use strict';
+  
   return (callback) => {
     $.shelljs.exec('hugo --buildExpired --buildFuture --cleanDestinationDir');
     callback();

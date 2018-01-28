@@ -1,4 +1,3 @@
-"use strict";
 /**
  * Gulp Jekyll Task
  * @param {gulp} gulp - The gulp module passed in
@@ -9,6 +8,8 @@
  */
 module.exports = (gulp, config, argv, $) => {
   return function() {
+    'use strict';
+
     let stream = gulp
       .src(config.html.src)
       .pipe($.size({title: 'Html:'}))
