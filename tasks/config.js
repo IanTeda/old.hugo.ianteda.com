@@ -114,6 +114,45 @@ module.exports = {
         ],
       },
     },
+    responsivePhotos: {
+      config: {
+        '*': [
+          {
+            width: 600,
+            height: 600,
+            rename: {
+              suffix: '@mobile',
+              extname: '.jpg',
+            },
+            withoutEnlargement: false,
+          }, {
+            width: 992,
+            height: 992,
+            rename: {
+              suffix: '@tablet',
+              extname: '.jpg',
+            },
+            withoutEnlargement: false,
+          }, {
+            width: 1200,
+            height: 1200,
+            rename: {
+              suffix: '@desktop',
+              extname: '.jpg',
+            },
+            withoutEnlargement: false,
+          }, {
+            width: 2880,
+            height: 2880,
+            rename: {
+              suffix: '@highres',
+              extname: '.jpg',
+            },
+            withoutEnlargement: false,
+          },
+        ],
+      },
+    },
   },
   imagemin: {
     options: {
@@ -127,10 +166,7 @@ module.exports = {
     extensions: src + 'photos/4K Stogram/ianteda/**/*.{png,gif,jpg}',
     src: src + 'photos/4K Stogram/ianteda/**/*.{png,gif,jpg}',
     dest: hstatic + 'photos',
-    json_options: {
-      filename: data + photoList,
-      strip: /^.+\/?\\?ianteda\/?\\?/ //create just file names by removing everything from left of ianteda/ folder in 4K Stogram
-    },
+    hashFile: 'photos.json',
   },
   scripts: {
     filename: 'main.js',

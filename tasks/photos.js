@@ -15,12 +15,9 @@ module.exports = (gulp, config, argv, $) => {
       // Photo sources
       .src(config.photos.src)
 
-      // Create JSON with list of photo file names
-      .pipe($.toJson(config.photos.json_options))
-
       // Create response copies and compress photos
       .pipe($.responsive(
-        config.images.responsive.config,
+        config.images.responsivePhotos.config,
         config.images.responsive.global
       ))
 
@@ -31,7 +28,7 @@ module.exports = (gulp, config, argv, $) => {
       .pipe(gulp.dest(config.photos.dest))
 
       // Create hash map JOSN of photos
-      .pipe($.hash.manifest('photos_hash.json'))
+      .pipe($.hash.manifest(config.photos.hashFile))
       .on('end', function() {
         $.util.log('Images hashed');
       })

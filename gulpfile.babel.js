@@ -1,13 +1,11 @@
-"use strict";
-
 // Import Gulp module
-import gulp from "gulp";
+import gulp from 'gulp';
 // Command line (CLI) argument
-var argv = require("./tasks/yargs");
+var argv = require('./tasks/yargs');
 // Configuration file for gulp tasks
-const config = require("./tasks/config");
+const config = require('./tasks/config');
 // Lazy load plugins, save on var declaration
-var plugins = require("gulp-load-plugins")(config.gulpLoadPlugins.options);
+var plugins = require('gulp-load-plugins')(config.gulpLoadPlugins.options);
 
 /**
  * Require Gulp Task
@@ -16,7 +14,7 @@ var plugins = require("gulp-load-plugins")(config.gulpLoadPlugins.options);
  */
 function requireTask(task) {
   // Require Gulp task module, passing in Gulp, config, argv and plugin objects
-  return require("./tasks/" + task + ".js")(
+  return require('./tasks/' + task + '.js')(
     gulp,
     config,
     argv,
@@ -31,7 +29,7 @@ function requireTask(task) {
  */
 function requireCleanTask(directory) {
   // Require gulp task module
-  return require("./tasks/clean")(
+  return require('./tasks/clean')(
     directory,
     plugins
   );
@@ -44,22 +42,22 @@ function requireCleanTask(directory) {
  * Usage: gulp images       - Clean build folder, then minify and copy images to build folder
 */
 gulp.task(
-  "images:clean",
+  'images:clean',
   requireCleanTask(
-    config.images.dest + "/**/*.{png,gif,jpg}"
+    config.images.dest + '/**/*.{png,gif,jpg}'
   )
 );
 gulp.task(
-  "images:build",
+  'images:build',
   requireTask(
-    "images"
+    'images'
   )
 );
 gulp.task(
-  "images",
+  'images',
   gulp.series(
-    "images:clean",
-    "images:build"
+    'images:clean',
+    'images:build'
   )
 );
 
@@ -70,22 +68,29 @@ gulp.task(
  * Usage: gulp photos       - Clean build folder, then minify and copy photos to build folder
 */
 gulp.task(
-  "photos:clean",
+  'photos:clean',
   requireCleanTask(
-    config.photos.dest + "/**/*.{png,gif,jpg}"
+    config.photos.dest + '/**/*.{png,gif,jpg}'
   )
 );
 gulp.task(
-  "photos:build",
+  'photos:build',
   requireTask(
-    "photos"
+    'photos'
   )
 );
 gulp.task(
-  "photos",
+  'photos:gallery',
+  requireTask(
+    'hugo-gallery'
+  )
+);
+gulp.task(
+  'photos',
     gulp.series(
-      "photos:clean",
-      "photos:build"
+      'photos:clean',
+      'photos:build',
+      'photos:gallery'
     )
 );
 
@@ -96,9 +101,9 @@ gulp.task(
  * Usage: gulp maps:clean - Clean images from build folder
 */
 gulp.task(
-  "maps:clean",
+  'maps:clean',
   requireCleanTask(
-    ".build/**/*.map"
+    '.build/**/*.map'
   )
 );
 
@@ -109,9 +114,9 @@ gulp.task(
 */
 
 gulp.task(
-  "html:build",
+  'html:build',
   requireTask(
-    "html"
+    'html'
   )
 );
 
@@ -122,22 +127,22 @@ gulp.task(
  * Usage: gulp hugo       - Clean build folder, then build generated pages from source
 */
 gulp.task(
-  "hugo:clean",
+  'hugo:clean',
   requireCleanTask(
-    ".build/**/*"
+    '.build/**/*'
   )
 );
 gulp.task(
-  "hugo:build",
+  'hugo:build',
   requireTask(
-    "hugo"
+    'hugo'
   )
 );
 gulp.task(
-  "hugo",
+  'hugo',
   gulp.series(
-    "hugo:clean",
-    "hugo:build"
+    'hugo:clean',
+    'hugo:build'
   )
 );
 
@@ -146,17 +151,8 @@ gulp.task(
  * usage: gulp gh-pages - Push files to GitHub registry
  */
 gulp.task(
-  "gh-pages",
-  requireTask("gh-pages")
-);
-
-/**
- * GitHub Pages Task
- * usage: gulp gh-pages - Push files to GitHub registry
- */
-gulp.task(
-  "hugo-gallery",
-  requireTask("hugo-gallery")
+  'gh-pages',
+  requireTask('gh-pages')
 );
 
 gulp.task('default', gulp.series('hugo', 'maps:clean', 'html:build'));
