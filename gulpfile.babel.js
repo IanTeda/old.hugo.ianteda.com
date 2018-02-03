@@ -36,7 +36,9 @@ function requireCleanTask(directory) {
 }
 
 /**
- * Images Tasks
+ * IMAGE TASKS
+ * 
+ * Need to use different image tasks because I'm resizing width and height for different types
  * Usage: gulp images:clean - Clean images from build folder
  * Usage: gulp images:build - Copy and minify images to build folder
  * Usage: gulp images       - Clean build folder, then minify and copy images to build folder
@@ -48,6 +50,24 @@ gulp.task(
   )
 );
 gulp.task(
+  'images:cleanHash',
+  requireCleanTask(
+    '/data/images.json'
+  )
+);
+gulp.task(
+  'images:books',
+  requireTask(
+    'books'
+  )
+);
+gulp.task(
+  'images:covers',
+  requireTask(
+    'covers'
+  )
+);
+gulp.task(
   'images:build',
   requireTask(
     'images'
@@ -56,8 +76,8 @@ gulp.task(
 gulp.task(
   'images',
   gulp.series(
-    'images:clean',
-    'images:build'
+    'images:clean', 'images:cleanHash',
+    'images:build', 'images:books', 'images:covers'
   )
 );
 

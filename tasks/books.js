@@ -11,13 +11,13 @@ module.exports = (gulp, config, argv, $) => {
   'use strict';
 
   return function() {
-    let stream = gulp
+    return gulp
       // Image sources
-      .src(config.images.src)
+      .src(config.images.srcBooks)
 
       // Create response copies and compress
       .pipe($.responsive(
-        config.images.responsive.config,
+        config.images.responsiveBooks.config,
         config.images.responsive.global
       ))
 
@@ -30,12 +30,10 @@ module.exports = (gulp, config, argv, $) => {
       // Create hash map of images
       .pipe($.hash.manifest(config.hash.imageFile, config.hash.options))
       .on('end', function() {
-        $.util.log('Images hashed');
+        $.util.log('Book cover images hashed');
       })
 
       // Write has map to /data folder
       .pipe(gulp.dest('data'));
-
-    return stream;
   };
 };

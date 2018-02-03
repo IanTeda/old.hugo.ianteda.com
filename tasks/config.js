@@ -1,7 +1,3 @@
-let mqpacker = require('css-mqpacker');
-let csswring = require('csswring');
-let pngquant = require('imagemin-pngquant');
-
 const assets = 'assets/';
 const build = '.build/';
 const tmp = '.tmp/';
@@ -40,6 +36,12 @@ module.exports = {
       append: true,
     },
   },
+  hash: {
+    options: {
+      append: true,
+    },
+    imageFile: 'images.json',
+  },
   html: {
     src: build + '/**/*.html',
     dest: build,
@@ -73,9 +75,100 @@ module.exports = {
   },
   images: {
     extensions: src + 'images/**/*.{png,gif,jpg}',
-    src: src + 'images/**/*.{png,gif,jpg}',
+    srcBooks: src + 'images/**/book-*.{png,gif,jpg}',
+    srcCovers: src + 'images/**/cover-*.{png,gif,jpg}',
+    src: [
+      src + 'images/**/*.{png,gif,jpg}',
+      '!images/**/book-*.{png,gif,jpg}',
+      '!images/**/cover-*.{png,gif,jpg}',
+    ],
     dest: hstatic + 'images',
     responsive: {
+      config: {
+        '*': [
+          {
+            width: 600,
+            rename: {
+              suffix: '@mobile',
+              extname: '.jpg',
+            },
+            withoutEnlargement: false,
+          }, {
+            width: 992,
+            rename: {
+              suffix: '@tablet',
+              extname: '.jpg',
+            },
+            withoutEnlargement: false,
+          }, {
+            width: 1200,
+            rename: {
+              suffix: '@desktop',
+              extname: '.jpg',
+            },
+            withoutEnlargement: false,
+          }, {
+            width: 2880,
+            rename: {
+              suffix: '@highres',
+              extname: '.jpg',
+            },
+            withoutEnlargement: false,
+          },
+        ],
+      },
+      global: {
+        // Global configuration for all images
+        // The output quality for JPEG, WebP and TIFF output formats
+        quality: 70,
+        // Use progressive (interlace) scan for JPEG and PNG output
+        progressive: true,
+        // Strip all metadata
+        withMetadata: false,
+        // Do not emit the error when image is enlarged.
+        errorOnEnlargement: false,
+      },
+    },
+    responsiveBooks: {
+      config: {
+        '*': [
+          {
+            width: 600,
+            height: 960, /** Using 1:1.6 book cover ration */
+            rename: {
+              suffix: '@mobile',
+              extname: '.jpg',
+            },
+            withoutEnlargement: false,
+          }, {
+            width: 992,
+            height: 1587.2, /** Using 1:1.6 book cover ration */
+            rename: {
+              suffix: '@tablet',
+              extname: '.jpg',
+            },
+            withoutEnlargement: false,
+          }, {
+            width: 1200,
+            height: 1920, /** Using 1:1.6 book cover ration */
+            rename: {
+              suffix: '@desktop',
+              extname: '.jpg',
+            },
+            withoutEnlargement: false,
+          }, {
+            width: 2880,
+            height: 4680, /** Using 1:1.6 book cover ration */
+            rename: {
+              suffix: '@highres',
+              extname: '.jpg',
+            },
+            withoutEnlargement: false,
+          },
+        ],
+      },
+    },
+    responsiveCovers: {
       config: {
         '*': [
           {
@@ -152,14 +245,6 @@ module.exports = {
           },
         ],
       },
-    },
-  },
-  imagemin: {
-    options: {
-      progressive: true,
-      interlaced: true,
-      svgoPlugins: [{removeViewBox: false}],
-      use: [pngquant()],
     },
   },
   photos: {
