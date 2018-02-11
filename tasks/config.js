@@ -79,7 +79,6 @@ module.exports = {
     srcCovers: src + 'images/**/cover-*.{png,gif,jpg}',
     src: [
       src + 'images/**/*.{png,gif,jpg}',
-      '!images/**/book-*.{png,gif,jpg}',
       '!images/**/cover-*.{png,gif,jpg}',
     ],
     dest: hstatic + 'images',

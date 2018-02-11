@@ -36,6 +36,39 @@ function requireCleanTask(directory) {
 }
 
 /**
+ * Photos Tasks
+ * Usage: gulp photos:clean - Clean photos from build folder
+ * Usage: gulp photos:build - Copy and minify photos to build folder
+ * Usage: gulp photos       - Clean build folder, then minify and copy photos to build folder
+*/
+gulp.task(
+  'photos:clean',
+  requireCleanTask(
+    config.photos.dest + '/**/*.{png,gif,jpg}'
+  )
+);
+gulp.task(
+  'photos:build',
+  requireTask(
+    'photos'
+  )
+);
+gulp.task(
+  'photos:gallery',
+  requireTask(
+    'hugo-gallery'
+  )
+);
+gulp.task(
+  'photos',
+    gulp.series(
+      'photos:clean',
+      'photos:build',
+      'photos:gallery'
+    )
+);
+
+/**
  * IMAGE TASKS
  * 
  * Need to use different image tasks because I'm resizing width and height for different types
@@ -77,41 +110,8 @@ gulp.task(
   'images',
   gulp.series(
     'images:clean', 'images:cleanHash',
-    'images:build', 'images:books', 'images:covers'
+    'images:build', 'images:covers', 'photos'
   )
-);
-
-/**
- * Photos Tasks
- * Usage: gulp photos:clean - Clean photos from build folder
- * Usage: gulp photos:build - Copy and minify photos to build folder
- * Usage: gulp photos       - Clean build folder, then minify and copy photos to build folder
-*/
-gulp.task(
-  'photos:clean',
-  requireCleanTask(
-    config.photos.dest + '/**/*.{png,gif,jpg}'
-  )
-);
-gulp.task(
-  'photos:build',
-  requireTask(
-    'photos'
-  )
-);
-gulp.task(
-  'photos:gallery',
-  requireTask(
-    'hugo-gallery'
-  )
-);
-gulp.task(
-  'photos',
-    gulp.series(
-      'photos:clean',
-      'photos:build',
-      'photos:gallery'
-    )
 );
 
 
