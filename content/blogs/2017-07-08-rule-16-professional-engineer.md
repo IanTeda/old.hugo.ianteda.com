@@ -6,7 +6,7 @@ except: It isn’t possible for each of us to know everything, so we rely on pro
 date: 2017-07-08
 categories: ["engineering"]
 tags: ["construction engineering", "construction management", "civil engineering", "professional"]
-series: [ "The Engineering Rule Book" ]
+series: "The Engineering Rule Book"
 cover: cover-blossom
 slug: rule-16-the-professional-engineer
 ---

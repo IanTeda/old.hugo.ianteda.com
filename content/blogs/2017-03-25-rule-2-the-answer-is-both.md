@@ -6,7 +6,7 @@ expert: When faced with what seem like mutually exclusive and opposing views, of
 date: 2017-03-25
 categories: ["engineering"]
 tags: ["construction engineering", "construction management", "civil engineering", "dichotomy"]
-series: [ "The Engineering Rule Book" ]
+series: "The Engineering Rule Book"
 cover: cover-hydepark-night
 slug: rule-2-the-answer-is-both
 ---

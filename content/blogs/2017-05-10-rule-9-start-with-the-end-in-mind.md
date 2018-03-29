@@ -6,7 +6,7 @@ excerpt: Always start with the end in mind. What is the ideal outcome? What is y
 date: 2017-05-10
 categories: ["engineering"]
 tags: ["construction engineering", "construction management", "civil engineering", "the end"]
-series: [ "The Engineering Rule Book" ]
+series: "The Engineering Rule Book"
 cover: cover-coat-hanger
 slug: rule-9-start-with-the-end-in-mind
 ---

@@ -6,7 +6,7 @@ exceprt: It does not take a four year degree to think. Just because an engineer 
 date: 2017-07-02
 categories: ["engineering"]
 tags: ["construction engineering", "construction management", "civil engineering", "think", "thinking"]
-series: [ "The Engineering Rule Book" ]
+series: "The Engineering Rule Book"
 cover: cover-ecd-scaffold
 slug: rule-15-paid-to-think
 ---

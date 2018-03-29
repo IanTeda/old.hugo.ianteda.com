@@ -6,7 +6,7 @@ excerpt: If time is the most valuable thing we have, then it makes sense to maxi
 date: 2017-05-25
 categories: ["engineering"]
 tags: ["construction engineering", "construction management", "civil engineering", "finding time", "time"]
-series: [ "The Engineering Rule Book" ]
+series: "The Engineering Rule Book"
 cover: cover-autumn-leaves
 slug: rule-11-finding-time
 ---

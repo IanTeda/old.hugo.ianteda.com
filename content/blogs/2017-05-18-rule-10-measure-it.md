@@ -6,7 +6,7 @@ excerpt: If you want people to focus on something, ask them to measure it. You c
 date: 2017-05-18
 categories: ["engineering"]
 tags: ["construction engineering", "construction management", "civil engineering", "measure"]
-series: [ "The Engineering Rule Book" ]
+series: "The Engineering Rule Book"
 cover: cover-wharf-timbers
 slug: rule-10-measure-it
 ---

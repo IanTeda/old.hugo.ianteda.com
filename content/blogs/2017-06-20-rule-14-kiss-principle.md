@@ -6,7 +6,7 @@ excerpt: It isn't hard to make things difficult, anybody can do that. Even someo
 date: 2017-06-20
 categories: ["engineering"]
 tags: ["construction engineering", "construction management", "civil engineering", "kiss", "principles"]
-series: [ "The Engineering Rule Book" ]
+series: "The Engineering Rule Book"
 cover: cover-lane-way
 slug: rule-14-the-kiss-principle
 ---

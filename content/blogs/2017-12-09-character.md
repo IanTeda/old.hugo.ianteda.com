@@ -6,7 +6,7 @@ excerpt: Be conscious of who your friends are. There character. As birds of a fe
 date: 2017-12-09
 categories: ["creativity"]
 tags: ["children", "letter", "character"]
-series: [ "Letters to my Children" ]
+series: "Letters to my Children"
 cover: cover-grany-puzzle
 slug: your-character
 ---

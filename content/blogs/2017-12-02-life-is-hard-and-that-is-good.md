@@ -6,7 +6,7 @@ excerpt: Life is not all sun shine, unicorns and rainbows. Life is hard, it is m
 date: 2017-12-02
 categories: ["creativity"]
 tags: ["children", "letter", "hard things", "hard"]
-series: [ "Letters to my Children" ]
+series: "Letters to my Children"
 cover: cover-dock
 slug: life-is-hard-and-that-is-good
 ---

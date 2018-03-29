@@ -6,7 +6,7 @@ excerpt: Be it a safety concern, poor workmanship or bad behaviour if you close 
 date: 2017-04-25
 categories: ["engineering"]
 tags: ["construction engineering", "construction management", "civil engineering", "do not walk past it"]
-series: [ "The Engineering Rule Book" ]
+series: "The Engineering Rule Book"
 cover: cover-helens-tunnel
 slug: rule-7-do-not-walk-past-it
 ---

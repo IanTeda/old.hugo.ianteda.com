@@ -6,7 +6,7 @@ excerpt: When you have the choice, always start with the hardest part first. By 
 date: 2017-06-02
 categories: ["engineering"]
 tags: ["construction engineering", "construction management", "civil engineering", "hardest", "starting"]
-series: [ "The Engineering Rule Book" ]
+series: "The Engineering Rule Book"
 cover: cover-old-rail
 slug: rule-12-hard-things
 ---

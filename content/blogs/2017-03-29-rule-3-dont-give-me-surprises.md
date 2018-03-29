@@ -6,7 +6,7 @@ expert: As a manager, I want to know about the good news and the bad news. But d
 date: 2017-03-29
 categories: ["engineering"]
 tags: ["construction engineering", "construction management", "civil engineering", "surprises"]
-series: [ "The Engineering Rule Book" ]
+series: "The Engineering Rule Book"
 cover: cover-slippery-surface
 slug: rule-3-dont-give-me-surprises
 ---

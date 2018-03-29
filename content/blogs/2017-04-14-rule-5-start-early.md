@@ -6,7 +6,7 @@ excerpt: Always try to start work early because it demonstrates that you want yo
 date: 2017-04-14
 categories: ["engineering"]
 tags: ["construction engineering", "construction management", "civil engineering", "start early", "early bird", "fruits"]
-series: [ "The Engineering Rule Book" ]
+series: "The Engineering Rule Book"
 cover: cover-center-point-morning
 slug: rule-5-start-early
 ---

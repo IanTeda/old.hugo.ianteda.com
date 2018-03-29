@@ -6,7 +6,7 @@ excerpt: Step back from the movie being played in your head and examine your hab
 date: 2017-11-25
 categories: ["creativity"]
 tags: ["children", "letter", "know yourself"]
-series: [ "Letters to my Children" ]
+series: "Letters to my Children"
 cover: cover-fire-crash
 slug: know-be-love-yourself
 ---

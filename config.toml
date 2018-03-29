@@ -52,6 +52,9 @@ publishDir =                ".build"
 [[menu.series]]
     name =                  "Letters to my Children"
     url =                   "/series/letters-to-my-children"
+[[menu.series]]
+    name =                  "The Strength Initiative"
+    url =                   "/series/the-strength-initiative/"
 
 
 [related]

@@ -6,7 +6,7 @@ excerpt: Questions are the cornerstone of communication, leadership, problem sol
 date: 2017-06-10
 categories: ["engineering"]
 tags: ["construction engineering", "construction management", "civil engineering", "questions", "good questions"]
-series: [ "The Engineering Rule Book" ]
+series: "The Engineering Rule Book"
 cover: cover-tempe-sunset
 slug: rule-13-good-questions
 ---

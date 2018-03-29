@@ -1,7 +1,7 @@
 ---
 title: The Engineering Rule Book
+description: A Series of Strength Training Posts
 date: 2017-03-24
-publishdate: 2017-03-24
 cover: cover-bw-highrise
 forward: A series of blog posts around construction engineering rules
 ---

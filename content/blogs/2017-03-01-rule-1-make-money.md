@@ -6,7 +6,7 @@ description: As a construction engineer, what is your job?
 date: 2017-03-01
 categories: [ "engineering" ]
 tags: ["construction engineering", "construction management", "job", "civil engineering"]
-series: [ "The Engineering Rule Book" ]
+series: "The Engineering Rule Book"
 cover: cover-hb-walkway
 slug: rule-1-make-money
 ---

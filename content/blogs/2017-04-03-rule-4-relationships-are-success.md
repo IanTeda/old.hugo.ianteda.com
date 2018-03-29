@@ -6,7 +6,7 @@ excerpt: From construction of the project to your career, success — however yo
 date: 2017-04-03
 categories: ["engineering"]
 tags: ["construction engineering", "construction management", "civil engineering", "relationships"]
-series: [ "The Engineering Rule Book" ]
+series: "The Engineering Rule Book"
 cover: cover-country-road
 slug: rule-4-relationships-are-success
 ---
