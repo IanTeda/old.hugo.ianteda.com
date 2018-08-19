@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ianteda.com/blogs/the-ember-electron-sql-initialisation/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ianteda.com/blogs/the-gold-refinement/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ianteda.com/blogs/the-investment/</loc>
     <lastmod>2018-03-29T00:00:00+00:00</lastmod>
   </url>
@@ -3299,7 +3309,13 @@
   
   <url>
     <loc>https://ianteda.com/</loc>
-    <lastmod>2018-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ianteda.com/series/the-ember-electron-sql-demonstration/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

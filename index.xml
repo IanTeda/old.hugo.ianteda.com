@@ -6,10 +6,31 @@
     <description>Recent content on Ian Teda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ianteda.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ember Electron SQL - The Initialisation</title>
+      <link>https://ianteda.com/blogs/the-ember-electron-sql-initialisation/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ianteda.com/blogs/the-ember-electron-sql-initialisation/</guid>
+      <description>Scaffolding Ember We are going to start by scaffold out a new Ember app in the terminal. Open up your favourite terminal and cd into your workspace. Then run the new Ember application command:
+cd ~\Workspaces\
+ember new EmberElectronSQL
+You should see Ember create a bunch of files and then fetch some npm packages in your terminal window.</description>
+    </item>
+    
+    <item>
+      <title>The Gold Refinement</title>
+      <link>https://ianteda.com/blogs/the-gold-refinement/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ianteda.com/blogs/the-gold-refinement/</guid>
+      <description>INTRODUCTION Gold has proven itself over thousands of generations as a currency that retains its value. As a result, investors look to gold as a safe haven during times of political and economic uncertainty and as a hedge against inflation, a declinning U.S. dollar and low interest rates.</description>
+    </item>
     
     <item>
       <title>The Investment Strategy</title>
