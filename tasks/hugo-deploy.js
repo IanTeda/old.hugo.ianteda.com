@@ -10,7 +10,7 @@
 module.exports = (gulp, config, argv, $) => {
   return (callback) => {
     $.shelljs.exec(
-      'hugo server --buildDrafts --buildExpired --buildFuture --cleanDestinationDir --disableFastRender'
+      'hugo --cleanDestinationDir --disableFastRender'
     );
     callback();
   };

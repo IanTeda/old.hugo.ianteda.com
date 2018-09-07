@@ -1,11 +1,11 @@
 // Import Gulp module
 import gulp from 'gulp';
 // Command line (CLI) argument
-var argv = require('./tasks/yargs');
+const argv = require('./tasks/yargs');
 // Configuration file for gulp tasks
 const config = require('./tasks/config');
 // Lazy load plugins, save on var declaration
-var plugins = require('gulp-load-plugins')(config.gulpLoadPlugins.options);
+const plugins = require('gulp-load-plugins')(config.gulpLoadPlugins.options);
 
 /**
  * Require Gulp Task
@@ -36,41 +36,8 @@ function requireCleanTask(directory) {
 }
 
 /**
- * Photos Tasks
- * Usage: gulp photos:clean - Clean photos from build folder
- * Usage: gulp photos:build - Copy and minify photos to build folder
- * Usage: gulp photos       - Clean build folder, then minify and copy photos to build folder
-*/
-gulp.task(
-  'photos:clean',
-  requireCleanTask(
-    config.photos.dest + '/**/*.{png,gif,jpg}'
-  )
-);
-gulp.task(
-  'photos:build',
-  requireTask(
-    'photos'
-  )
-);
-gulp.task(
-  'photos:gallery',
-  requireTask(
-    'hugo-gallery'
-  )
-);
-gulp.task(
-  'photos',
-    gulp.series(
-      'photos:clean',
-      'photos:build',
-      'photos:gallery'
-    )
-);
-
-/**
  * IMAGE TASKS
- * 
+ *
  * Need to use different image tasks because I'm resizing width and height for different types
  * Usage: gulp images:clean - Clean images from build folder
  * Usage: gulp images:build - Copy and minify images to build folder
@@ -110,7 +77,7 @@ gulp.task(
   'images',
   gulp.series(
     'images:clean', 'images:cleanHash',
-    'images:build', 'images:covers', 'photos'
+    'images:build', 'images:covers'
   )
 );
 
@@ -159,6 +126,12 @@ gulp.task(
   )
 );
 gulp.task(
+  'hugo:deploy',
+  requireTask(
+    'hugo-deploy'
+  )
+);
+gulp.task(
   'hugo',
   gulp.series(
     'hugo:clean',
@@ -175,6 +148,18 @@ gulp.task(
   requireTask('gh-pages')
 );
 
-gulp.task('default', gulp.series('hugo', 'maps:clean', 'html:build'));
+gulp.task('default',
+  gulp.series('hugo',
+    'maps:clean',
+    'html:build'
+  )
+);
 
-gulp.task('deploy', gulp.series('default', 'gh-pages'));
+gulp.task('deploy',
+  gulp.series(
+    'hugo:deploy',
+    'maps:clean',
+    'html:build',
+    'gh-pages'
+  )
+);
